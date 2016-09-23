@@ -273,5 +273,10 @@
   "FAILED_TO_SAVE_SCHEDULE": "Failed to save schedule",
   "DELETE_SCHEDULE": "Delete schedule",
   "SCHEDULE_NAME": "Schedule name",
-  "CONFIGURATION_HISTORY": "Configuration history"
+  "CONFIGURATION_HISTORY": "Configuration history",
+  "LANGUAGE_SETTINGS": "Language settings",
+  "LOCALE": "Locale",
+  "INSTALL": "Install",
+  "INSTALLED": "Installed",
+  "UPDATE_INSTALLED_LANGUAGES": "Update installed languages"
 }
