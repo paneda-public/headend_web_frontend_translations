@@ -129,7 +129,7 @@
     "SOURCE_TYPE": "Källtyp",
     "IN_SUBCHANNEL_ID": "In subkanals ID",
     "LINKED_SUBCHANNEL_ID": "Länkat subkanals ID",
-    "H_IN_SUBCHANNEL_ID" : "subkanals ID"t för den ström du vill extrahera.",
+    "H_IN_SUBCHANNEL_ID" : "subkanals ID't för den ström du vill extrahera.",
     "H_LINKED_SUBCHANNEL_ID": "Den subkanal som du vill länka denna tjänst till. Subkanalen måste existera i konfigurationen",
     "H_ETI_SOURCE": "Källan som representerar den ETI ström du vill extrahera en subkanal från. Utöver detta krävs en statisk konvertering från tex EDI.",
     "CLUSTER_CONFIG": "Kluster konfiguration",
@@ -273,5 +273,5 @@
     "FAILED_TO_SAVE_SCHEDULE": "Misslyckades att spara schema",
     "DELETE_SCHEDULE": "Radera schema",
     "SCHEDULE_NAME": "Schemanamn",
-    "CONFIGURATION_HISTORY": "Konfigurationshistorik"[
+    "CONFIGURATION_HISTORY": "Konfigurationshistorik"
 }
