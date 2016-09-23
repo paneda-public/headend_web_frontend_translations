@@ -1,5 +1,6 @@
 {
   "WELCOME": "Välkommen till ditt PANEDA headend system",
+  "PROGRAM_LANGUAGE": "Programspråk",
   "WELCOME_SHORT": "PANEDA headend system",
   "START_LOG_IN": "Vänligen starta med att logga in",
   "ENTER_VALID_EMAIL": "Ange en korrekt e-postadress",
@@ -63,7 +64,7 @@
   "PAD_RATE": "Bittakt för PAD",
   "AUTO_GEN_FIG013": "Bildspel inkluderat i PAD",
   "H_AUTO_GEN_FIG013": "Om bildspel är inkluderat i PAD så måste fig 0/13 indikera detta för att mottagarna ska kunna avkoda bilderna. Slå på växeln för att inkludera en automatgenerad fig 0/13.",
-  "LANGUAGE": "Programmets språk",
+  "LANGUAGE": "Språk",
   "PTY": "Programmets genre",
   "H_LANGUAGE": "Programmets språk. Ställ in Unknown om du inte kan specificera. Tillgängliga språk enligt ETSI TS 101 756 V1.6.1.",
   "H_PTY": "Programmets innehållstyp eller genre. Ställ in no programme type om du inte kan specificera. Tillgångliga typer enligt ETSI TS 101 756 V1.6.1.",

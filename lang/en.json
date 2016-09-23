@@ -1,5 +1,6 @@
 {
   "WELCOME": "Welcome to your PANEDA headend system",
+  "PROGRAM_LANGUAGE": "Program language",
   "WELCOME_SHORT": "PANEDA headend system",
   "START_LOG_IN": "Please start by logging in",
   "ENTER_VALID_EMAIL": "Please enter a valid email address",
@@ -63,7 +64,7 @@
   "PAD_RATE": "PAD bitrate",
   "AUTO_GEN_FIG013": "Slideshow included in PAD",
   "H_AUTO_GEN_FIG013": "If slideshow is included in PAD fig 0/13 must indicate this in order to enable the receivers to decode the images. Tick the switch to get an auto generated fig 0/13.",
-  "LANGUAGE": "Program language",
+  "LANGUAGE": "Language",
   "PTY": "Program type",
   "H_LANGUAGE": "The language of the program. Set to Unknown if not specified. Available languages according to ETSI TS 101 756 V1.6.1.",
   "H_PTY": "The content type of the program. Set to no programme type if not specified. Available programme types according to ETSI TS 101 756 V1.6.1.",
