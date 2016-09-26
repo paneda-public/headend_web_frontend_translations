@@ -242,6 +242,7 @@
   "API_TOKENS" : "API tokens",
   "NEVER" : "Never",
   "CREATE_API_TOKEN" : "Create API token",
+  "ADD_TOKEN": "Add token",
   "H_API_TOKEN_NEVER_SHOWN_AGAIN" : "Copy your token now. It will never be shown again.",
   "H_API_TOKEN_USAGE" : "Use your token in the Authorization header with type Bearer.",
   "TOKEN_CREATED" : "Token created",
