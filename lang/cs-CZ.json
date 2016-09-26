@@ -1,7 +1,7 @@
 {
-  "WELCOME" : "Vítejte ve své zprostředkujících systému PANEDA",
-  "PROGRAM_LANGUAGE" : "Jazykový program",
-  "WELCOME_SHORT" : "DAB Headend systém PANEDA",
-  "START_LOG_IN" : "Prosím začít přihlášením",
-  "ENTER_VALID_EMAIL" : "Prosím zadejte platnou emailovou adresu"
+  "WELCOME": "Vítejte ve své zprostředkujících systému PANEDA",
+  "PROGRAM_LANGUAGE": "Jazykový program",
+  "WELCOME_SHORT": "DAB Headend systém PANEDA",
+  "START_LOG_IN": "Prosím začít přihlášením",
+  "ENTER_VALID_EMAIL": "Prosím zadejte platnou emailovou adresu"
 }
