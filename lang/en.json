@@ -39,6 +39,7 @@
   "HISTORY_VIEW" : "Configuration history",
   "CONFIG_SYNTAX_ERROR" : "Invalid configuration syntax. Try fixing the problem in the expert editor.",
   "INVALID_CONFIGURATION": "Invalid configuration:",
+  "CAPACITY_OVERBOOKED": "Capacity overbooked. Used: {{usedCu}} CU. Allowed capacity: {{cuCapacity}} CU.",
   "NO_CONFIG_SELECTED" : "No configuration selected. Please select or create a configuration to edit.",
   "DUPLICATED_DATA" : "Duplicated data found: ",
   "SERVICE_LABEL" : "Service label",
