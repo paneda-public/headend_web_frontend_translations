@@ -1,5 +1,7 @@
 {
   "WELCOME": "Welcome to your PANEDA headend system",
+  "SUBCHANNEL_ID_NOT_ALLOWED": "Subchannel ID {{usedSubchannelId}} is not allowed according to contract.",
+  "SERVICE_ID_NOT_ALLOWED": "Service ID {{usedServiceId}} is not allowed according to contract.",
   "PROGRAM_LANGUAGE": "Program language",
   "WELCOME_SHORT": "PANEDA headend system",
   "START_LOG_IN": "Please start by logging in",
@@ -38,7 +40,7 @@
   "ADVANCED_VIEW": "Expert mode",
   "HISTORY_VIEW": "Configuration history",
   "CONFIG_SYNTAX_ERROR": "Invalid configuration syntax. Try fixing the problem in the expert editor.",
-  "INVALID_CONFIGURATION": "Invalid configuration:",
+  "INVALID_CONFIGURATION": "Invalid configuration: {{error}}.",
   "CAPACITY_OVERBOOKED": "Capacity overbooked. Used: {{usedCu}} CU. Allowed capacity: {{cuCapacity}} CU.",
   "NO_CONFIG_SELECTED": "No configuration selected. Please select or create a configuration to edit.",
   "DUPLICATED_DATA": "Duplicated data found: ",

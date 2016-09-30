@@ -1,5 +1,7 @@
 {
   "WELCOME": "Välkommen till ditt PANEDA headend system",
+  "SUBCHANNEL_ID_NOT_ALLOWED": "Subkanals-id {{usedSubchannelId}} är inte tillåten enligt kontraktet.",
+  "SERVICE_ID_NOT_ALLOWED": "Tjänste-id {{usedServiceId}} är inte tillåten enligt kontraktet.",
   "PROGRAM_LANGUAGE": "Programspråk",
   "WELCOME_SHORT": "PANEDA headend system",
   "START_LOG_IN": "Vänligen starta med att logga in",
@@ -38,7 +40,7 @@
   "ADVANCED_VIEW": "Expertläge",
   "HISTORY_VIEW": "Konfigurationshistorik",
   "CONFIG_SYNTAX_ERROR": "Ogiltig konfigurationssyntax. Försök fixa problemet i expert läget.",
-  "INVALID_CONFIGURATION": "Ogiltig konfiguration:",
+  "INVALID_CONFIGURATION": "Ogiltig konfiguration: {{error}}.",
   "CAPACITY_OVERBOOKED": "Kapacitet överbokad. Använt: {{usedCu}} CU. Tillgänglig kapacitet: {{cuCapacity}} CU.",
   "NO_CONFIG_SELECTED": "Ingen konfiguration vald. Välj eller skapa en konfiguration att editera.",
   "DUPLICATED_DATA": "Duplicerad data detekterad: ",

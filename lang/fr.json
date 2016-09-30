@@ -9,7 +9,7 @@
   "EMAIL": "Adresse e-mail",
   "PASSWORD": "Mot de passe",
   "INVALID_CREDENTIALS": "Nom d'utilisateur et / ou mot de passe incorrect. Réessayer.",
-  "DASHBOARD": "Tableau de bord",
+  "DASHBOARD": "Aperçu",
   "SERVICE_CONFIGURATION": "La configuration de service",
   "SYSTEM_CONFIGURATION": "Configuration du système",
   "CONFIGURATIONS": "Configurations",
