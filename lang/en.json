@@ -283,5 +283,14 @@
   "LOCALE": "Locale",
   "INSTALL": "Install",
   "INSTALLED": "Installed",
-  "UPDATE_INSTALLED_LANGUAGES": "Update installed languages"
+  "UPDATE_INSTALLED_LANGUAGES": "Update installed languages",
+  "INPUT_SOURCES": "Input sources",
+  "PAD_SOURCES": "PAD sources",
+  "AUDIO_INPUTS": "Audio inputs",
+  "PAD_INPUTS": "PAD inputs",
+  "LAST_MODIFIED": "Last modified",
+  "EDIT": "Edit",
+  "SAVE": "Save",
+  "DLS_UPDATED": "DLS updated",
+  "FAILED_TO_UPDATE_DLS": "Failed to update DLS"
 }
