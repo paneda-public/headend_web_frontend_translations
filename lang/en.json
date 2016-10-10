@@ -308,5 +308,6 @@
   "FAILED_TO_DELETE_IMAGE": "Failed to delete image",
   "UPDATE_DLS_SETTINGS": "Update DLS settings",
   "DLS_SETTINGS_UPDATED": "DLS settings updated",
-  "FAILED_TO_UPDATE_DLS_SETTINGS": "failed to update DLS settings"
+  "FAILED_TO_UPDATE_DLS_SETTINGS": "failed to update DLS settings",
+  "PAD_SOURCE_NOT_EDITABLE": "The selected PAD source cannot be edited"
 }
