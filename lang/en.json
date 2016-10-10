@@ -297,5 +297,14 @@
   "DRAG_DROP_OR_PASTE_IMAGES_HERE": "Drag and drop or paste images here to upload",
   "DRAG_AND_DROP_IMAGES_NOT_SUPPORTED": "Drag and drop images not supported. Please use a modern browser",
   "IMAGES_UPLOADED_OK": "Image(s) uploaded",
-  "FAILED_TO_UPLOAD_IMAGES": "Failed to upload image(s)"
+  "FAILED_TO_UPLOAD_IMAGES": "Failed to upload image(s)",
+  "DLS_SETTINGS":  "DLS",
+  "NO_DLS":  "No DLS",
+  "FROM_TEXT_FILE": "From text file",
+  "FROM_AUDIO_METADATA": "From audio metadata",
+  "ENABLE_DELETE_IMAGE": "Enable delete image button",
+  "DELETE_IMAGE": "Delete image",
+  "IMAGE_DELETED": "Image deleted",
+  "FAILED_TO_DELETE_IMAGE": "Failed to delete image",
+  "UPDATE_DLS_SETTINGS": "Update DLS settings"
 }
