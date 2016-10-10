@@ -299,12 +299,14 @@
   "IMAGES_UPLOADED_OK": "Image(s) uploaded",
   "FAILED_TO_UPLOAD_IMAGES": "Failed to upload image(s)",
   "DLS_SETTINGS":  "DLS",
-  "NO_DLS":  "No DLS",
+  "NO_DLS":  "None",
   "FROM_TEXT_FILE": "From text file",
   "FROM_AUDIO_METADATA": "From audio metadata",
   "ENABLE_DELETE_IMAGE": "Enable delete image button",
   "DELETE_IMAGE": "Delete image",
   "IMAGE_DELETED": "Image deleted",
   "FAILED_TO_DELETE_IMAGE": "Failed to delete image",
-  "UPDATE_DLS_SETTINGS": "Update DLS settings"
+  "UPDATE_DLS_SETTINGS": "Update DLS settings",
+  "DLS_SETTINGS_UPDATED": "DLS settings updated",
+  "FAILED_TO_UPDATE_DLS_SETTINGS": "failed to update DLS settings"
 }
