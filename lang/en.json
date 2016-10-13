@@ -314,5 +314,18 @@
   "INVALID_SOURCE_NAME": "Invalid source name. Allowed characters: {{allowedChars}}",
   "SOURCE_NAME": "Source name",
   "DELETE_PAD_SOURCE": "Delete PAD source",
-  "AUDIO_SOURCES": "Audio sources"
+  "AUDIO_SOURCES": "Audio sources",
+  "ADD_AUDIO_SOURCE": "Add audio source",
+  "UPDATE_AUDIO_SOURCE": "Update audio source",
+  "DELETE_AUDIO_SOURCE": "Delete audio source",
+  "AUDIO_SOURCE_UPDATED": "Audio source updated",
+  "FAILED_TO_UPDATE_AUDIO_SOURCE": "Failed to update audio source",
+  "WEB_STREAM": "Web stream",
+  "AES_3": "AES3 (AES/EBU)",
+  "AES_67": "AES67 (UDP RTP, livewire)",
+  "HTTP_PROXY": "HTTP proxy",
+  "MULTICAST_GROUP": "Multicast group",
+  "PORT": "Port",
+  "INPUT_INTERFACE": "Input interface",
+  "CHANNEL_ID": "Channel ID"
 }
