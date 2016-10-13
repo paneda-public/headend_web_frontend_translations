@@ -309,5 +309,10 @@
   "UPDATE_DLS_SETTINGS": "Update DLS settings",
   "DLS_SETTINGS_UPDATED": "DLS settings updated",
   "FAILED_TO_UPDATE_DLS_SETTINGS": "failed to update DLS settings",
-  "PAD_SOURCE_NOT_EDITABLE": "The selected PAD source cannot be edited"
+  "PAD_SOURCE_NOT_EDITABLE": "The selected PAD source cannot be edited",
+  "ADD_PAD_SOURCE" : "Add new pad source",
+  "INVALID_SOURCE_NAME": "Invalid source name. Allowed characters: {{allowedChars}}",
+  "SOURCE_NAME": "Source name",
+  "DELETE_PAD_SOURCE": "Delete PAD source",
+  "AUDIO_SOURCES": "Audio sources"
 }
