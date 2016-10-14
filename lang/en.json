@@ -328,5 +328,7 @@
   "PORT": "Port",
   "INPUT_INTERFACE": "Input interface",
   "CHANNEL_ID": "Channel ID",
-  "INPUT_DEVICE": "Input device"
+  "INPUT_DEVICE": "Input device",
+  "VOLUME": "Volume",
+  "H_VOLUME": "Output volume in percent of input. 100% = no change. Use with great care as clipping may occur."
 }
