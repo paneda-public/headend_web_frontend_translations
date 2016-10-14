@@ -327,5 +327,6 @@
   "MULTICAST_GROUP": "Multicast group",
   "PORT": "Port",
   "INPUT_INTERFACE": "Input interface",
-  "CHANNEL_ID": "Channel ID"
+  "CHANNEL_ID": "Channel ID",
+  "INPUT_DEVICE": "Input device"
 }
