@@ -330,5 +330,9 @@
   "CHANNEL_ID": "Channel ID",
   "INPUT_DEVICE": "Input device",
   "VOLUME": "Volume",
-  "H_VOLUME": "Output volume in percent of input. 100% = no change. Use with great care as clipping may occur."
+  "H_VOLUME": "Output volume in percent of input. 100% = no change. Use with great care as clipping may occur.",
+  "DLS_POST_URL": "DLS post url:",
+  "SLS_POST_URL": "SLS post url:",
+  "COPY_TO_CLIPBOARD": "Copy to clipboard",
+  "COPIED_TO_CLIPBOARD": "Copied to clipboard"
 }
