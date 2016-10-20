@@ -335,5 +335,10 @@
   "SLS_POST_URL": "SLS post url",
   "COPY_TO_CLIPBOARD": "Copy to clipboard",
   "COPIED_TO_CLIPBOARD": "Copied to clipboard",
-  "TOKEN_VALUE" : "Token value"
+  "TOKEN_VALUE" : "Token value",
+  "H_SIGNAL_ANNOUNCEMENT_SUPPORT": "Check this box to signal announcement support for the service. (Fig 0/18)",
+  "H_ANNOUNCEMENT_CLUSTER": "The announcement group(s) that can interrupt this service",
+  "ANNOUNCEMENT_CLUSTER": "Announcement cluster(s)",
+  "H_ANNOUNCEMENT_TYPE": "The type(s) of announcements that can interrupt this service. The alarm type is always activated.",
+  "ANNOUNCEMENT_TYPE": "Announcement type(s)"
 }
