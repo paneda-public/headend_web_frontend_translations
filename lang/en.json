@@ -352,5 +352,9 @@
   "DURATION": "Duration",
   "NEW": "New",
   "YES": "Yes",
-  "NO": "No"
+  "NO": "No",
+  "NEW_ANNOUNCEMENT_STARTED": "New announcement started",
+  "FAILED_TO_START_NEW_ANNOUNCEMENT": "Failed to start new announcement",
+  "ANNOUNCEMENT_STOPPED": "Announcement stopped",
+  "FAILED_TO_STOP_ANNOUNCEMENT": "Failed to stop announcement"
 }
