@@ -339,7 +339,18 @@
   "H_SIGNAL_ANNOUNCEMENT_SUPPORT": "Check this box to signal announcement support for the service. (Fig 0/18)",
   "SIGNAL_ANNOUNCEMENT_SUPPORT": "Signal announcement support",
   "H_ANNOUNCEMENT_CLUSTER": "The announcement cluster(s) or group(s) that can interrupt this service",
-  "ANNOUNCEMENT_CLUSTER": "Announcement cluster(s)",
+  "ANNOUNCEMENT_CLUSTER(s)": "Announcement cluster(s)",
+  "ANNOUNCEMENT_CLUSTER": "Announcement cluster",
   "H_ANNOUNCEMENT_TYPE": "The type(s) of announcements that can interrupt this service. The alarm type is always activated.",
-  "ANNOUNCEMENT_TYPE": "Announcement type(s)"
+  "ANNOUNCEMENT_TYPE(s)": "Announcement type(s)",
+  "ANNOUNCEMENT_TYPE": "Announcement type",
+  "ANNOUNCEMENT": "Announcement",
+  "START_ANNOUNCEMENT": "Start announcement",
+  "STOP_ANNOUNCEMENT": "Stop announcement",
+  "ACTIVE_ANNOUNCEMENTS": "Active announcements",
+  "CREATE_NEW_ANNOUNCEMENT": "Create new announcement",
+  "DURATION": "Duration",
+  "NEW": "New",
+  "YES": "Yes",
+  "NO": "No"
 }
