@@ -356,5 +356,6 @@
   "NEW_ANNOUNCEMENT_STARTED": "New announcement started",
   "FAILED_TO_START_NEW_ANNOUNCEMENT": "Failed to start new announcement",
   "ANNOUNCEMENT_STOPPED": "Announcement stopped",
-  "FAILED_TO_STOP_ANNOUNCEMENT": "Failed to stop announcement"
+  "FAILED_TO_STOP_ANNOUNCEMENT": "Failed to stop announcement",
+  "NO_ACTIVE_ANNOUNCEMENT": "No active announcement"
 }
