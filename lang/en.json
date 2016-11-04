@@ -362,5 +362,6 @@
   "USE_TIST": "Use TIST",
   "ENABLED": "Enabled",
   "DISABLED": "Disabled",
-  "INSTALLED_LANGUAGES": "Installed languages"
+  "INSTALLED_LANGUAGES": "Installed languages",
+  "NEW_VERSION_RELOAD_NEEDED": "A new GUI version has been installed. Please reload the browser to use it."
 }
