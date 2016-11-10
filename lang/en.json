@@ -268,6 +268,7 @@
   "SAVE_SCHEDULE": "Save schedule",
   "REMOVE_EVENT": "Remove event",
   "RECURRENT_SCHEDULE": "Recurring schedule",
+  "CURRENT_SCHEDULE": "Current schedule",
   "SINGLE_SCHEDULE": "Single schedule",
   "CREATE_SCHEDULE": "Create schedule",
   "ENTER_DATE": "Enter date",
@@ -363,5 +364,6 @@
   "ENABLED": "Enabled",
   "DISABLED": "Disabled",
   "INSTALLED_LANGUAGES": "Installed languages",
-  "NEW_VERSION_RELOAD_NEEDED": "A new GUI version has been installed. Please reload the browser to use it."
+  "NEW_VERSION_RELOAD_NEEDED": "A new GUI version has been installed. Please reload the browser to use it.",
+  "RELOAD": "Reload"
 }
