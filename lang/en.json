@@ -371,5 +371,5 @@
   "CANDIDATE_IS_ACTIVE": "Candidate is active",
   "CANDIDATE_IS_PASSIVE": "Candidate is passive",
   "CANDIDATE_IS_NOT_REACABLE": "Candidate is not reachable",
-  "SYSTEM_IS_PASSIVE": "System is passive"
+  "SYSTEM_IS_PASSIVE": "System is passive. Action requires an active system"
 }
