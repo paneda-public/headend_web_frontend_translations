@@ -371,5 +371,11 @@
   "CANDIDATE_IS_ACTIVE": "Candidate is active",
   "CANDIDATE_IS_PASSIVE": "Candidate is passive",
   "CANDIDATE_IS_NOT_REACABLE": "Candidate is not reachable",
-  "SYSTEM_IS_PASSIVE": "System is passive. Action requires an active system"
+  "SYSTEM_IS_PASSIVE": "System is passive. Action requires an active system",
+  "SILENCE_DETECT_TIME_SPAN": "Silence detect time span",
+  "SILENCE_DETECT_THRESHOLD": "Silence detect threshold",
+  "COMPENSATE_FOR_DRIFT": "Compensate for drift",
+  "H_SILENCE_DETECT_TIME_SPAN": "The minimum time the audio level must be below the threshold in order to trigger the silce alarm.",
+  "H_SILENCE_DETECT_THRESHOLD": "The maximum level allowed of the incoming audio in order to trigger the silence alarm.",
+  "H_COMPENSATE_FOR_DRIFT": "If the input audio is not syncronized to the correct clock, periodic glitches will occur. When checked, the drift is compensated for using a high quality resampler. This ensures a continuous stream without glitches."
 }
