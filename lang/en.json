@@ -377,5 +377,9 @@
   "COMPENSATE_FOR_DRIFT": "Compensate for drift",
   "H_SILENCE_DETECT_TIME_SPAN": "The minimum time the audio level must be below the threshold in order to trigger the silece alarm.",
   "H_SILENCE_DETECT_THRESHOLD": "The maximum level allowed of the incoming audio in order to trigger the silence alarm.",
-  "H_COMPENSATE_FOR_DRIFT": "If the input audio is not syncronized to the correct clock, periodic glitches will occur. When checked, the drift is compensated for using a high quality resampler. This ensures a continuous stream without glitches."
+  "H_COMPENSATE_FOR_DRIFT": "If the input audio is not syncronized to the correct clock, periodic glitches will occur. When checked, the drift is compensated for using a high quality resampler. This ensures a continuous stream without glitches.",
+  "DATA_SERVICES": "Data services",
+  "NO_AUDIO_SERVICES_FOUND_IN_CONFIGURATION": "No audio services found in configuration",
+  "NO_DATA_SERVICES_FOUND_IN_CONFIGURATION": "No data services found in configuration",
+  "H_STATUS_CHANNELS_DATA_INPUT": "Indicates that the packet encoder receives data"
 }
