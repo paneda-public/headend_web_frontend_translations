@@ -381,5 +381,14 @@
   "DATA_SERVICES": "Data services",
   "NO_AUDIO_SERVICES_FOUND_IN_CONFIGURATION": "No audio services found in configuration",
   "NO_DATA_SERVICES_FOUND_IN_CONFIGURATION": "No data services found in configuration",
-  "H_STATUS_CHANNELS_DATA_INPUT": "Indicates that the packet encoder receives data"
+  "H_STATUS_CHANNELS_DATA_INPUT": "Indicates that the packet encoder receives data",
+  "ADD_DATA_SOURCE": "Add data source",
+  "DELETE_DATA_SOURCE": "Delete data source",
+  "DATA_SOURCE_UPDATED": "Data source successfully updated",
+  "FAILED_TO_UPDATE_DATA_SOURCE": "Failed to update data surce",
+  "DATA_INPUTS": "Data inputs",
+  "DATA_SOURCES": "Data sources",
+  "UNICAST": "Unicast",
+  "MULTICAST": "Multicast",
+  "UPDATE_DATA_SOURCE": "Update data source"
 }
