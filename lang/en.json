@@ -54,7 +54,7 @@
   "H_SUBCHANNEL_ID": "The identifier of the channel in the ensemble that carries the data for this service.",
   "H_SERVICE_ID": "The identifier for this service.",
   "SERVICE_ID": "Service ID",
-  "BITRATE": "Audio bitrate",
+  "BITRATE": "Bitrate",
   "H_BITRATE": "The bitrate for this service before any EEP/UEP error correction is applied.",
   "H_SBR": "Spectral band replication. Improves percieved sound quality for low to medium bitrates.",
   "H_AUDIO_MODE_AAC": "Requested audio mode. Parametric stereo improves percieved sound quality for low bitrates. Requires SBR.",
@@ -392,5 +392,11 @@
   "DATA_SOURCES": "Data sources",
   "UNICAST": "Unicast",
   "MULTICAST": "Multicast",
-  "UPDATE_DATA_SOURCE": "Update data source"
+  "UPDATE_DATA_SOURCE": "Update data source",
+  "DATA_SOURCE": "Data source",
+  "H_DATA_SOURCE": "The source of the data. One source can be used in several services if desired.",
+  "DATA_TYPE": "Data type",
+  "H_DATA_TYPE": "The type of data sent. See Data Service Component Type (DSCTy) in ETSI TS 101 756 (Registered Tables)",
+  "USER_APPLICATION": "User application type",
+  "H_USER_APPLICATION": "The user application type of the data. See User Application type (UAtype) in ETSI TS 101 756 (Registered Tables)"
 }
