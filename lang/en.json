@@ -414,5 +414,7 @@
   "RF": "RF",
   "DAB_CHANNEL": "DAB channel",
   "PACKET_ADDRESS": "Packet address",
-  "H_PACKET_ADDRESS": "The address of the packets carrying the data in the subchannel."
+  "H_PACKET_ADDRESS": "The address of the packets carrying the data in the subchannel.",
+  "H_STATUS_CHANNELS_ETI_INPUT": "Indicates that valid ETI data is received.",
+  "H_STATUS_CHANNELS_SUBCHANNEL_DATA": "Indicates that the selected subchannel is found in the ETI data."
 }
