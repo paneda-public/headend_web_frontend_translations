@@ -412,5 +412,7 @@
   "FLYTTA_ETI": "flyttaEti",
   "CONNECT_ENDPOINT": "Connect endpoint",
   "RF": "RF",
-  "DAB_CHANNEL": "DAB channel"
+  "DAB_CHANNEL": "DAB channel",
+  "PACKET_ADDRESS": "Packet address",
+  "H_PACKET_ADDRESS": "The address of the packets carrying the data in the subchannel."
 }
