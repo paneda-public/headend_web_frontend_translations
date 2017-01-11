@@ -398,5 +398,19 @@
   "DATA_TYPE": "Data type",
   "H_DATA_TYPE": "The type of data sent. See Data Service Component Type (DSCTy) in ETSI TS 101 756 (Registered Tables)",
   "USER_APPLICATION": "User application type",
-  "H_USER_APPLICATION": "The user application type of the data. See User Application type (UAtype) in ETSI TS 101 756 (Registered Tables)"
+  "H_USER_APPLICATION": "The user application type of the data. See User Application type (UAtype) in ETSI TS 101 756 (Registered Tables)",
+  "ADD_ETI_SOURCE": "Add eti source",
+  "DELETE_ETI_SOURCE": "Delete eti source",
+  "ETI_SOURCE_UPDATED": "Successfully updated ETI source",
+  "FAILED_TO_UPDATE_ETI_SOURCE": "Failed to update ETI source",
+  "ETI_INPUTS": "ETI inputs",
+  "ETI_SOURCES": "ETI sources",
+  "EDI": "EDI",
+  "UPDATE_ETI_SOURCE": "Update ETI source",
+  "USE_RESEND": "Use resend",
+  "RESEND_ADDR": "Resend address",
+  "FLYTTA_ETI": "flyttaEti",
+  "CONNECT_ENDPOINT": "Connect endpoint",
+  "RF": "RF",
+  "DAB_CHANNEL": "DAB channel"
 }
