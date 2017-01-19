@@ -416,5 +416,13 @@
   "PACKET_ADDRESS": "Packet address",
   "H_PACKET_ADDRESS": "The address of the packets carrying the data in the subchannel.",
   "H_STATUS_CHANNELS_ETI_INPUT": "Indicates that valid ETI data is received.",
-  "H_STATUS_CHANNELS_SUBCHANNEL_DATA": "Indicates that the selected subchannel is found in the ETI data."
+  "H_STATUS_CHANNELS_SUBCHANNEL_DATA": "Indicates that the selected subchannel is found in the ETI data.",
+  "REMOTE_ACCESS": "Remote access",
+  "NO_REMOTE_TUNNELS_EXIST": "No remote tunnels esablished",
+  "OPEN_TUNNELS": "Open remote tunnels",
+  "REMOTE_TUNNELS_OPENED": "Successfully opened remote tunnels",
+  "FAILED_TO_OPEN_REMOTE_TUNNELS": "Failed to open remote tunnels",
+  "CLOSE_TUNNELS": "Close remote tunnels",
+  "REMOTE_TUNNELS_CLOSED": "Successfully closed remote tunnels",
+  "FAILED_TO_CLOSE_REMOTE_TUNNELS": "Failed to close remote tunnels"
 }
