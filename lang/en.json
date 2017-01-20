@@ -426,5 +426,6 @@
   "REMOTE_TUNNELS_CLOSED": "Successfully closed remote tunnels",
   "FAILED_TO_CLOSE_REMOTE_TUNNELS": "Failed to close remote tunnels",
   "CREATED": "Created",
-  "CLOSES_IN": "Automatically closes in"
+  "CLOSES_IN": "Automatically closes in",
+  "ACTIVE_TUNNELS": "Active tunnels"
 }
