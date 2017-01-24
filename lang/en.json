@@ -427,5 +427,16 @@
   "FAILED_TO_CLOSE_REMOTE_TUNNELS": "Failed to close remote tunnels",
   "CREATED": "Created",
   "AUTOMATICALLY_CLOSES": "Automatically closes",
-  "ACTIVE_TUNNELS": "Active tunnels"
+  "ACTIVE_TUNNELS": "Active tunnels",
+  "LAUNCH_AT": "Lanuch at",
+  "ADD_ENCODER_POOL": "Add encoder pool",
+  "ENCODER_POOLS": "Encoder pools",
+  "ENCODER_POOL_UPDATED": "Encoder pool updated",
+  "FAILED_TO_UPDATE_ENCODER_POOL": "Failed to update encoder pool",
+  "DELETE_ENCODER_POOL": "Delete encoder pool",
+  "UPDATE_ENCODER_POOL": "Update encoder pool",
+  "APPKEEPER_ENDPOINT": "Appkeeper endpoint",
+  "MUX_DATA_ENDPOINT": "Mux data endpoint",
+  "LOGGA_BROKER_ENDPOINT": "Log data endpoint",
+  "AUTO_GENERATE": "Auto generate"
 }
