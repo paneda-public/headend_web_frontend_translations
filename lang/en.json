@@ -438,5 +438,10 @@
   "APPKEEPER_ENDPOINT": "Appkeeper endpoint",
   "MUX_DATA_ENDPOINT": "Mux data endpoint",
   "LOGGA_BROKER_ENDPOINT": "Log data endpoint",
-  "AUTO_GENERATE": "Auto generate"
+  "AUTO_GENERATE": "Auto generate",
+  "DEVICES": "Devices",
+  "INFO": "Info",
+  "UPDATE_PROFILE": "update profile",
+  "DEVICE_PROFILE_UPDATED": "Device profile updated",
+  "FAILED_TO_UPDATE_DEVICE_PROFILE": "Failed to update device profile"
 }
