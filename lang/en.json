@@ -176,6 +176,7 @@
   "SUCCESS_UPDATE_NTP": "Successfully updated NTP servers",
   "FAILED_UPDATE_NTP": "Failed to update NTP servers",
   "SERVER_SETTINGS": "Server settings",
+  "NTP_SERVER_SETTINGS": "NTP server settings",
   "SUCCESS_UPDATE_IP": "Successfully updated IP settings",
   "FAILED_UPDATE_IP": "Failed to update IP settings",
   "INTERFACE": "Interface",
