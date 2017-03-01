@@ -444,5 +444,7 @@
   "INFO": "Info",
   "UPDATE_PROFILE": "update profile",
   "DEVICE_PROFILE_UPDATED": "Device profile updated",
-  "FAILED_TO_UPDATE_DEVICE_PROFILE": "Failed to update device profile"
+  "FAILED_TO_UPDATE_DEVICE_PROFILE": "Failed to update device profile",
+  "OVERVIEW": "Overview",
+  "KEY": "Key"
 }
