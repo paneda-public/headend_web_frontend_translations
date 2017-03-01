@@ -446,5 +446,9 @@
   "DEVICE_PROFILE_UPDATED": "Device profile updated",
   "FAILED_TO_UPDATE_DEVICE_PROFILE": "Failed to update device profile",
   "OVERVIEW": "Overview",
-  "KEY": "Key"
+  "KEY": "Key",
+  "SERIAL_NUMBER": "Serial number",
+  "HOSTNAME": "Hostname",
+  "IP_ADDRESS": "IP address",
+  "PROFILE_NAME": "Profile name"
 }
