@@ -450,5 +450,14 @@
   "SERIAL_NUMBER": "Serial number",
   "HOSTNAME": "Hostname",
   "IP_ADDRESS": "IP address",
-  "PROFILE_NAME": "Profile name"
+  "PROFILE_NAME": "Profile name",
+  "FIREWALL": "Firewall",
+  "RULE": "Rule",
+  "DELETE_RULE": "Delete rule",
+  "ADD_RULE": "Add rule",
+  "ACTION": "Action",
+  "FROM": "From",
+  "FIREWALL_STATUS": "Firewall status",
+  "FW_IS_ACTIVE": "Firewall is active with the following rules:",
+  "FW_IS_INACTIVE": "Firewall is inactive. All traffic is allowed"
 }
