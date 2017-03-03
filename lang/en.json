@@ -458,6 +458,8 @@
   "ACTION": "Action",
   "FROM": "From",
   "FIREWALL_STATUS": "Firewall status",
-  "FW_IS_ACTIVE": "Firewall is active with the following rules:",
-  "FW_IS_INACTIVE": "Firewall is inactive. All traffic is allowed"
+  "FW_IS_ACTIVE": "The firewall is active and filtering traffic:",
+  "FW_IS_INACTIVE": "Warning: The firewall is inactive. All traffic is allowed.",
+  "ADDED_RULES": "Added rules",
+  "CREATE_NEW_RULE": "Create new rule"
 }
