@@ -461,5 +461,13 @@
   "FW_IS_ACTIVE": "The firewall is active and filtering traffic:",
   "FW_IS_INACTIVE": "Warning: The firewall is inactive. All traffic is allowed.",
   "ADDED_RULES": "Added rules",
-  "CREATE_NEW_RULE": "Create new rule"
+  "CREATE_NEW_RULE": "Create new rule",
+  "ALL_INTERFACES": "All interfaces",
+  "ALLOW_IN_ON_INTERFACE": "Allow in on interface",
+  "INTERFACE_GROUPS": "Interface groups",
+  "INDIVIDUAL_INTERFACES": "Individual interface",
+  "CREATE_RULE": "Create rule",
+  "APPLICATION": "Application",
+  "PREDEFINED_APPLICATIONS": "Predefined applications"
+
 }
