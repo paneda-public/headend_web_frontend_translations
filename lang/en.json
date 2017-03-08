@@ -480,5 +480,6 @@
   "FIREWALL_DISABLED": "Firewall disabled",
   "FAILED_DISABLE_FIREWALL": "Failed to disable the firewall",
   "FIREWALL_ENABLED": "Firewall enabled",
-  "FAILED_ENABLE_FIREWALL": "Failed to enable the firewall"
+  "FAILED_ENABLE_FIREWALL": "Failed to enable the firewall",
+  "RETRIEVING_STATUS___": "Retrieving status..."
 }
