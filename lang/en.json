@@ -473,13 +473,16 @@
   "PROTOCOL": "Protocol",
   "FIREWALL_RULE_ADDED": "Firewall rule added",
   "FAILED_ADD_FIREWALL_RULE": "Failed to add firewall rule",
-  "FIREWALL_RULE_DELETED": "Firewall rule deleted",
+  "FIREWALL_RULE_DELETED": "Firewall rule deleted. Remember to commit the change.",
   "FAILED_DELETE_FIREWALL_RULE": "Failed to delete firewall rule",
   "ENABLE_FIREWALL": "Enable firewall",
   "DISABLE_FIREWALL": "Disable firewall",
   "FIREWALL_DISABLED": "Firewall disabled",
   "FAILED_DISABLE_FIREWALL": "Failed to disable the firewall",
-  "FIREWALL_ENABLED": "Firewall enabled",
+  "FIREWALL_ENABLED": "Firewall enabled. Remember to commit the change.",
   "FAILED_ENABLE_FIREWALL": "Failed to enable the firewall",
-  "RETRIEVING_STATUS___": "Retrieving status..."
+  "RETRIEVING_STATUS___": "Retrieving status...",
+  "COMMIT_CHANGES": "Commit changes",
+  "H_COMMIT_FIREWALL_SETTINGS": "The firewall has been activated / more restricted. Please verify access and then commit the changes.",
+  "H_AUTOMATIC_DEACTIVATION": "The firewall will automatically deactivate in {{timeLeft}} seconds to prevent you from locking yourself out."
 }
