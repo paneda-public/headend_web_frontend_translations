@@ -484,5 +484,7 @@
   "RETRIEVING_STATUS___": "Retrieving status...",
   "COMMIT_CHANGES": "Commit changes",
   "H_COMMIT_FIREWALL_SETTINGS": "The firewall has been activated / more restricted. Please verify access and then commit the changes.",
-  "H_AUTOMATIC_DEACTIVATION": "The firewall will automatically deactivate in {{timeLeft}} seconds to prevent you from locking yourself out."
+  "H_AUTOMATIC_DEACTIVATION": "The firewall will automatically deactivate in {{timeLeft}} seconds to prevent you from locking yourself out.",
+  "CHANGES_COMMITED": "Changes committed",
+  "FAILED_TO_COMMIT_CHANGES": "Failed to commit changes"
 }
