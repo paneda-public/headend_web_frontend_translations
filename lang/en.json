@@ -190,6 +190,7 @@
   "DEFAULT_GATEWAY": "Default gateway",
   "NO_CONNECTION_TO_SERVER": "No connection to server",
   "SERVER_TIME": "Server time",
+  "SERVER_NAME": "Server name",
   "NO_CONFIGURABLE_INTERFACES_FOUND": "No configurable interfaces found",
   "EDI_OUTPUT_SETTINGS": "EDI output settings",
   "SUCCESS_UPDATE_EDI_OUTPUT": "Successfully updated EDI settings",
