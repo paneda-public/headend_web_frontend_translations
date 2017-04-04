@@ -486,5 +486,8 @@
   "H_COMMIT_FIREWALL_SETTINGS": "The firewall has been activated / more restricted. Please verify access and then commit the changes.",
   "H_AUTOMATIC_DEACTIVATION": "The firewall will automatically deactivate in {{timeLeft}} seconds to prevent you from locking yourself out.",
   "CHANGES_COMMITED": "Changes committed",
-  "FAILED_TO_COMMIT_CHANGES": "Failed to commit changes"
+  "FAILED_TO_COMMIT_CHANGES": "Failed to commit changes",
+  "DELETE_USER": "Delete user",
+  "FAILED_TO_DELETE_USER": "Failed to delete user",
+  "USER_DELETED": "User deleted"
 }
