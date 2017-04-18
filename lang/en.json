@@ -489,5 +489,6 @@
   "FAILED_TO_COMMIT_CHANGES": "Failed to commit changes",
   "DELETE_USER": "Delete user",
   "FAILED_TO_DELETE_USER": "Failed to delete user",
-  "USER_DELETED": "User deleted"
+  "USER_DELETED": "User deleted",
+  "NOTES": "Notes"
 }
