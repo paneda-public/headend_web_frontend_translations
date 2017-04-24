@@ -490,5 +490,6 @@
   "DELETE_USER": "Delete user",
   "FAILED_TO_DELETE_USER": "Failed to delete user",
   "USER_DELETED": "User deleted",
-  "NOTES": "Notes"
+  "NOTES": "Notes",
+  "BITRATE_MULTIPLE_32": "Bitrate must be a multiple of 32 when EEP level B is used"
 }
