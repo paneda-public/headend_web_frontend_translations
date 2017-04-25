@@ -500,7 +500,9 @@
   "SWITCH_INPUT_ADDRESS": "Switch input address",
   "PREFER_ORDER": "Prefer order",
   "PREFER_NONE": "Prefer none",
-  "PREFER_ASC": "Prefer by mux name, ascending order",
-  "PREFER_DESC": "Prefer by mux name, descending order"
-
+  "PREFER_ASC": "Prefer by mux name, in ascending order",
+  "PREFER_DESC": "Prefer by mux name, in descending order",
+  "GUESS_FROM_CLUSTER": "Guess switch inputs",
+  "SUCCESS_UPDATE_SWITCH_SETTINGS": "Successfully updated switch settings",
+  "FAIILED_UPDATE_SWITCH_SETTINGS": "Failed to update switch settings"
 }
