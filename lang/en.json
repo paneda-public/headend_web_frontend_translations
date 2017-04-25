@@ -146,7 +146,7 @@
   "STATUS": "Status",
   "CANDIDATE": "Candidate",
   "LAST_CHECKED": "Last checked",
-  "NO_CLUSTER_CONFIGURED": "No cluster configured",
+  "NO_CLUSTER_CONFIGURED": "No cluster configured. Contact Paneda to set up redundancy!",
   "ACTIVE_SYSTEM": "Active system",
   "PASSIVE_SYSTEM": "Passive system",
   "LOGS": "Logs",
@@ -493,8 +493,10 @@
   "NOTES": "Notes",
   "BITRATE_MULTIPLE_32": "Bitrate must be a multiple of 32 when EEP level B is used",
   "SWITCH_SETTINGS": "Switch settings",
-  "USE_SWITCH_PATCHING": "Patch inputs if possible",
+  "USE_SWITCH_PATCHING": "If possible. Patch output from all available inputs",
+  "USE_SWITCH_PATCHING_SHORT": "Patch output",
   "USE_SF_SWITCHING": "If possible. Do the switchover on a superframe boundary",
+  "USE_SF_SWITCHING_SHORT": "Switch on superfram",
   "SWITCH_DEPTH": "Switch depth",
   "MILLISECONDS": "milliseconds",
   "SWITCH_INPUT_ADDRESS": "Switch input address",
@@ -504,5 +506,6 @@
   "PREFER_DESC": "Prefer by mux name, in descending order",
   "GUESS_FROM_CLUSTER": "Guess switch inputs",
   "SUCCESS_UPDATE_SWITCH_SETTINGS": "Successfully updated switch settings",
-  "FAIILED_UPDATE_SWITCH_SETTINGS": "Failed to update switch settings"
+  "FAIILED_UPDATE_SWITCH_SETTINGS": "Failed to update switch settings",
+  "NO_SWITCH_INSTALLED": "No switch installed. Contact Paneda to set up redundancy!"
 }
