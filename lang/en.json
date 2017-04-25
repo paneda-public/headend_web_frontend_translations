@@ -491,5 +491,16 @@
   "FAILED_TO_DELETE_USER": "Failed to delete user",
   "USER_DELETED": "User deleted",
   "NOTES": "Notes",
-  "BITRATE_MULTIPLE_32": "Bitrate must be a multiple of 32 when EEP level B is used"
+  "BITRATE_MULTIPLE_32": "Bitrate must be a multiple of 32 when EEP level B is used",
+  "SWITCH_SETTINGS": "Switch settings",
+  "USE_SWITCH_PATCHING": "Patch inputs if possible",
+  "USE_SF_SWITCHING": "If possible. Plan the switchover to a superframe boundary",
+  "SWITCH_DEPTH": "Switch depth",
+  "MILLISECONDS": "milliseconds",
+  "SWITCH_INPUT_ADDRESS": "Switch input address",
+  "PREFER_ORDER": "Prefer order",
+  "PREFER_NONE": "Prefer none",
+  "PREFER_ASC": "Prefer by mux name, ascending order",
+  "PREFER_DESC": "Prefer by mux name, descending order"
+
 }
