@@ -496,16 +496,19 @@
   "USE_SWITCH_PATCHING": "If possible. Patch output from all available inputs",
   "USE_SWITCH_PATCHING_SHORT": "Patch output",
   "USE_SF_SWITCHING": "If possible. Do the switchover on a superframe boundary",
-  "USE_SF_SWITCHING_SHORT": "Switch on superfram",
+  "USE_SF_SWITCHING_SHORT": "Switch on superframe",
   "SWITCH_DEPTH": "Switch depth",
   "MILLISECONDS": "milliseconds",
   "SWITCH_INPUT_ADDRESS": "Switch input address",
   "PREFER_ORDER": "Prefer order",
   "PREFER_NONE": "Prefer none",
-  "PREFER_ASC": "Prefer by mux name, in ascending order",
-  "PREFER_DESC": "Prefer by mux name, in descending order",
+  "PREFER_ASC": "Prefer mux by name, in ascending order",
+  "PREFER_DESC": "Prefer mux by name, in descending order",
   "GUESS_FROM_CLUSTER": "Guess switch inputs",
   "SUCCESS_UPDATE_SWITCH_SETTINGS": "Successfully updated switch settings",
   "FAIILED_UPDATE_SWITCH_SETTINGS": "Failed to update switch settings",
-  "NO_SWITCH_INSTALLED": "No switch installed. Contact Paneda to set up redundancy!"
+  "NO_SWITCH_INSTALLED": "No switch installed. Contact Paneda to set up redundancy!",
+  "ETI_INPUT_SETTINGS": "ETI input settings",
+  "INPUT_ADDRESS": "Input address",
+  "GUESS_INPUT": "Guess input"
 }
