@@ -510,5 +510,9 @@
   "NO_SWITCH_INSTALLED": "No switch installed. Contact Paneda to set up redundancy!",
   "ETI_INPUT_SETTINGS": "ETI input settings",
   "INPUT_ADDRESS": "Input address",
-  "GUESS_INPUT": "Guess input"
+  "GUESS_INPUT": "Guess input",
+  "REMOTE_DEVICES": "Remote devices",
+  "LOCAL_DEVICES": "Local devices",
+  "ENDPOINT_SETTINGS": "Endpoint settings",
+  "QUICK_SELECT": "Quick select"
 }
