@@ -500,6 +500,7 @@
   "SWITCH_DEPTH": "Switch depth",
   "MILLISECONDS": "milliseconds",
   "SWITCH_INPUT_ADDRESS": "Switch input address",
+  "ADD_SWITCH_INPUT": "Add switch input",
   "PREFER_ORDER": "Prefer order",
   "PREFER_NONE": "Prefer none",
   "PREFER_ASC": "Prefer mux by name, in ascending order",
