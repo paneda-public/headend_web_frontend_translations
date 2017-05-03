@@ -227,7 +227,7 @@
   "H_STATUS_CHANNELS_AUDIO_INPUT": "Indicates that the audio input is producing raw audio samples.",
   "H_STATUS_CHANNELS_AUDIO_SILENCE": "Indicates that the audio is not silent.",
   "H_STATUS_CHANNELS_INPUT_BUFFER": "Indicates that the multiplexer receives data for the subchannel.",
-  "H_STATUS_CHANNELS_ENCODER_LAUNCER": "Indicates that the enocder launcer id the encoder pool is working.",
+  "H_STATUS_CHANNELS_ENCODER_LAUNCER": "Indicates that the enocder launcer in the encoder pool is working.",
   "H_STATUS_CHANNELS_PAD": "Indicates that PAD data is produced for the service.",
   "AUDIO_SERVICES": "Audio services",
   "ALARM": "Alarm",
@@ -515,5 +515,11 @@
   "REMOTE_DEVICES": "Remote devices",
   "LOCAL_DEVICES": "Local devices",
   "ENDPOINT_SETTINGS": "Endpoint settings",
-  "QUICK_SELECT": "Quick select"
+  "QUICK_SELECT": "Quick select",
+  "DEVICE_STATUS": "Device status",
+  "DEVICE": "Device",
+  "H_UPSTREAM_CONNECTION": "Indicates that the network connection to the upstream is working.",
+  "H_ETI_INPUT_DATA_COARSE_QUALITY": "Indicates that the incoming ETI data is syntactically ok.",
+  "H_OUTPUT_ENDPOINT": "Indicates that the sending of data to the endoint is successful.",
+  "H_ETI_INPUT_DATA_FINE_QUALITY": "Indicates that the incoming ETI stream including all subchannels contain OK data."
 }
