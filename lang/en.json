@@ -523,5 +523,6 @@
   "H_OUTPUT_ENDPOINT": "Indicates that the sending of data to the endoint is successful.",
   "H_ETI_INPUT_DATA_FINE_QUALITY": "Indicates that the incoming ETI stream, including all subchannels, contains OK data.",
   "H_SWITCH_OUTPUT": "Indicates that the output from the switch, including all subchannels, contains OK data.",
-  "H_EQUIVALENT_DATA_FOUND": "Indicates that two or more streams carrying equivalent data is found. This enables seamless switchover."
+  "H_EQUIVALENT_DATA_FOUND": "Indicates that two or more streams carrying equivalent data is found. This enables seamless switchover.",
+  "H_PREFERRED_SELECTED": "Indicates that the preferred input is used as output without modifications."
 }
