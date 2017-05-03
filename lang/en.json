@@ -521,5 +521,7 @@
   "H_UPSTREAM_CONNECTION": "Indicates that the network connection to the upstream is working.",
   "H_ETI_INPUT_DATA_COARSE_QUALITY": "Indicates that the incoming ETI data is syntactically ok.",
   "H_OUTPUT_ENDPOINT": "Indicates that the sending of data to the endoint is successful.",
-  "H_ETI_INPUT_DATA_FINE_QUALITY": "Indicates that the incoming ETI stream including all subchannels contain OK data."
+  "H_ETI_INPUT_DATA_FINE_QUALITY": "Indicates that the incoming ETI stream, including all subchannels, contains OK data.",
+  "H_SWITCH_OUTPUT": "Indicates that the output from the switch, including all subchannels, contains OK data.",
+  "H_EQUIVALENT_DATA_FOUND": "Indicates that two or more streams carrying equivalent data is found. This enables seamless switchover."
 }
