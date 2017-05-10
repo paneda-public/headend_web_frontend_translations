@@ -527,5 +527,12 @@
   "H_PREFERRED_SELECTED": "Indicates that the preferred input is used as output without modifications.",
   "H_DEVICE_CONNECTION": "Indicates that the device is connected to the server.",
   "_DISCONNECTED": "disconnected",
-  "FORGET_DEVICE": "Forget device"
+  "FORGET_DEVICE": "Forget device",
+  "STATUS_URLS": "Status URLs",
+  "MAIN_STATUS_TYPE": "Main status type",
+  "STATUS_FILTER": "Status filter",
+  "SERVICE": "Service",
+  "AUDIO_SERVICE_STATUS": "Audio service status",
+  "DATA_SERVICE_STATUS": "Data service status",
+  "PREVIEW": "Preview"
 }
