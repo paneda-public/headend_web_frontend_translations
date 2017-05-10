@@ -534,5 +534,6 @@
   "SERVICE": "Service",
   "AUDIO_SERVICE_STATUS": "Audio service status",
   "DATA_SERVICE_STATUS": "Data service status",
-  "PREVIEW": "Preview"
+  "PREVIEW": "Preview",
+  "CONNECTING_FROM": "Connecting from"
 }
