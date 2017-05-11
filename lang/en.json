@@ -535,5 +535,6 @@
   "AUDIO_SERVICE_STATUS": "Audio service status",
   "DATA_SERVICE_STATUS": "Data service status",
   "PREVIEW": "Preview",
-  "CONNECTING_FROM": "Connecting from"
+  "CONNECTING_FROM": "Connecting from",
+  "ADD_FIREWALL_RULES": "Add firewall rules"
 }
