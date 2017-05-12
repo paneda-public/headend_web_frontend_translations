@@ -536,5 +536,12 @@
   "DATA_SERVICE_STATUS": "Data service status",
   "PREVIEW": "Preview",
   "CONNECTING_FROM": "Connecting from",
-  "ADD_FIREWALL_RULES": "Add firewall rules"
+  "ADD_FIREWALL_RULES": "Add firewall rules",
+  "DELETE_STATUS_URL": "Delete status URL",
+  "LOAD URL": "Load url",
+  "SAVED_URLS": "Saved URLs",
+  "URL_SAVED": "URL saved",
+  "FAILED_TO_SAVE_URL": "Failed to save URL",
+  "URL_DELETED": "URL deleted",
+  "FAILED_TO_DELETE_URL": "Failed to delete URL"
 }
