@@ -543,5 +543,8 @@
   "URL_SAVED": "URL saved",
   "FAILED_TO_SAVE_URL": "Failed to save URL",
   "URL_DELETED": "URL deleted",
-  "FAILED_TO_DELETE_URL": "Failed to delete URL"
+  "FAILED_TO_DELETE_URL": "Failed to delete URL",
+  "SHORT_URL": "Short URL",
+  "FULL_URL": "Full URL",
+  "VIRTUAL_PROVIDER": "Virtual provider"
 }
