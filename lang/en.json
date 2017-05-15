@@ -546,5 +546,6 @@
   "FAILED_TO_DELETE_URL": "Failed to delete URL",
   "SHORT_URL": "Short URL",
   "FULL_URL": "Full URL",
+  "LOAD_URL": "Load url",
   "VIRTUAL_PROVIDER": "Virtual provider"
 }
