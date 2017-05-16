@@ -547,5 +547,7 @@
   "SHORT_URL": "Short URL",
   "FULL_URL": "Full URL",
   "LOAD_URL": "Load url",
-  "VIRTUAL_PROVIDER": "Virtual provider"
+  "VIRTUAL_PROVIDER": "Virtual provider",
+  "CHECK_STATUS": "Check status",
+  "UNSUPPORTED_BROWSER": "Your browser is not supported. Use Google Chrome for the best user experience."
 }
