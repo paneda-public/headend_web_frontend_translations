@@ -560,5 +560,7 @@
   "PETI_FEC_HELP_1": "rows * columns must not exeed 100",
   "PETI_FEC_HELP_2": "When level B us used, columns must be at least 4",
   "SUCCESS_UPDATE_PETI_OUTPUT": "Sucessfully updated FEP output",
-  "FAILED_UPDATE_PETI_OUTPUT": "Failed to update FEP output"
+  "FAILED_UPDATE_PETI_OUTPUT": "Failed to update FEP output",
+  "NO_PETI_INSTALLED": "No FEP output installed. Contact Paneda to install module.",
+  "NO_EDI_INSTALLED": "No EDI output installed. Contact Paneda to install module."
 }
