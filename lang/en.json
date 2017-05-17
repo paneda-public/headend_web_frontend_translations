@@ -549,5 +549,16 @@
   "LOAD_URL": "Load url",
   "VIRTUAL_PROVIDER": "Virtual provider",
   "CHECK_STATUS": "Check status",
-  "UNSUPPORTED_BROWSER": "Your browser is not supported. Use Google Chrome for the best user experience."
+  "UNSUPPORTED_BROWSER": "Your browser is not supported. Use Google Chrome for the best user experience.",
+  "PETI_OUTPUT_SETTINGS": "FEP output settings",
+  "TTL": "ttl",
+  "PETI_OUTPUT_ADDRESS": "Outgoing FEP address",
+  "ADD_PETI_OUTPUT": "Add FEP output",
+  "PETI_FEC_ROWS": "FEC #rows",
+  "PETI_FEC_COLUMNS": "FEC #columns",
+  "PETI_FEC_MODE": "FEC mode",
+  "PETI_FEC_HELP_1": "rows * columns must not exeed 100",
+  "PETI_FEC_HELP_2": "When level B us used, columns must be at least 4",
+  "SUCCESS_UPDATE_PETI_OUTPUT": "Sucessfully updated FEP output",
+  "FAILED_UPDATE_PETI_OUTPUT": "Failed to update FEP output"
 }
