@@ -562,5 +562,8 @@
   "SUCCESS_UPDATE_PETI_OUTPUT": "Sucessfully updated FEP output",
   "FAILED_UPDATE_PETI_OUTPUT": "Failed to update FEP output",
   "NO_PETI_INSTALLED": "No FEP output installed. Contact Paneda to install module.",
-  "NO_EDI_INSTALLED": "No EDI output installed. Contact Paneda to install module."
+  "NO_EDI_INSTALLED": "No EDI output installed. Contact Paneda to install module.",
+  "ADD_ROUTE": "Add route",
+  "GATEWAY": "Gateway",
+  "DESTINATION": "Destination"
 }
