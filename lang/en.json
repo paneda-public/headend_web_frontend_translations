@@ -565,5 +565,6 @@
   "NO_EDI_INSTALLED": "No EDI output installed. Contact Paneda to install module.",
   "ADD_ROUTE": "Add route",
   "GATEWAY": "Gateway",
-  "DESTINATION": "Destination"
+  "DESTINATION": "Destination",
+  "INPUT_SOURCE_MISSING": "Input source ({{sourceName}}) is missing"
 }
