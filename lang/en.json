@@ -566,5 +566,6 @@
   "ADD_ROUTE": "Add route",
   "GATEWAY": "Gateway",
   "DESTINATION": "Destination",
-  "INPUT_SOURCE_MISSING": "Selected input source '{{sourceName}}' is missing"
+  "INPUT_SOURCE_MISSING": "Selected input source '{{sourceName}}' is missing",
+  "PAD_SOURCE_MISSING": "Selected PAD source '{{sourceName}}' is missing"
 }
