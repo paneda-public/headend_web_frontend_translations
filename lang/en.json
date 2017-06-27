@@ -570,7 +570,7 @@
   "PAD_SOURCE_MISSING": "Selected PAD source '{{sourceName}}' is missing",
   "VALID_FROM": "Valid From",
   "PAUSED": "Paused",
-  "CU_OVERALLOCATED": "Capacity overallocated. Remove {{cu}} from contract",
+  "CU_OVERALLOCATED": "Capacity overallocated. Remove {{cu}} CU from contract",
   "CAPACITY": "Capacity",
   "SUBCHANNEL_IDS": "Subchannel Ids",
   "PROGRAMME_SERVICE_REFERENCES": "Programme service references",
