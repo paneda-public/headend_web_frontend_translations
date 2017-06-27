@@ -576,5 +576,10 @@
   "PROGRAMME_SERVICE_REFERENCES": "Programme service references",
   "DATA_SERVICE_REFERENCES": "Data service references",
   "_HEX": "hex",
-  "ADD_ITEM_S": "Add item(s). Press enter to add."
+  "ADD_ITEM_S": "Add item(s). Press enter to add.",
+  "FAILED_TO_SAVE_CONTRACT": "Failed to save contract",
+  "CONTRACT_SAVED": "Contract saved",
+  "SUBCHANNEL_DUPLICATES": "The following subchannels are duplicated: {{dupes}}",
+  "PROGRAM_SERVICE_REF_DUPLICATES": "The following programme service references are duplicated: {{dupes}}",
+  "DATA_SERVICE_REF_DUPLICATES": "The following data service references are duplicated: {{dupes}}"
 }
