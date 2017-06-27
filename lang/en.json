@@ -575,5 +575,6 @@
   "SUBCHANNEL_IDS": "Subchannel Ids",
   "PROGRAMME_SERVICE_REFERENCES": "Programme service references",
   "DATA_SERVICE_REFERENCES": "Data service references",
-  "_HEX": "hex"
+  "_HEX": "hex",
+  "ADD_ITEM_S": "Add item(s). Press enter to add."
 }
