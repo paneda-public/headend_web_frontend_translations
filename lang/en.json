@@ -584,5 +584,9 @@
   "DATA_SERVICE_REF_DUPLICATES": "The following data service references are duplicated: {{dupes}}",
   "ADD_VIRTUAL_PROVIDER": "Add new virtual provider",
   "ENSEMBLE_CONFIG_SAVED": "Ensemble configuration saved",
-  "FAILED_TO_SAVE_ENSEMBLE_CONFIG": "Failed to save ensemble configuration"
+  "FAILED_TO_SAVE_ENSEMBLE_CONFIG": "Failed to save ensemble configuration",
+  "ENSEMBLE_ID": "Ensemble id",
+  "ENSEMBLE_LABEL": "Ensemble label",
+  "COUNTRY": "Country",
+  "COUNTRY_ID_MISMATCH_IN_ENSEMBLE_ID": "The ensemble ID has inconsistent country ID. Found: {{foundId}}. Expected: {{expectedId}}."
 }
