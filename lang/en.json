@@ -590,5 +590,10 @@
   "COUNTRY": "Country",
   "COUNTRY_ID_MISMATCH_IN_ENSEMBLE_ID": "The ensemble ID has inconsistent country ID. Found: {{foundId}}. Expected: {{expectedId}}.",
   "COUNTRY_ID": "Country ID",
-  "ECC": "Extended country code"
+  "ECC": "Extended country code",
+  "H_LONG_LABEL": "The label consists of a maximum of 16 bytes.",
+  "H_SHORT_LABEL": "The short label consists of a subset of the long label. Maximum 8 characters.",
+  "CUSTOM_FIGS": "Custom figs",
+  "FIG_DATA": "Fig data",
+  "COMMENT": "Comment"
 }
