@@ -588,5 +588,7 @@
   "ENSEMBLE_ID": "Ensemble id",
   "ENSEMBLE_LABEL": "Ensemble label",
   "COUNTRY": "Country",
-  "COUNTRY_ID_MISMATCH_IN_ENSEMBLE_ID": "The ensemble ID has inconsistent country ID. Found: {{foundId}}. Expected: {{expectedId}}."
+  "COUNTRY_ID_MISMATCH_IN_ENSEMBLE_ID": "The ensemble ID has inconsistent country ID. Found: {{foundId}}. Expected: {{expectedId}}.",
+  "COUNTRY_ID": "Country ID",
+  "ECC": "Extended country code"
 }
