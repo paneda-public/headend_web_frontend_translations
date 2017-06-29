@@ -595,5 +595,8 @@
   "H_SHORT_LABEL": "The short label consists of a subset of the long label. Maximum 8 characters.",
   "CUSTOM_FIGS": "Custom figs",
   "FIG_DATA": "Fig data",
-  "COMMENT": "Comment"
+  "COMMENT": "Comment",
+  "UPDATE_NAME": "Update name",
+  "NEW_NAME": "New name",
+  "INVALID_COUNTRY_CODES": "The combination of countly code, ecc and itu code seem invalid."
 }
