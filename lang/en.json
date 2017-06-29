@@ -598,5 +598,9 @@
   "COMMENT": "Comment",
   "UPDATE_NAME": "Update name",
   "NEW_NAME": "New name",
-  "INVALID_COUNTRY_CODES": "The combination of country code, ecc and itu code seem invalid."
+  "INVALID_COUNTRY_CODES": "The combination of country code, ecc and itu code seem invalid.",
+  "CLUSTER_CONFIG_SAVED": "Cluster configuration saved",
+  "FAILED_TO_SAVE_CLUSTER_CONFIG": "Failed to save cluster configuration",
+  "INPUT_SOURCES_SAVED": "Input sources saved",
+  "FAILED_TO_SAVE_INPUT_SOURCES": "Failed to save input sources"
 }
