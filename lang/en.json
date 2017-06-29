@@ -598,5 +598,5 @@
   "COMMENT": "Comment",
   "UPDATE_NAME": "Update name",
   "NEW_NAME": "New name",
-  "INVALID_COUNTRY_CODES": "The combination of countly code, ecc and itu code seem invalid."
+  "INVALID_COUNTRY_CODES": "The combination of country code, ecc and itu code seem invalid."
 }
