@@ -602,5 +602,8 @@
   "CLUSTER_CONFIG_SAVED": "Cluster configuration saved",
   "FAILED_TO_SAVE_CLUSTER_CONFIG": "Failed to save cluster configuration",
   "INPUT_SOURCES_SAVED": "Input sources saved",
-  "FAILED_TO_SAVE_INPUT_SOURCES": "Failed to save input sources"
+  "FAILED_TO_SAVE_INPUT_SOURCES": "Failed to save input sources",
+  "DEJITTER_BUFFER_DELAY": "Dejitter buffer delay",
+  "_MILLISECONDS": "milliseconds",
+  "_SECONDS": "seconds"
 }
