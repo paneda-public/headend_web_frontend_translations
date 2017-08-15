@@ -43,7 +43,7 @@
   "INVALID_CONFIGURATION": "Invalid configuration: {{error}}.",
   "CAPACITY_OVERBOOKED": "Capacity overbooked. Used: {{usedCu}} CU. Allowed capacity: {{cuCapacity}} CU.",
   "NO_CONFIG_SELECTED": "No configuration selected. Please select or create a configuration to edit.",
-  "DUPLICATED_DATA": "Duplicated data found: ",
+  "DUPLICATED_DATA": "Duplicated data found: {{dynamicData}}",
   "SERVICE_LABEL": "Service label",
   "_IS_REQUIRED": "is required",
   "_MUST_BE_LESS_THAN": "must be less than",
@@ -607,5 +607,6 @@
   "_MILLISECONDS": "milliseconds",
   "_SECONDS": "seconds",
   "AUTO_REFRESH": "Auto refresh",
-  "DEFAULT_MUX_BUFFER_SIZE": "Default mux buffer size (ETI frames (24ms))"
+  "DEFAULT_MUX_BUFFER_SIZE": "Default mux buffer size (ETI frames (24ms))",
+  "LABEL_TOO_LONG": "The label {{labe}} requires {{bytes}} in encoding {{encoding}}. 16 bytes are max."
 }
