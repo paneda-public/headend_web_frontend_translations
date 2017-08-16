@@ -610,5 +610,6 @@
   "DEFAULT_MUX_BUFFER_SIZE": "Default mux buffer size (ETI frames (24ms))",
   "LABEL_TOO_LONG": "The label \"{{label}}\" requires {{bytes}} bytes to be encoded in {{encoding}}. 16 bytes are max.",
   "ENCODING": "Encoding",
-  "DEFAULT_CHARACTER_ENCODING": "Default character encoding"
+  "DEFAULT_CHARACTER_ENCODING": "Default character encoding",
+  "DLS_ENCODING": "DLS character encoding"
 }
