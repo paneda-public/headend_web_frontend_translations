@@ -614,5 +614,9 @@
   "DLS_ENCODING": "DLS character encoding",
   "ADVANCED_SETTINGS": "Advanced settings",
   "ANVANCED_SETTINGS_SAVED": "Advanced settings saved",
-  "FAILED_TO_SAVE_ADVANCED_SETTINGS": "Failed to save advanced settings"
+  "FAILED_TO_SAVE_ADVANCED_SETTINGS": "Failed to save advanced settings",
+  "RECONFIGURATION_NEEDED": "A reconfiguration is needed",
+  "H_RECONFIGURATION_NEEDED": "The current configuration on air may not reflect the latest changes that has been performed",
+  "CHANGES": "Changes",
+  "_AND_MORE": "and ({{x}}) more"
 }
