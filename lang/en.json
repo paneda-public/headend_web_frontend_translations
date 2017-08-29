@@ -618,5 +618,5 @@
   "RECONFIGURATION_NEEDED": "A reconfiguration is needed",
   "H_RECONFIGURATION_NEEDED": "The current configuration on air may not reflect the latest changes that has been performed",
   "CHANGES": "Changes",
-  "_AND_MORE": "and ({{x}}) more"
+  "_AND_MORE": "and {{x}} more"
 }
