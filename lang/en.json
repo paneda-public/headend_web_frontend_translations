@@ -621,5 +621,6 @@
   "_AND_MORE": "and {{x}} more",
   "WHEN": "When",
   "BY": "By",
-  "CHANGE": "Change"
+  "CHANGE": "Change",
+  "CLICK_TO_TOGGLE_CHANGES": "Click to toggle visibility of changeset"
 }
