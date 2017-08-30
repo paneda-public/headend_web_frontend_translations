@@ -621,5 +621,6 @@
   "_AND_MORE": "and {{x}} more",
   "WHEN": "When",
   "BY": "By",
-  "CLICK_TO_TOGGLE_CHANGES": "Click to toggle visibility of changes"
+  "CLICK_TO_TOGGLE_CHANGES": "Click to toggle visibility of changes",
+  "NO_CHANGES": "No changes"
 }
