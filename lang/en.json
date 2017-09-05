@@ -625,5 +625,9 @@
   "NO_CHANGES": "No changes",
   "HIDE_UNCHANGED": "Hide unchanged",
   "SHOW_UNCHANGED": "Show unchanged",
-  "AUDIT_LOG": "Audit log"
+  "AUDIT_LOG": "Audit log",
+  "BACKUP": "Backup",
+  "CREATE_DOWNLOAD_BACKUP": "Create and download backup",
+  "BACKUP_SUCCESSFULLY_GENERATED": "Backup successfully generated",
+  "FAILED_TO_GENERATE_BACKUP": "Failed to generate backup"
 }
