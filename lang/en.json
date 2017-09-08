@@ -629,5 +629,6 @@
   "BACKUP": "Backup",
   "CREATE_DOWNLOAD_BACKUP": "Create and download backup",
   "BACKUP_SUCCESSFULLY_GENERATED": "Backup successfully generated",
-  "FAILED_TO_GENERATE_BACKUP": "Failed to generate backup"
+  "FAILED_TO_GENERATE_BACKUP": "Failed to generate backup",
+  "SERVICE_LABEL_NEXT": "Service label in NEXT configuration"
 }
