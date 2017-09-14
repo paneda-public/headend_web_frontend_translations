@@ -314,6 +314,7 @@
   "PAD_SOURCE_NOT_EDITABLE": "The selected PAD source cannot be edited",
   "ADD_PAD_SOURCE" : "Add new pad source",
   "INVALID_SOURCE_NAME": "Invalid source name. Allowed characters: {{allowedChars}}",
+  "INVALID_STRING": "Invalid string. Allowed characters: {{allowedChars}}",
   "SOURCE_NAME": "Source name",
   "DELETE_PAD_SOURCE": "Delete PAD source",
   "AUDIO_SOURCES": "Audio sources",
@@ -630,5 +631,15 @@
   "CREATE_DOWNLOAD_BACKUP": "Create and download backup",
   "BACKUP_SUCCESSFULLY_GENERATED": "Backup successfully generated",
   "FAILED_TO_GENERATE_BACKUP": "Failed to generate backup",
-  "SERVICE_LABEL_NEXT": "Service label in NEXT configuration"
+  "SERVICE_LABEL_NEXT": "Service label in NEXT configuration",
+  "SNMP_SETTINGS_SAVED": "SNMP settings saved",
+  "FAILED_TO_SAVE_SNMP_SETTINGS": "Failed to save SNMP settings",
+  "SNMP_SETTINGS": "SNMP settings",
+  "COMMUNITY": "Community",
+  "SYSTEM_NAME": "System name",
+  "SYSTEM_LOCATION": "System location",
+  "SYSTEM_CONTACT": "System contact",
+  "TRAP_HOST": "Trap host",
+  "NON_EMPTY_FIELD": "This field cannot be empty",
+  "ADD_TRAP_HOST": "Add trap host"
 }
