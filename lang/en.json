@@ -641,5 +641,13 @@
   "SYSTEM_CONTACT": "System contact",
   "TRAP_HOST": "Trap host",
   "NON_EMPTY_FIELD": "This field cannot be empty",
-  "ADD_TRAP_HOST": "Add trap host"
+  "ADD_TRAP_HOST": "Add trap host",
+  "HOST": "host",
+  "PROXY": "proxy",
+  "CONNECT_VIA": "Connect via",
+  "ADD_NEW_CONNECTION": "Add new connection",
+  "PROXY_CONNECTION_SAVED": "Proxy connection saved",
+  "FAILED_SAVE_PROXY_CONNECTION": "Failed to save proxy connection",
+  "FAILED_DELTE_PROXY_CONNECTION": "Failed to delete proxy connection",
+  "PROXY_CONNECTION_DELETED": "Proxy connection deleted"
 }
