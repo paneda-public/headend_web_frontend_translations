@@ -642,12 +642,18 @@
   "TRAP_HOST": "Trap host",
   "NON_EMPTY_FIELD": "This field cannot be empty",
   "ADD_TRAP_HOST": "Add trap host",
-  "HOST": "host",
-  "PROXY": "proxy",
+  "HOST": "Host",
+  "PROXY": "Proxy",
   "CONNECT_VIA": "Connect via",
   "ADD_NEW_CONNECTION": "Add new connection",
   "PROXY_CONNECTION_SAVED": "Proxy connection saved",
   "FAILED_SAVE_PROXY_CONNECTION": "Failed to save proxy connection",
   "FAILED_DELTE_PROXY_CONNECTION": "Failed to delete proxy connection",
-  "PROXY_CONNECTION_DELETED": "Proxy connection deleted"
+  "PROXY_CONNECTION_DELETED": "Proxy connection deleted",
+  "TWO_FACTOR_MUST_BE_ENABLED_FOR_THIS_FEATURE": "Two factor authentication must be enabled to use this feature",
+  "FORM_INVALID": "The form is invalid. Please fill out all fields according to the instructions.",
+  "OPEN_CONNECTION": "Open the connection",
+  "CONFIRM_PASSWORD": "Confirm password",
+  "AUTHORIZED_USERS": "Authorized users",
+  "USER_NOT_AUTH_FOR_PROXY": "Your user is not authorized to use the selected proxy connection"
 }
