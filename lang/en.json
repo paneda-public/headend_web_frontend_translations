@@ -660,5 +660,7 @@
   "CLOSE_ALL_SESSIONS": "Close all sessions (Other users have {{numActiveSessions}} active session(s) )",
   "SESSIONS_CLOSED": "Sessions closed",
   "FAILED_TO_CLOSE_SESSIONS": "Failed to close sessions",
-  "NO_ACTIVE_SESSSION_EXIST": "No active session exist"
+  "NO_ACTIVE_SESSSION_EXIST": "No active session exist",
+  "PBS_WELCOME": "Welcome to your PANEDA break-in system",
+  "PBS_WELCOME_SHORT": "PANEDA break-in system"
 }
