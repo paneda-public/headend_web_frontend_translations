@@ -114,7 +114,7 @@
   "INVITE": "Invitation",
   "SEND_INVITE_EMAIL": "Send invitation via email",
   "SIGNUP_URL": "Signup URL",
-  "SHOULD_SEND_SEPARATELY": "Should be sent separately if the multiplexer is accessible from the internet",
+  "SHOULD_SEND_SEPARATELY": "Should be sent separately if the system is accessible from the internet",
   "USER_INFO": "User information",
   "REAL_NAME": "Display name",
   "MY_PROFILE": "My profile",
