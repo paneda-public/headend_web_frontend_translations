@@ -690,5 +690,11 @@
   "rel_signal_level": "Relative signal level",
   "coarse_offset": "Coarse offset",
   "fine_offset": "Fine offset",
-  "samples_per_tf": "Samples per transmission frame"
+  "samples_per_tf": "Samples per transmission frame",
+  "OPERATION_MODE": "Operation mode",
+  "Diff": "Difference",
+  "Drift": "Drift",
+  "TimeSinceAdjust": "Time since adjustment",
+  "ValueBase": "Value base"
+
 }
