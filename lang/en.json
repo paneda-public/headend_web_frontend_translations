@@ -686,7 +686,8 @@
   "BREAK_IN": "Break-in",
   "UPDATED": "Updated",
   "fib_crc": "FIB CRC success rate",
-  "ber": "Bit error rate",
+  "ber": "Bit error rate (BER)",
+  "snr": "SNR",
   "rel_signal_level": "Relative signal level",
   "coarse_offset": "Coarse offset",
   "fine_offset": "Fine offset",
@@ -695,6 +696,6 @@
   "Diff": "Difference",
   "Drift": "Drift",
   "TimeSinceAdjust": "Time since adjustment",
-  "ValueBase": "Value base"
-
+  "ValueBase": "Value base",
+  "FREQ_ERROR": "Frequency error"
 }
