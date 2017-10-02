@@ -668,13 +668,13 @@
   "FAILED_UPDATE_PBS": "Failed to update PBS settings",
   "TX_GAIN": "Tx gain",
   "PAS_IP": "PAS IP",
-  "H_PBS_STATUS_RF_INPUT": "todo",
-  "H_PBS_STATUS_TF_ALIGNMENT": "todo",
-  "H_PBS_STATUS_CLOCK_SYNC": "todo",
+  "H_PBS_STATUS_RF_INPUT": "Indicates the presence of externa DAB signal",
+  "H_PBS_STATUS_TF_ALIGNMENT": "Indicates that the external and local transmission frames are aligned",
+  "H_PBS_STATUS_CLOCK_SYNC": "Indicates that the external and local time domain are synchronized",
   "H_PBS_STATUS_AUDIO_IN": "todo",
   "H_PBS_STATUS_AUDIO_OUT": "todo",
-  "H_PBS_STATUS_SIGNAL_CTRL": "todo",
-  "H_PBS_STATUS_DRNS": "todo",
+  "H_PBS_STATUS_SIGNAL_CTRL": "Indicates the presence of a break-in state signal",
+  "H_PBS_STATUS_DRNS": "Indicates the prescense of the hardware RF-switch",
   "H_PVP_STATUS_TRIGGER": "todo",
   "H_PVP_STATUS_INPUT": "todo"
 }
