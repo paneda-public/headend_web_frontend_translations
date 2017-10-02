@@ -695,7 +695,7 @@
   "OPERATION_MODE": "Operation mode",
   "Diff": "Difference",
   "Drift": "Drift",
-  "TimeSinceAdjust": "Time since adjustment",
+  "TimeSinceAdjust": "Time since last adjustment",
   "ValueBase": "Value base",
   "FREQ_ERROR": "Frequency error"
 }
