@@ -697,5 +697,15 @@
   "Drift": "Drift",
   "TimeSinceAdjust": "Time since last adjustment",
   "ValueBase": "Value base",
-  "FREQ_ERROR": "Frequency error"
+  "FREQ_ERROR": "Frequency error",
+  "PVP_SETTINGS": "PVP settings",
+  "GENERAL_SETTINGS": "General settings",
+  "IDENTIFY_UNIT": "Identify unit",
+  "PERCENT_OF_MAX": "% of max",
+  "SUCCESS_UPDATE_PVP_VOLUME": "Successfully updated PVP volume",
+  "FAILED_UPDATE_PVP_VOLUME": "Failed to update the PVP volume",
+  "TOGGLE_IDENTIFICATION_LED": "Toggle identification LED",
+  "SUCCESS_TURNED_ON_ID_LED": "Successfully turned on the ID LED",
+  "SUCCESS_TURNED_OFF_ID_LED": "Successfully turned off the ID LED",
+  "FAILED_TO_CHANGE_THE_ID_LED": "Failed to change the state of the ID_LED"
 }
