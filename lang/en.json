@@ -702,7 +702,7 @@
   "GENERAL_SETTINGS": "General settings",
   "IDENTIFY_UNIT": "Identify unit",
   "PERCENT_OF_MAX": "% of max",
-  "SUCCESS_UPDATE_PVP_VOLUME": "Successfully updated PVP volume",
+  "SUCCESS_UPDATE_PVP_VOLUME": "Successfully updated PVP volume. The hardware adjusted the value to: {{volume}} %",
   "FAILED_UPDATE_PVP_VOLUME": "Failed to update the PVP volume",
   "TOGGLE_IDENTIFICATION_LED": "Toggle identification LED",
   "SUCCESS_TURNED_ON_ID_LED": "Successfully turned on the ID LED",
