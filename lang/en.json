@@ -707,5 +707,8 @@
   "TOGGLE_IDENTIFICATION_LED": "Toggle identification LED",
   "SUCCESS_TURNED_ON_ID_LED": "Successfully turned on the ID LED",
   "SUCCESS_TURNED_OFF_ID_LED": "Successfully turned off the ID LED",
-  "FAILED_TO_CHANGE_THE_ID_LED": "Failed to change the state of the ID_LED"
+  "FAILED_TO_CHANGE_THE_ID_LED": "Failed to change the state of the ID_LED",
+  "SUCCESS_UPDATE_PVP": "Successfully updated the PVP settings",
+  "FAILED_UPDATE_PVP": "Failed to update the PVP settings"
+
 }
