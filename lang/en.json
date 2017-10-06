@@ -714,6 +714,6 @@
   "DIAGRAMS": "Diagrams",
   "IQ_DIAGRAM": "IQ diagram",
   "SPECTRUM_DIAGRAM": "Spectrum diagram",
-  "IMPULSE_DIAGRAM": "Impulse response diagram"
-
+  "IMPULSE_DIAGRAM": "Impulse response diagram",
+  "FAILED_START_DIAGRAM": "Failed to start the diagram"
 }
