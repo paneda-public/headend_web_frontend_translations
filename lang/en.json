@@ -674,7 +674,8 @@
   "H_PBS_STATUS_AUDIO_IN": "todo",
   "H_PBS_STATUS_AUDIO_OUT": "todo",
   "H_PBS_STATUS_SIGNAL_CTRL": "Indicates the presence of a break-in state signal",
-  "H_PBS_STATUS_DRNS": "Indicates the prescense of the hardware RF-switch",
+  "H_PBS_STATUS_DRNS": "Indicates the presence of the hardware RF-switch",
+  "H_PBS_STATUS_LOCAL_RF": "Indicates the presence of the local RF signal at the RF-switch",
   "H_PVP_STATUS_TRIGGER": "todo",
   "H_PVP_STATUS_INPUT": "todo",
   "MONITORS" : "Monitors",
@@ -709,6 +710,10 @@
   "SUCCESS_TURNED_OFF_ID_LED": "Successfully turned off the ID LED",
   "FAILED_TO_CHANGE_THE_ID_LED": "Failed to change the state of the ID_LED",
   "SUCCESS_UPDATE_PVP": "Successfully updated the PVP settings",
-  "FAILED_UPDATE_PVP": "Failed to update the PVP settings"
+  "FAILED_UPDATE_PVP": "Failed to update the PVP settings",
+  "DIAGRAMS": "Diagrams",
+  "IQ_DIAGRAM": "IQ diagram",
+  "SPECTRUM_DIAGRAM": "Spectrum diagram",
+  "IMPULSE_DIAGRAM": "Impulse response diagram"
 
 }
