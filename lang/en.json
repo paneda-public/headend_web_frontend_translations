@@ -670,7 +670,7 @@
   "PAS_IP": "PAS IP",
   "H_PBS_STATUS_RF_INPUT": "Indicates the presence of external DAB signal",
   "H_PBS_STATUS_TF_ALIGNMENT": "Indicates that the external and local transmission frames are aligned",
-  "H_PBS_STATUS_CLOCK_SYNC": "Indicates that the external and local time domain are synchronized",
+  "H_PBS_STATUS_CLOCK_SYNC": "Indicates that the external and local time domains are synchronized",
   "H_PBS_STATUS_AUDIO_IN": "todo",
   "H_PBS_STATUS_AUDIO_OUT": "todo",
   "H_PBS_STATUS_SIGNAL_CTRL": "Indicates the presence of a break-in state signal",
