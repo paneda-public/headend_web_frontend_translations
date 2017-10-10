@@ -717,5 +717,5 @@
   "IMPULSE_DIAGRAM": "Impulse response diagram",
   "FAILED_START_DIAGRAM": "Failed to start the diagram",
   "H_LOCAL_PVP_STATUS_AUDIO_IN": "Indicates that local audio input is detected",
-  "H_LOCAL_PVP_STATUS_TRIGGER": "Indicates that local trigger input is detected"
+  "H_LOCAL_PVP_STATUS_TRIGGER": "Indicates that the local trigger input is available"
 }
