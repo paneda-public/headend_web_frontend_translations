@@ -363,6 +363,8 @@
   "USE_TIST": "Use TIST",
   "ENABLED": "Enabled",
   "DISABLED": "Disabled",
+  "ENABLE": "Enable",
+  "DISABLE": "Disable",
   "INSTALLED_LANGUAGES": "Installed languages",
   "NEW_VERSION_RELOAD_NEEDED": "A new GUI version has been installed. Please reload the browser to use it.",
   "RELOAD": "Reload",
@@ -718,5 +720,8 @@
   "FAILED_START_DIAGRAM": "Failed to start the diagram",
   "H_LOCAL_PVP_STATUS_AUDIO_IN": "Indicates that local audio input is detected",
   "H_LOCAL_PVP_STATUS_TRIGGER": "Indicates that the local trigger input is available",
-  "TRIGGER": "Trigger input"
+  "TRIGGER": "Trigger",
+  "SUCCESS_UPDATE_TRIGGER": "Successfully set trigger state to {{state}}",
+  "FAILED_UPDATE_TRIGGER": "Failed to update trigger state",
+  "TRIGGER_INPUT_IS": "The trigger input is"
 }
