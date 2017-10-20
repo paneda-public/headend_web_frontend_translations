@@ -727,5 +727,6 @@
   "SUCCESS_UPDATE_TRIGGER": "Successfully set trigger state to {{state}}",
   "FAILED_UPDATE_TRIGGER": "Failed to update trigger state",
   "TRIGGER_INPUT_IS": "The trigger input is",
-  "BREAKIN_SOURCE": "Break-in source"
+  "BREAKIN_SOURCE": "Break-in source",
+  "DOWNLOAD_MIB_FILE": "Download the SNMP MIB file"
 }
