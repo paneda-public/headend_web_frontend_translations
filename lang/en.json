@@ -739,5 +739,6 @@
   "CURRENT_PASSWORD": "Current password",
   "NEW_PASSWORD": "New password",
   "UPDATE_PASSWORD": "Update password",
-  "CURRENT_PASSWORD_INCORRECT": "Current password is incorrect"
+  "CURRENT_PASSWORD_INCORRECT": "Current password is incorrect",
+  "CHANGE_PASSWORD": "Change password"
 }
