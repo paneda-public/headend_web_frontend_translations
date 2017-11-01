@@ -735,7 +735,7 @@
   "MINIMUM_TIME_BEFORE_OK": "Minimum time before OK",
   "PASSWORD_UPDATED": "Password updated",
   "FAILED_TO_UPDATE_PASSWORD": "Failed to update the password",
-  "SECURITY": "Security",
+  "LOGIN_CREDENTIOALS": "Login credentials",
   "CURRENT_PASSWORD": "Current password",
   "NEW_PASSWORD": "New password",
   "UPDATE_PASSWORD": "Update password",
