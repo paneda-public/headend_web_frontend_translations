@@ -740,5 +740,9 @@
   "NEW_PASSWORD": "New password",
   "UPDATE_PASSWORD": "Update password",
   "CURRENT_PASSWORD_INCORRECT": "Current password is incorrect",
-  "CHANGE_PASSWORD": "Change password"
+  "CHANGE_PASSWORD": "Change password",
+  "RESET_PASSWORD": "Reset password",
+  "RESET_TOKEN": "Reset token",
+  "RESET_TOKEN_CREATED": "Reset token created",
+  "RESET_LINK": "Reset link"
 }
