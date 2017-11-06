@@ -746,5 +746,6 @@
   "RESET_TOKEN_CREATED": "Reset token created",
   "RESET_LINK": "Reset link",
   "ALIAS": "Alias",
-  "CREATE_CONFIG": "Create configuration"
+  "CREATE_CONFIG": "Create configuration",
+  "ALIAS_MUST_BE_UNIQUE": "The alias must be unique"
 }
