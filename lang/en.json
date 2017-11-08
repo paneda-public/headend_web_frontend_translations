@@ -228,6 +228,7 @@
   "H_STATUS_CHANNELS_INPUT_BUFFER": "Indicates that the multiplexer receives data for the subchannel.",
   "H_STATUS_CHANNELS_ENCODER_LAUNCER": "Indicates that the enocder launcer in the encoder pool is working.",
   "H_STATUS_CHANNELS_PAD": "Indicates that PAD data is produced for the service.",
+  "H_STATUS_CHANNELS_PAD_FRESHNESS": "Indicates that PAD data has been updated within the specified time period.",
   "AUDIO_SERVICES": "Audio services",
   "ALARM": "Alarm",
   "OK": "Ok",
