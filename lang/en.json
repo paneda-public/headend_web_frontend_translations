@@ -754,5 +754,7 @@
   "H_ENABLE_MAX_AGE" : "When enabled a alarm will be set if the uploaded PAD data is too old. And optionally the (old) PAD can be stopped from being broadcasted",
   "_MINUTES": "minutes",
   "CONTINUE_BROADCASTING_PAD": "Continue broadcasting PAD",
-  "STOP_BROADCASTING_PAD": "Stop broadcasting PAD"
+  "STOP_BROADCASTING_PAD": "Stop broadcasting PAD",
+  "AFTER": "After",
+  "_THEN": "then"
 }
