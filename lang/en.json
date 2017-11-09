@@ -756,6 +756,9 @@
   "_MINUTES": "minutes",
   "CONTINUE_BROADCASTING_PAD": "Continue broadcasting PAD",
   "STOP_BROADCASTING_PAD": "Stop broadcasting PAD",
+  "BROADCAST_BACKUP_PAD": "Start broadcasting backup PAD",
   "AFTER": "After",
-  "_THEN": "then"
+  "_THEN": "then",
+  "CURRENT_SLS": "Current slideshow image(s)",
+  "BACKUP_SLS": "Backup slideshow image(s)"
 }
