@@ -760,5 +760,19 @@
   "AFTER": "After",
   "_THEN": "then",
   "CURRENT_SLS": "Current slideshow image(s)",
-  "BACKUP_SLS": "Backup slideshow image(s)"
+  "BACKUP_SLS": "Backup slideshow image(s)",
+  "NEW_PEWS_MESSAGE_STARTED": "New PEWS message started",
+  "FAILED_TO_START_PEWS_MESSAGE": "Failed to start PEWS message",
+  "PEWS_MESSAGE_STOPPED": "Pews message stopped",
+  "FAILED_TO_STOP_PEWS_MESSAGE": "Failed to stop PEWS message",
+  "PEWS_MESSAGE": "PEWS message",
+  "ZONE_IDS": "Zone IDs",
+  "EVENT_IDS": "Event IDs",
+  "NO_ACTIVE_PEWS_MESSAGES": "No active PEWS messages",
+  "ACTIVE_PEWS_MESSAGES": "Active PEWS messages",
+  "STOP_PEWS_MESSAGE": "Stop PEWS message",
+  "CREATE_NEW_PEWS_MESSAGE": "Create new PEWS message",
+  "ZONE_ID": "Zone ID",
+  "EVENT_ID": "Event ID",
+  "START_PEWS_MESSAGE": "Start PEWS message"
 }
