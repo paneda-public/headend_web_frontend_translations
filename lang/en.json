@@ -778,5 +778,9 @@
   "CREATE_NEW_PEWS_MESSAGE": "Create new PEWS message",
   "ZONE_ID": "Zone ID",
   "EVENT_ID": "Event ID",
-  "START_PEWS_MESSAGE": "Start PEWS message"
+  "START_PEWS_MESSAGE": "Start PEWS message",
+  "ALL": "All",
+  "NOT_ASSIGNED": "Not assigned",
+  "DEFAULT_PROVIDERS": "Default providers",
+  "SPECIFIC_PROVIDERS": "Specific providers"
 }
