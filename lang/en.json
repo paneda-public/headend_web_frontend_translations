@@ -753,6 +753,7 @@
   "RESET_LINK": "Reset link",
   "ALIAS": "Alias",
   "CREATE_CONFIG": "Create configuration",
+  "REMOVE_CONFIG": "Remove configuration",
   "ALIAS_MUST_BE_UNIQUE": "The alias must be unique",
   "MAX_AGE": "",
   "ENABLE_MAX_AGE": "Enable max age",
