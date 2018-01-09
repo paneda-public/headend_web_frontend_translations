@@ -52,6 +52,8 @@
   "H_SHORT_SERVICE_LABEL": "The short service label consist of 8 selectable characters from the long label and is used by devices with a limited sceen size. Toggle the selection of a character by clicking the corresponding button.",
   "SUBCHANNEL_ID": "Subchannel ID",
   "H_SUBCHANNEL_ID": "The identifier of the channel in the ensemble that carries the data for this service.",
+  "HIDDEN_SERVICE": "Hidden service",
+  "H_HIDDEN_SERVICE": "When checked no label FIG(s) will be created for the service. Typically used for a dedicated announcement channel",
   "H_SERVICE_ID": "The identifier for this service.",
   "SERVICE_ID": "Service ID",
   "BITRATE": "Bitrate",
