@@ -790,5 +790,14 @@
   "CHANGE_TO": "Change to",
   "RECONFIGURE_ALL": "Reconfigure all",
   "SUCCESS_RECONFIG_ALL": "Successfully activated all configurations",
-  "FAIILED_RECONFIG_ALL": "Failed to reconfigure"
+  "FAIILED_RECONFIG_ALL": "Failed to reconfigure",
+  "MAC_ADDRESS": "MAC address",
+  "MODE": "Mode",
+  "UP": "Up",
+  "DOWN": "Down",
+  "CARRIER": "Carrier",
+  "CARRIER_DETECTED": "Carrier detected",
+  "NO_CARRIER": "No carrier detected",
+  "SPEED": "Speed",
+  "DUPLEX": "Duplex"
 }
