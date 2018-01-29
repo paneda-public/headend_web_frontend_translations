@@ -799,5 +799,6 @@
   "CARRIER_DETECTED": "Carrier detected",
   "NO_CARRIER": "No carrier detected",
   "SPEED": "Speed",
-  "DUPLEX": "Duplex"
+  "DUPLEX": "Duplex",
+  "UNSUPPORTED_CODEC_PARAMS": "The selected combination of codec parameters are not supported."
 }
