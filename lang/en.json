@@ -800,5 +800,7 @@
   "NO_CARRIER": "No carrier detected",
   "SPEED": "Speed",
   "DUPLEX": "Duplex",
-  "UNSUPPORTED_CODEC_PARAMS": "The selected combination of codec parameters are not supported."
+  "UNSUPPORTED_CODEC_PARAMS": "The selected combination of codec parameters are not supported.",
+  "INVALID_CODEC_SELECTED": "Invalid codec selected",
+  "SERVICE_NAME_PLACEHOLDER": "{{serviceName}}"
 }
