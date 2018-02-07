@@ -803,5 +803,7 @@
   "UNSUPPORTED_CODEC_PARAMS": "The selected combination of codec parameters are not supported.",
   "INVALID_CODEC_SELECTED": "Invalid codec selected",
   "SERVICE_NAME_PLACEHOLDER": "{{serviceName}}",
-  "MISSING_CODEPOINT": "Unable to encode {{text}} using {{encoding}}. First unsupported character is: {{missingCharacter}}"
+  "MISSING_CODEPOINT": "Unable to encode {{text}} using {{encoding}}. First unsupported character is: {{missingCharacter}}",
+  "LINKAGE_SET_NUMBERS": "Linkage set numbers",
+  "LINK_SET_NUMBER_DUPLICATES": "The following linkage set numbers are duplicated"
 }
