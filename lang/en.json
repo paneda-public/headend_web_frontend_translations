@@ -813,5 +813,9 @@
   "KEY_SERVICE_ID": "Key service ID",
   "DAB_SERVICE_ID_LIST": "DAB service ID list",
   "RDS_PI_CODE_LIST": "RDS PI code list",
-  "ALWAYS_ACTIVE": "Always active"
+  "ALWAYS_ACTIVE": "Always active",
+  "HARD_LINK": "Hard link",
+  "SOFT_LINK": "Soft link",
+  "HARD_SOFT_LINK": "Hard/soft",
+  "CLEAR_ALL": "Clear all"
 }
