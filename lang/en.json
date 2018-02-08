@@ -805,5 +805,13 @@
   "INVALID_CODEC_SELECTED": "Invalid codec selected",
   "SERVICE_NAME_PLACEHOLDER": "{{serviceName}}",
   "MISSING_CODEPOINT": "Unable to encode {{text}} using {{encoding}}. First unsupported character is: {{missingCharacter}}",
-  "LINKAGE_SET_NUMBERS": "Linkage set numbers"
+  "LINKAGE_SET_NUMBERS": "Linkage set numbers",
+  "LINKAGE_SET_NUMBER": "Linkage set number",
+  "LINKAGE": "Linkage",
+  "LINKAGE_GROUP_NAME": "Linkage Group name",
+  "ADD_GROUP": "Add group",
+  "KEY_SERVICE_ID": "Key service ID",
+  "DAB_SERVICE_ID_LIST": "DAB service ID list",
+  "RDS_PI_CODE_LIST": "RDS PI code list",
+  "ALWAYS_ACTIVE": "Always active"
 }
