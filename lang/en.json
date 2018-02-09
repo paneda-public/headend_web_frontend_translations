@@ -586,7 +586,9 @@
   "PROGRAMME_SERVICE_REFERENCES": "Programme service references",
   "DATA_SERVICE_REFERENCES": "Data service references",
   "_HEX": "hex",
-  "ADD_ITEM_S": "Add item(s). Press enter to add.",
+  "ADD_ITEM_S": "Example: 1-10, 15-20, 25, 30",
+  "ADD_ITEM_S_BUTTON": "Add item(s). Or press enter",
+  "HEX": "Hexadecimal",
   "FAILED_TO_SAVE_CONTRACT": "Failed to save contract",
   "CONTRACT_SAVED": "Contract saved",
   "SUBCHANNEL_DUPLICATES": "The following subchannels are duplicated: {{dupes}}",
@@ -817,5 +819,8 @@
   "HARD_LINK": "Hard link",
   "SOFT_LINK": "Soft link",
   "HARD_SOFT_LINK": "Hard/soft",
-  "CLEAR_ALL": "Clear all"
+  "CLEAR_ALL": "Clear all",
+  "ADD_NEW": "Add new",
+  "LINKS_SAVED": "Links successfully saved",
+  "FAILED_TO_SAVE_LINKS": "Failed to save links"
 }
