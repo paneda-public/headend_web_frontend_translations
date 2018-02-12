@@ -823,5 +823,8 @@
   "CLEAR_ALL": "Clear all",
   "ADD_NEW": "Add new",
   "LINKS_SAVED": "Links successfully saved",
-  "FAILED_TO_SAVE_LINKS": "Failed to save links"
+  "FAILED_TO_SAVE_LINKS": "Failed to save links",
+  "ACTIVE_LINKAGE_GROUPS": "Active linkage groups",
+  "SERVICES": "Services",
+  "CONF_SETTINGS": "Configuration settings"
 }
