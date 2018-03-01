@@ -832,5 +832,6 @@
   "GROUPS": "Groups",
   "USERS": "Users",
   "ADDITIONAL_ROLES": "Additional roles",
-  "NONE" :"None"
+  "NONE" :"None",
+  "ALL_PROVIDERS": "All providers"
 }
