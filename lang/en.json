@@ -112,8 +112,8 @@
   "USER": "User",
   "SUCCESS_UPDATE_VIRTUAL_PROVIDER_FOR": "Successfully updated virtual provider for",
   "FAILED_UPDATE_VIRTUAL_PROVIDER_FOR": "Failed to update virtual provider for",
-  "SUCCESS_UPDATE_ROLES_FOR": "Successfully updated roles for",
-  "FAILED_UPDATE_ROLES_FOR": "Failed to update roles for",
+  "SUCCESS_UPDATE_USER": "Successfully updated user",
+  "FAILED_UPDATE_USER": "Failed to update user",
   "INVITE_USER": "Invite user",
   "CREATE_INVITE": "Create invitation",
   "UNABLE_TO_CREATE_INVITE": "Unable to create invitation",
@@ -826,5 +826,11 @@
   "FAILED_TO_SAVE_LINKS": "Failed to save links",
   "ACTIVE_LINKAGE_GROUPS": "Active linkage groups",
   "SERVICES": "Services",
-  "CONF_SETTINGS": "Configuration settings"
+  "CONF_SETTINGS": "Configuration settings",
+  "SELECTED_PROVIDER": "Selected provider",
+  "PROVIDER_ACCESS": "Provider access",
+  "GROUPS": "Groups",
+  "USERS": "Users",
+  "ADDITIONAL_ROLES": "Additional roles",
+  "NONE" :"None"
 }
