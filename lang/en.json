@@ -379,6 +379,7 @@
   "ABOUT": "About",
   "INSTALLED_VERSION": "Installed version",
   "INSUFFICIENT_PERMISSIONS": "Insufficient permissions. Action require: {{role}}",
+  "ACTION_REQUIRE": "Action require: {{role}}",
   "CANDIDATE_IS_ACTIVE": "Candidate is active",
   "CANDIDATE_IS_PASSIVE": "Candidate is passive",
   "CANDIDATE_IS_NOT_REACABLE": "Candidate is not reachable",
