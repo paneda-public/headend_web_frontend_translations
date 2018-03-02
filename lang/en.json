@@ -834,5 +834,7 @@
   "USERS": "Users",
   "ADDITIONAL_ROLES": "Additional roles",
   "NONE" :"None",
-  "ALL_PROVIDERS": "All providers"
+  "ALL_PROVIDERS": "All providers",
+  "HIGHLIGHT_REQUIRED_ROLES": "Highlight required roles",
+  "HIDE_REQUIRED_ROLES": "Hide required roles"
 }
