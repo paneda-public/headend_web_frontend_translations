@@ -836,5 +836,5 @@
   "NONE" :"None",
   "ALL_PROVIDERS": "All providers",
   "HIGHLIGHT_REQUIRED_ROLES": "Highlight required roles",
-  "HIDE_REQUIRED_ROLES": "Hide required roles"
+  "ITEMS_PER_PAGE": "Items per page"
 }
