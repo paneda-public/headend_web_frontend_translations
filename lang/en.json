@@ -578,6 +578,7 @@
   "GATEWAY": "Gateway",
   "DESTINATION": "Destination",
   "INPUT_SOURCE_MISSING": "Selected input source '{{sourceName}}' is missing",
+  "NO_LAUNCH_AT_SPECIFIED": "Selected input source '{{sourceName}}' does not specify an encoder to launch at",
   "PAD_SOURCE_MISSING": "Selected PAD source '{{sourceName}}' is missing",
   "VALID_FROM": "Valid From",
   "PAUSED": "Paused",
