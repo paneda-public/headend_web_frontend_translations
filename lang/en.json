@@ -408,6 +408,8 @@
   "DATA_SOURCE": "Data source",
   "H_DATA_SOURCE": "The source of the data. One source can be used in several services if desired.",
   "DATA_TYPE": "Data type",
+  "H_EPG_SOURCE": "The input source for the EPG data. If rest-api is selected no more configuration is needed. Contact Paneda for API description.",
+  "EPG_SOURCE": "EPG data source",
   "H_DATA_TYPE": "The type of data sent. See Data Service Component Type (DSCTy) in ETSI TS 101 756 (Registered Tables)",
   "USER_APPLICATION": "User application type",
   "H_USER_APPLICATION": "The user application type of the data. See User Application type (UAtype) in ETSI TS 101 756 (Registered Tables)",
