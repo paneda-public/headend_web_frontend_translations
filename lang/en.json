@@ -396,6 +396,7 @@
   "H_STATUS_CHANNELS_DATA_INPUT": "Indicates that raw data is received at the input source.",
   "H_STATUS_CHANNELS_DATA_GROUP_ENCODER": "Indicates that the data group encoder is producing data groups.",
   "H_STATUS_CHANNELS_PMD_SUBCHANNEL_ENCODER": "Indicates that the packet mode encoder is producing data for the subchannel",
+  "H_STATUS_HAS_EPG_DATA": "Indicates that ready to transmit EPG data exist",
   "ADD_DATA_SOURCE": "Add data source",
   "DELETE_DATA_SOURCE": "Delete data source",
   "DATA_SOURCE_UPDATED": "Data source successfully updated",
