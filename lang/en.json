@@ -155,6 +155,8 @@
   "ACTIVE_SYSTEM": "Active system",
   "PASSIVE_SYSTEM": "Passive system",
   "LOGS": "Logs",
+  "AUDIO_LEVELS": "Audio levels",
+  "BUFFER_LEVELS": "Buffer levels",
   "LIVE_AUDIO_LEVELS": "Audio levels (live)",
   "LIVE_MUX_BUFFER_LEVELS": "Mux buffer levels (live)",
   "HISTORY_MUX_BUFFER_LEVELS": "Mux buffer levels (history)",
