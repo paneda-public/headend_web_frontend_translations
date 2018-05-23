@@ -848,5 +848,7 @@
   "HIGHLIGHT_REQUIRED_ROLES": "Highlight required roles",
   "ITEMS_PER_PAGE": "Items per page",
   "ENABLE_DELETE": "Enable delete",
-  "REFRESH": "Refresh"
+  "REFRESH": "Refresh",
+  "SELECT_SUBCHANNEL": "Select subchannel",
+  "SELECT_SOURCE": "Select source"
 }
