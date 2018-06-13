@@ -251,6 +251,7 @@
   "H_OS_FREE_MEM": "Indicates if enough RAM memory is available.",
   "H_PANEDA_APP_FREE_MEM": "Indicates if the memory allocation in Paneda applications is OK.",
   "H_NTP_SYNC": "Indicates if the system clock is synchronized via NTP.",
+  "H_APP_SYNC": "Indicates if the internal time is synchronized to the system clock.",
   "H_LAST_ACTIVATED_CONFIG": "Indicates if the last activated configuration was OK.",
   "H_SCHEDULER_RUNNING": "Indicates that the scheduler is monitoring the schedule.",
   "_AGO": "ago",
