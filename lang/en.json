@@ -857,5 +857,8 @@
   "SELECT_SOURCE": "Select source",
   "LICENSE_SAVED": "License file saved",
   "FAILED_TO_SAVE_LICENSE": "Failed to save license file",
-  "LICENSE_CONFIG": "License"
+  "LICENSE_CONFIG": "License",
+  "LICENSE_LIMIT": "License limits",
+  "MAX_NUM_AUDIO_SERVICES": "Max audio services",
+  "MAX_NUM_FHG_CODECS": "Max Fraunhofer AAC codecs"
 }
