@@ -142,6 +142,7 @@
   "H_IN_SUBCHANNEL_ID": "The subchannel ID in the ETI stream to extract.",
   "H_LINKED_SUBCHANNEL_ID": "The subchannel ID you want to link this service too. The subchannel must exist in the configuration.",
   "H_ETI_SOURCE": "The source representing the ETI stream you want to extract a subchannel from. In addition a static converter from for example EDI is needed.",
+  "H_COUNTRY_ID_OVERRIDE": "The countryID and ECC has been overridden for this service to {{countryIdOverride}} and {{eccOverride}}",
   "CLUSTER_CONFIG": "Cluster configuration",
   "SETTINGS": "Settings",
   "OPTIONS": "Options",
