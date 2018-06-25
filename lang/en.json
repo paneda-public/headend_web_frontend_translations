@@ -864,5 +864,6 @@
   "MAX_NUM_FHG_CODECS": "Max Fraunhofer AAC codecs",
   "TOO_MANY_AUDIO_SERVICES": "Too many audio services in the contract. Found {{found}}. Allowed in license is: {{max}}",
   "TOO_MANY_DATA_SERVICES": "Too many data services in the contract. Found {{found}}. Allowed in license is: {{max}}",
-  "TOO_MANY_FHG_CODECS": "Too many Fraunhofer AAC codecs in the contract. Found {{found}}. Allowed in license is: {{max}}"
+  "TOO_MANY_FHG_CODECS": "Too many Fraunhofer AAC codecs in the contract. Found {{found}}. Allowed in license is: {{max}}",
+  "LICENSE_ERROR": "License error. Too many {{type}} used. Limit is: {{limit}}",
 }
