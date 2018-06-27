@@ -873,8 +873,10 @@
   "START_RECORDING": "Start recording",
   "DOWNLOAD_RECORDING": "Download recording",
   "DELETE_RECORDING": "Delete recording",
-  "FILENAME": "filename",
+  "FILE_NAME": "file name",
   "RECORDING_STARTED": "Recording started",
   "ETI_RECORDINGS": "ETI recordings",
-  "_PERCENT": "percent"
+  "_PERCENT": "percent",
+  "REQUESTED_NUM_FRAMES": "#Frames",
+  "FAILED": "failed"
 }
