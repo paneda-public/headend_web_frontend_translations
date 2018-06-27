@@ -868,5 +868,12 @@
   "LICENSE_ERROR": "License error. Too many {{type}} used. Limit is: {{limit}}",
   "INTERFRAGMENT_DELAY": "Interfragment delay",
   "H_INTERFRAGMENT_DELAY": "Add a delay of {{delay_between_each_fragment}} µs between each fragment.",
-  "_MICROSECONDS": "microseconds"
+  "_MICROSECONDS": "microseconds",
+  "PENDING_ETI_RECORDINGS": "Pending ETI recordings",
+  "START_RECORDING": "Start recording",
+  "DOWNLOAD_RECORDING": "Download recording",
+  "DELETE_RECORDING": "Delete recording",
+  "FILENAME": "filename",
+  "RECORDING_STARTED": "Recording started"
+
 }
