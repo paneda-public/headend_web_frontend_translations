@@ -874,6 +874,7 @@
   "DOWNLOAD_RECORDING": "Download recording",
   "DELETE_RECORDING": "Delete recording",
   "FILENAME": "filename",
-  "RECORDING_STARTED": "Recording started"
-
+  "RECORDING_STARTED": "Recording started",
+  "ETI_RECORDINGS": "ETI recordings",
+  "_PERCENT": "percent"
 }
