@@ -878,5 +878,6 @@
   "ETI_RECORDINGS": "ETI recordings",
   "_PERCENT": "percent",
   "REQUESTED_NUM_FRAMES": "#Frames",
-  "FAILED": "failed"
+  "FAILED": "failed",
+  "START_NEW_RECORDING": "Start new recording"
 }
