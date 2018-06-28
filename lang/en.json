@@ -879,5 +879,8 @@
   "_PERCENT": "percent",
   "REQUESTED_NUM_FRAMES": "#Frames",
   "FAILED": "failed",
-  "START_NEW_ETI_RECORDING": "Start new ETI recording"
+  "START_NEW_ETI_RECORDING": "Start new ETI recording",
+  "LEAVE_BLANK_FOR_DEFAULT": "Leave blank for a default name including the mux name, date and time",
+  "H_REQUESTED_NUM_FRAMES": "The number of ETI frames to record",
+  "APPROX": "Approximately"
 }
