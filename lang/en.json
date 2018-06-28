@@ -873,7 +873,7 @@
   "START_RECORDING": "Start recording",
   "DOWNLOAD_RECORDING": "Download recording",
   "DELETE_RECORDING": "Delete recording",
-  "FILE_NAME": "file name",
+  "FILE_NAME": "File name",
   "RECORDING_STARTED": "Recording started",
   "ETI_RECORDINGS": "ETI recordings",
   "_PERCENT": "percent",
@@ -882,5 +882,8 @@
   "START_NEW_ETI_RECORDING": "Start new ETI recording",
   "LEAVE_BLANK_FOR_DEFAULT": "Leave blank for a default name including the mux name, date and time",
   "H_REQUESTED_NUM_FRAMES": "The number of ETI frames to record",
-  "APPROX": "Approximately"
+  "APPROX": "Approximately",
+  "RECORDING_IN_PROGRESS": "Recording is in progress",
+  "FAILED_TO_START_RECORDING": "Failed to start the recording"
+
 }
