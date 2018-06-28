@@ -886,6 +886,7 @@
   "RECORDING_IN_PROGRESS": "Recording is in progress",
   "FAILED_TO_START_RECORDING": "Failed to start the recording",
   "DOWNLOAD_IN_PROGRESS": "Download in progress",
-  "FAILED_TO_DOWNLOAD": "Failed to start the download"
-  
+  "FAILED_TO_DOWNLOAD": "Failed to start the download",
+  "FAILED_TO_DELETE": "Failed to delete recording"
+
 }
