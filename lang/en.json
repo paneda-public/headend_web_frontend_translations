@@ -892,6 +892,6 @@
   "FAILED_TO_DELETE": "Failed to delete recording",
   "MAX_RECORDINGS_REACHED": "You must delete one or more recordings in order to create a new one",
   "RECORDINGS_NEED_LICENSE": "Recording ETI files requires an additional license. Please contact Paneda to learn more.",
-  "DUAL_EDI_NOT_SUPPORTED_UPGRADE_NEEDED": "Dual independent EDI outputs are not supported on this device. Please contact Paneda to discuss upgrade options if you require this option."
-
+  "DUAL_EDI_NOT_SUPPORTED_UPGRADE_NEEDED": "Dual independent EDI outputs are not supported on this device. Please contact Paneda to discuss upgrade options if you require this option.",
+  "TOO_LOW_DISK_FOR_RECORDING": "The system does not have enough free disk space to start the recording."
 }
