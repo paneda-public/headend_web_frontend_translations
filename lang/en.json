@@ -896,5 +896,6 @@
   "TOO_LOW_DISK_FOR_RECORDING": "The system does not have enough free disk space to start the recording.",
   "PRIVACY_GDPR": "GDRP, cookies and privacy",
   "AGREE_GDRP_COOKIE":  "By using this site you agree to our GDRP and cookie policies",
-  "ACCEPT_GDRP_COOKIE": "I accept"
+  "ACCEPT_GDRP_COOKIE": "I accept",
+  "READ_GDRP_COOKIE": "Read our privacy policies"
 }
