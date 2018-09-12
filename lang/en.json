@@ -899,5 +899,6 @@
   "ACCEPT_GDPR_COOKIE": "I accept",
   "READ_GDPR_COOKIE": "Read our privacy policies",
   "CLICK_TOGGLE_TIME": "Click to toggle between absolute and relative time",
-  "SOURCE_INPUT_NAME": "Input name"
+  "SOURCE_INPUT_NAME": "Input name",
+  "_UNNAMED": "unnamed"
 }
