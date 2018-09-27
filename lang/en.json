@@ -239,6 +239,8 @@
   "H_STATUS_CHANNELS_AUDIO_INPUT": "Indicates that the audio input is producing raw audio samples.",
   "H_STATUS_CHANNELS_AUDIO_SILENCE": "Indicates that the audio is not silent.",
   "H_STATUS_CHANNELS_INPUT_BUFFER": "Indicates that the multiplexer receives data for the subchannel.",
+  "H_STATUS_CHANNELS_INPUT_BUFFER_ENCODER": "Indicates that the multiplexer receives data from the encoder.",
+  "H_STATUS_CHANNELS_PREFERRED_SUBCH_INPUT_SELECTED": "Indicates that the multiplexer is using the preferred input for the subchannel",
   "H_STATUS_CHANNELS_ENCODER_LAUNCER": "Indicates that the enocder launcer in the encoder pool is working.",
   "H_STATUS_CHANNELS_PAD": "Indicates that PAD data is produced for the service.",
   "H_STATUS_CHANNELS_PAD_FRESHNESS": "Indicates that PAD data has been updated within the specified time period.",
