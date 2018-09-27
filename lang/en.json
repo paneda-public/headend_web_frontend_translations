@@ -905,5 +905,7 @@
   "_UNNAMED": "unnamed",
   "CHANGE_PRIORITY": "Change priority",
   "INCREASE_PRIORITY": "Increase priority",
-  "DECREASE_PRIORITY": "Decrease priority"
+  "DECREASE_PRIORITY": "Decrease priority",
+  "H_INPUT_IS_SELECTED_IN_MUX": "This input is currently selected in the mux.",
+  "H_INPUT_IS_NOT_SELECTED_IN_MUX": "This input is not currently selected by the multiplexer."
 }
