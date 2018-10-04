@@ -909,5 +909,6 @@
   "H_INPUT_IS_SELECTED_IN_MUX": "This input is used in the multiplexer.",
   "H_INPUT_IS_NOT_SELECTED_IN_MUX": "Currently not used.",
   "FLYTTA_TEXT_USED_AS_PAD": "This text is broadcasted as DLS.",
-  "FLYTTA_TEXT_NOT_USED_AS_PAD": "This is the embedded metadata of the audio input. It is currently not broadcasted as DLS."
+  "FLYTTA_TEXT_NOT_USED_AS_PAD": "This is the embedded metadata of the audio input. It is currently not broadcasted as DLS.",
+  "NEED_LICENSE_FOR_MORE_INPUTS": "Contact Paneda to obtain an additional license if you require additional inputs for this source."
 }
