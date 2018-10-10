@@ -916,6 +916,11 @@
   "UNIT_ID": "Unit ID",
   "NUM_CHILD_APPS": "Num children",
   "COMMAND": "Command",
-  "NUM_TIMES_RESTARTED": "#Restart"
+  "NUM_TIMES_RESTARTED": "#Restart",
+  "DAB_FIG_SETTINGS": "DAB FIG settings",
+  "FREQ": "Frequencies",
+  "OE": "Other ensembles"
+
+
 
 }
