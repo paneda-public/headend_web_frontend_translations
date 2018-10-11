@@ -923,5 +923,9 @@
   "FM_RDS_PI_CODE": "FM RDS PI code",
   "ID": "ID",
   "DAB_ENSEMBLE": "DAB ensemble",
-  "FM_RDS": "FM RDS"
+  "FM_RDS": "FM RDS",
+  "SERVICE_EXIST_HERE": "The FM service exist in this ensemble too",
+  "SERVICE_DOES_NOT_EXIST_HERE": "Other FM service",
+  "THIS_ENSEMBLE": "This ensemble",
+  "OTHER_ENSEMBLE": "Other ensemble"
 }
