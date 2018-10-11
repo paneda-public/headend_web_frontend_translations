@@ -932,5 +932,6 @@
   "CONT_EXPECTED": "Continuous output possible",
   "CONT_NOT_EXPECTED": "Continuous output not expected",
   "TIME_DELAY_ON": "Compensating time delay applied to FM audio signal",
-  "TIME_DELAY_OFF": "No compensating time delay applied to FM audio signal"
+  "TIME_DELAY_OFF": "No compensating time delay applied to FM audio signal",
+  "NOT_APPLICABLE": "Not applicable"
 }
