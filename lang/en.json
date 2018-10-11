@@ -927,7 +927,7 @@
   "SERVICE_EXIST_HERE": "The FM service exist in this ensemble too",
   "SERVICE_DOES_NOT_EXIST_HERE": "Other FM service",
   "THIS_ENSEMBLE": "This ensemble",
-  "OTHER_ENSEMBLE": "Another ensemble",
+  "OTHER_ENSEMBLE": "Other ensemble",
   "CONTINUITY": "Continuity",
   "CONT_EXPECTED": "Continuous output possible",
   "CONT_NOT_EXPECTED": "Continuous output not expected",
