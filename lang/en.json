@@ -923,7 +923,7 @@
   "FM_RDS_PI_CODE": "FM RDS PI code",
   "ID": "ID",
   "DAB_ENSEMBLE": "DAB ensemble",
-  "FM_RDS": "FM RDS",
+  "FM_SERVICE": "FM service",
   "SERVICE_EXIST_HERE": "The FM service exist in this ensemble too",
   "SERVICE_DOES_NOT_EXIST_HERE": "Other FM service",
   "THIS_ENSEMBLE": "This ensemble",
@@ -934,5 +934,7 @@
   "TIME_DELAY_ON": "Compensating time delay applied to FM audio signal",
   "TIME_DELAY_OFF": "No compensating time delay applied to FM audio signal",
   "NOT_APPLICABLE": "Not applicable",
-  "FREQ_LIST": "Frequency list"
+  "FREQ_LIST": "Frequency list",
+  "ADD_FREQ": "Click to add frequency (or press enter)",
+  "FREQ_TYPE": "Frequency type"
 }
