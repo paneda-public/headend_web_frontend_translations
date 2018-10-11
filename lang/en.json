@@ -929,8 +929,8 @@
   "THIS_ENSEMBLE": "The service is in this ensemble",
   "OTHER_ENSEMBLE": "The service is in another ensemble",
   "CONTINUITY": "Continuity",
-  "CONT_EXPECTED": "Continious output possible",
-  "CONT_NOT_EXPECTED": "Continious output not expected",
+  "CONT_EXPECTED": "Continuous output possible",
+  "CONT_NOT_EXPECTED": "Continuous output not expected",
   "TIME_DELAY_ON": "Compensating time delay applied to FM audio signal",
   "TIME_DELAY_OFF": "No compensating time delay applied to FM audio signal"
 }
