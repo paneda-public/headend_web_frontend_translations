@@ -927,5 +927,10 @@
   "SERVICE_EXIST_HERE": "The FM service exist in this ensemble too",
   "SERVICE_DOES_NOT_EXIST_HERE": "Other FM service",
   "THIS_ENSEMBLE": "The service is in this ensemble",
-  "OTHER_ENSEMBLE": "The service is in another ensemble"
+  "OTHER_ENSEMBLE": "The service is in another ensemble",
+  "CONTINUITY": "Continuity",
+  "CONT_EXPECTED": "Continious output possible",
+  "CONT_NOT_EXPECTED": "Continious output not expected",
+  "TIME_DELAY_ON": "Compensating time delay applied to FM audio signal",
+  "TIME_DELAY_OFF": "No compensating time delay applied to FM audio signal"
 }
