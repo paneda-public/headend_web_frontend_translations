@@ -919,8 +919,8 @@
   "NUM_TIMES_RESTARTED": "#Restart",
   "DAB_FIG_SETTINGS": "DAB FIG settings",
   "FREQ": "Frequencies",
-  "OE": "Other ensembles"
-
-
+  "OE": "Other ensembles",
+  "DAB_ENSEMBLE_ID": "DAB ensemble ID",
+  "FM_RDS_PI_CODE": "FM RDS PI code"
 
 }
