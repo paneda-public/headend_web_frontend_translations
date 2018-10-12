@@ -942,6 +942,6 @@
   "FM_FREQ": "FM Frequency (MHz)",
   "ADJACENT_NO_MODE": "Adjacent area (no mode)",
   "ADJACENT_MODE_1": "Adjacent area (mode I)",
-  "NOT_ADJACENT_NO_MODE": "Not <djacent area (no mode)",
-  "NOT_ADJACENT_MODE_1": "Mot adjacent area (mode I)"
+  "NOT_ADJACENT_NO_MODE": "Not adjacent area (no mode)",
+  "NOT_ADJACENT_MODE_1": "Not adjacent area (mode I)"
 }
