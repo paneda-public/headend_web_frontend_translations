@@ -939,9 +939,11 @@
   "ADD_FREQ": "Click to add frequency (or press enter)",
   "FREQ_TYPE": "Frequency type",
   "INVALID_FM_FREQ": "Invalid frequency. The frequency must be given in multiples of 100 kHz.",
-  "FM_FREQ": "FM Frequency (MHz)",
+  "FM_FREQ": "FM frequency (MHz)",
   "ADJACENT_NO_MODE": "Adjacent area (no mode)",
   "ADJACENT_MODE_1": "Adjacent area (mode I)",
   "NOT_ADJACENT_NO_MODE": "Not adjacent area (no mode)",
-  "NOT_ADJACENT_MODE_1": "Not adjacent area (mode I)"
+  "NOT_ADJACENT_MODE_1": "Not adjacent area (mode I)",
+  "_OR": "or",
+  "DAB_FREQ": "DAB frequency (MHz)"
 }
