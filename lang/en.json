@@ -945,5 +945,6 @@
   "NOT_ADJACENT_NO_MODE": "Not adjacent area (no mode)",
   "NOT_ADJACENT_MODE_1": "Not adjacent area (mode I)",
   "_OR": "or",
-  "DAB_FREQ": "DAB frequency (MHz)"
+  "DAB_FREQ": "DAB frequency (MHz)",
+  "INVALID_DAB_FREQ": "Invalid frequency. The frequency must be given in multiples of 16 kHz between 16kHz and 8388.592 MHz."
 }
