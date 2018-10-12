@@ -946,5 +946,6 @@
   "NOT_ADJACENT_MODE_1": "Not geogrgeographicallyapically adjacent area (mode I)",
   "_OR": "or",
   "DAB_FREQ": "DAB frequency (MHz)",
-  "INVALID_DAB_FREQ": "Invalid frequency. The frequency must be given in multiples of 16 kHz between 16kHz and 8388.592 MHz."
+  "INVALID_DAB_FREQ": "Invalid frequency. The frequency must be given in multiples of 16 kHz between 16kHz and 8388.592 MHz.",
+  "COVERAGE_AREA": "Coverage area"
 }
