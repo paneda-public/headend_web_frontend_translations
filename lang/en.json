@@ -952,5 +952,11 @@
   "NAME_OPTIONAL": "Name (optional)",
   "NOT_BROADCASTED": "This field is only to aid in navigating the frequency list. It is not broadcasted",
   "FREQS_SAVED": "Frequency list saved",
-  "FAILED_TO_SAVE_FREQS": "Failed to save the frequency list"
+  "FAILED_TO_SAVE_FREQS": "Failed to save the frequency list",
+  "CA_ID": "CA ID",
+  "OES_SAVED": "OE information saved",
+  "FAILED_TO_SAVE_OES": "Failed to save OE information",
+  "SID_HELP": "Must be 4 HEX characters for an audio service or 8 HEX characters for a data service.",
+  "CA_ID_HELP": "0 = No CA used. 1-7 = used conditional access identifier",
+  "EID_LIST": "Ensemble ID list"
 }
