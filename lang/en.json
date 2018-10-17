@@ -950,5 +950,7 @@
   "INVALID_DAB_FREQ": "Invalid frequency. The frequency must be given in multiples of 16 kHz between 16kHz and 8388.592 MHz.",
   "COVERAGE_AREA": "Coverage area",
   "NAME_OPTIONAL": "Name (optional)",
-  "NOT_BROADCASTED": "This field is only to aid in navigating the frequency list. It is not broadcasted"
+  "NOT_BROADCASTED": "This field is only to aid in navigating the frequency list. It is not broadcasted",
+  "FREQS_SAVED": "Frequency list saved",
+  "FAILED_TO_SAVE_FREQS": "Failed to save the frequency list"
 }
