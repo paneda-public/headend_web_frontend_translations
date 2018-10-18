@@ -958,5 +958,6 @@
   "FAILED_TO_SAVE_OES": "Failed to save OE information",
   "SID_HELP": "Must be 4 HEX characters for an audio service or 8 HEX characters for a data service.",
   "CA_ID_HELP": "0 = No CA used. 1-7 = used conditional access identifier",
-  "EID_LIST": "Ensemble ID list"
+  "EID_LIST": "Ensemble ID list",
+  "CA_NOT_USED": "CA not used"
 }
