@@ -959,5 +959,7 @@
   "SID_HELP": "Must be 4 HEX characters for an audio service or 8 HEX characters for a data service.",
   "CA_ID_HELP": "0 = No CA used. 1-7 = used conditional access identifier",
   "EID_LIST": "Ensemble ID list",
-  "CA_NOT_USED": "CA not used"
+  "CA_NOT_USED": "CA not used",
+  "SERVICE_CARRIED_IN_THIS_ENSEMBLE": "The service is carried in this ensemble",
+  "SERVICE_NOT_CARRIED_IN_THIS_ENSEMBLE": "The service is not carried in this ensemble"
 }
