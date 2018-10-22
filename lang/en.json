@@ -963,5 +963,7 @@
   "SERVICE_CARRIED_IN_THIS_ENSEMBLE": "The service is carried in this ensemble",
   "SERVICE_NOT_CARRIED_IN_THIS_ENSEMBLE": "The service is not carried in this ensemble",
   "UPDATE_DEVICE_NAME": "Update device name (NOTE for remote encoders: this require re-creating the encoder pool and updating all input sources).",
-  "UPDATE_DEVICE_OWNER": "Update device owner"
+  "UPDATE_DEVICE_OWNER": "Update device owner",
+  "FREE": "Free",
+  "_FREE": "free"
 }
