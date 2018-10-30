@@ -965,5 +965,9 @@
   "UPDATE_DEVICE_NAME": "Update device name (NOTE for remote encoders: this require re-creating the encoder pool and updating all input sources).",
   "UPDATE_DEVICE_OWNER": "Update device owner",
   "FREE": "Free",
-  "_FREE": "free"
+  "_FREE": "free",
+  "ATST_OFFSET": "ATST offset",
+  "SECONDS_OFFSET": "Seconds offset",
+  "TSTA_OFFSET": "TSTA/TIST offset",
+  "OVERRIDE_MUX_TIMESTAMP": "Override the timestamp from the mux"
 }
