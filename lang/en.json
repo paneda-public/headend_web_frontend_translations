@@ -969,5 +969,19 @@
   "ATST_OFFSET": "ATST offset",
   "SECONDS_OFFSET": "Seconds offset",
   "TSTA_OFFSET": "TSTA/TIST offset",
-  "OVERRIDE_MUX_TIMESTAMP": "Override the timestamp from the mux"
+  "OVERRIDE_MUX_TIMESTAMP": "Override the timestamp from the mux",
+  "H_PEER_QUEUE_SYNC": "Indicates that the input buffers from all connected peers are synchronized",
+  "DELAY_INFO": "Delay information",
+  "EDI_OUTPUT": "EDI output",
+  "PETI_OUTPUT": "FEP output",
+  "APP_TARGET_DELAY": "Application target delay",
+  "_MS_AGO": "ms ago",
+  "TIST_VALUE": "Tist value",
+  "REMAINING_DOWNSTREAM_DELAY": "Remaining downstream delay",
+  "CURRENT_SECOND_OFFSET" : "Current second offset",
+  "CURRENT_TIST_VALUE": "Current TSTA/TIST value",
+  "REFERENCE_TIST": "Reference TIST (mod 125)",
+  "TIMESTAMP_OVERRIDE": "Timestap override",
+  "USER_SELECTED_TIST_OFFSET": "User selected TSTA/TIST offset"
+
 }
