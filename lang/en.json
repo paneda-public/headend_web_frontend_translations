@@ -971,7 +971,7 @@
   "TSTA_OFFSET": "TSTA/TIST offset",
   "OVERRIDE_MUX_TIMESTAMP": "Override the timestamp from the mux",
   "H_PEER_QUEUE_SYNC": "Indicates that the input buffers from all connected peers are synchronized",
-  "DELAY_INFO": "Delay information",
+  "DELAY_INFO": "Timing information",
   "EDI_OUTPUT": "EDI output",
   "PETI_OUTPUT": "FEP output",
   "APP_TARGET_DELAY": "Application target delay",
