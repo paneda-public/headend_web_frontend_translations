@@ -1000,8 +1000,8 @@
   "name_non_preferred_input": "Non preferred input",
   "desc_non_preferred_input": "The multiplexer has filled the subchannel with content from a non preferred input source",
   "name_no_pad_data": "No PAD data",
-  "desc_no_pad_datat": "There are no PAD data in the audio stream. But the service is configured with PAD",
+  "desc_no_pad_data": "There are no PAD data in the audio stream. But the service is configured with PAD",
   "name_old_pad_data": "Old PAD data",
-  "desc_old_pad_datat": "The PAD data is too old. Backup PAD may or may not be used"
+  "desc_old_pad_data": "The PAD data is too old. Backup PAD may or may not be used"
 
 }
