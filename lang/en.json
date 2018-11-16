@@ -982,6 +982,26 @@
   "CURRENT_TIST_VALUE": "Current TSTA/TIST value",
   "REFERENCE_TIST": "Reference TIST (mod 125)",
   "TIMESTAMP_OVERRIDE": "Timestap override",
-  "USER_SELECTED_TIST_OFFSET": "User selected TSTA/TIST offset"
+  "USER_SELECTED_TIST_OFFSET": "User selected TSTA/TIST offset",
+  "ERROR_HANDLING": "Error handling",
+  "QI_PRIO": "Event priority",
+  "QI_NAME": "Event name",
+  "SWITCH_ON_QI": "Include event in switch criteria",
+  "SET_ERR_FIELD": "Set outgoing ERR field to level 1 if event is present in output",
+  "SET_ERR_IF_PATCHED": "Set outgoing ERR field to level 1 if one or more subchannels are patched",
+  "SET_ERR_IF_NON_PREFERRED": "Set outgoing ERR field to level 1 if the output is not based on the preferred one",
+  "QI_DESC": "Description",
+  "name_no_data": "No data",
+  "desc_no_data": "No audio or other data exist in the subchannel",
+  "name_silent": "Silent",
+  "desc_silent": "The audio is silent",
+  "name_is_file": "Is file",
+  "desc_is_file": "The content of the subchannel originates from a file rather than a live source",
+  "name_non_preferred_input": "Non preferred input",
+  "desc_non_preferred_input": "The multiplexer has filled the subchannel with content from a non preferred input source",
+  "name_no_pad_data": "No PAD data",
+  "desc_no_pad_datat": "There are no PAD data in the audio stream. But the service is configured with PAD",
+  "name_old_pad_data": "Old PAD data",
+  "desc_old_pad_datat": "The PAD data is too old. Backup PAD may or may not be used"
 
 }
