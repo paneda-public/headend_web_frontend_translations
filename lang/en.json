@@ -1011,5 +1011,5 @@
   "desc_old_pad_data": "The PAD data is too old. Backup PAD may or may not be used",
   "SWITCHBACK_HYSTERESIS": "Input Hysteresis (s)",
   "H_SWITCHBACK_HYSTERESIS": "Time in seconds that a failed input must be OK before we switch back to it",
-  "CLICK_TOGGLE_ERROR": "Click to toggle visibility of {{errorCount}} errors"
+  "CLICK_TOGGLE_ERROR": "Click to toggle visibility of {{errorCount}} errors or warnings"
 }
