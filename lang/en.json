@@ -136,12 +136,16 @@
   "INVALID_AUTH_CODE": "Invalid authentication code",
   "DISABLE_TWO_FACTOR": "Disable two factor authentication",
   "ETI_SOURCE": "ETI source",
+  "STI_SOURCE" : "STI source",
   "SOURCE_TYPE": "Source type",
   "IN_SUBCHANNEL_ID": "Input subchannel ID",
+  "IN_STREAM_ID": "Input stream ID (stid)",
   "LINKED_SUBCHANNEL_ID": "Linked subchannel ID",
   "H_IN_SUBCHANNEL_ID": "The subchannel ID in the ETI stream to extract.",
+  "H_IN_STREAM_ID": "The stream ID (stid) in the STI stream to extract.",
   "H_LINKED_SUBCHANNEL_ID": "The subchannel ID you want to link this service too. The subchannel must exist in the configuration.",
   "H_ETI_SOURCE": "The source representing the ETI stream you want to extract a subchannel from. In addition a static converter from for example EDI is needed.",
+  "H_STI_SOURCE": "The source representing the STI stream you want to extract a stream from. In addition a static converter from for example FEP is needed.",
   "H_COUNTRY_ID_OVERRIDE": "The countryID and ECC has been overridden for this service to {{countryIdOverride}} and {{eccOverride}} respectively",
   "CLUSTER_CONFIG": "Cluster configuration",
   "SETTINGS": "Settings",
@@ -1006,5 +1010,6 @@
   "name_old_pad_data": "Old PAD data",
   "desc_old_pad_data": "The PAD data is too old. Backup PAD may or may not be used",
   "SWITCHBACK_HYSTERESIS": "Input Hysteresis (s)",
-  "H_SWITCHBACK_HYSTERESIS": "Time in seconds that a failed input must be OK before we switch back to it"
+  "H_SWITCHBACK_HYSTERESIS": "Time in seconds that a failed input must be OK before we switch back to it",
+  "CLICK_TOGGLE_ERROR": "Click to toggle visibility of {{errorCount}} errors"
 }
