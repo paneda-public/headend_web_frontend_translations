@@ -450,7 +450,6 @@
   "H_PACKET_ADDRESS": "The address of the packets carrying the data in the subchannel.",
   "H_STATUS_CHANNELS_ETI_INPUT": "Indicates that valid ETI data is received.",
   "H_STATUS_CHANNELS_SUBCHANNEL_DATA": "Indicates that the selected subchannel is found in the ETI data.",
-  "H_STATUS_CHANNELS_FEP_STREAM": "Indicates that a FEP stream is being received and decoded.",
   "H_STATUS_CHANNELS_STI_STREAM": "Indicates that an individual STI stream with matching stream ID is being received.",
   "REMOTE_ACCESS": "Remote access",
   "NO_REMOTE_TUNNELS_EXIST": "No remote tunnels established",
