@@ -1012,5 +1012,7 @@
   "desc_old_pad_data": "The PAD data is too old. Backup PAD may or may not be used",
   "SWITCHBACK_HYSTERESIS": "Input Hysteresis (s)",
   "H_SWITCHBACK_HYSTERESIS": "Time in seconds that a failed input must be OK before we switch back to it",
-  "CLICK_TOGGLE_ERROR": "Click to toggle visibility of {{errorCount}} error(s) and/or warning(s)"
+  "CLICK_TOGGLE_ERROR": "Click to toggle visibility of {{errorCount}} error(s) and/or warning(s)",
+  "NEW_ENC_REVISION" : "Force new encoder next reconfiguration",
+  "H_NEW_ENC_REVISION": "Normally, encoders that doesn't change its parameters are kept during a reconfiguration. You may however force a new encoder (application) to be launced if needed."
 }
