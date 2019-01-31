@@ -871,9 +871,11 @@
   "MAX_NUM_AUDIO_SERVICES": "Max audio services",
   "MAX_NUM_DATA_SERVICES": "Max data services",
   "MAX_NUM_FHG_CODECS": "Max Fraunhofer AAC codecs",
+  "MAX_NUM_IRT_MP2_CODECS": "Max IRT MP2 codecs",
   "TOO_MANY_AUDIO_SERVICES": "Too many audio services in the contract. Found {{found}}. Allowed in license is: {{max}}",
   "TOO_MANY_DATA_SERVICES": "Too many data services in the contract. Found {{found}}. Allowed in license is: {{max}}",
   "TOO_MANY_FHG_CODECS": "Too many Fraunhofer AAC codecs in the contract. Found {{found}}. Allowed in license is: {{max}}",
+  "TOO_MANY_IRT_MP2_CODECS": "Too many IRT MP2 codecs in the contract. Found {{found}}. Allowed in license is: {{max}}",
   "LICENSE_ERROR": "License error. Too many {{type}} used. Limit is: {{limit}}",
   "INTERFRAGMENT_DELAY": "Interfragment delay",
   "H_INTERFRAGMENT_DELAY": "Add a delay of {{delay_between_each_fragment}} µs between each fragment.",
@@ -1014,5 +1016,5 @@
   "H_SWITCHBACK_HYSTERESIS": "Time in seconds that a failed input must be OK before we switch back to it",
   "CLICK_TOGGLE_ERROR": "Click to toggle visibility of {{errorCount}} error(s) and/or warning(s)",
   "NEW_ENC_REVISION" : "Force new encoder next reconfiguration",
-  "H_NEW_ENC_REVISION": "Normally, encoders that doesn't change its parameters are kept during a reconfiguration. You may however force a new encoder (application) to be launched if needed."
+  "H_NEW_ENC_REVISION": "Normally, encoders that doesn't change its parameters are kept during a reconfiguration. You may however force a new encoder (application) to be launched if needed. Do so by clicking the button once and then save the source."
 }
