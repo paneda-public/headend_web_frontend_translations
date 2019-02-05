@@ -1009,7 +1009,7 @@
   "name_non_preferred_input": "Non preferred input",
   "desc_non_preferred_input": "The multiplexer has filled the subchannel with content from a non preferred input source",
   "name_insufficient_history": "Insufficient history",
-  "desc_insufficient_history": "Subchannel is OK but lacks sufficient error free history to be considered fully stable.",
+  "desc_insufficient_history": "¨Data in subchannel is OK right now but lacks sufficient error free history to be considered fully stable",
   "name_no_pad_data": "No PAD data",
   "desc_no_pad_data": "There are no PAD data in the audio stream. But the service is configured with PAD",
   "name_old_pad_data": "Old PAD data",
