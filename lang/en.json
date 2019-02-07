@@ -1021,5 +1021,7 @@
   "H_NEW_ENC_REVISION": "Normally, encoders that doesn't change its parameters are kept during a reconfiguration. You may however force a new encoder (application) to be launched if needed. Do so by clicking the button once and then save the source.",
   "ALARM_HISTORY": "Alarm history",
   "NUM_STATE_CHANGES" : "# fluctuations",
-  "DISPLAY_NUM_ALARMS": "Display {{numItems}} alarms from {{group}}"
+  "DISPLAY_NUM_ALARMS": "Display {{numItems}} alarms from {{group}}",
+  "_MONTHS": "months",
+  "_DAYS": "days"
 }
