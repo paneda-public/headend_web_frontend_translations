@@ -1023,5 +1023,10 @@
   "NUM_STATE_CHANGES" : "# fluctuations",
   "DISPLAY_NUM_ALARMS": "Display {{numItems}} alarms from {{group}}",
   "_MONTHS": "months",
-  "_DAYS": "days"
+  "_DAYS": "days",
+  "LAST": "Last",
+  "SELECT_DATE_IN_CHART": "Select time interval in chart",
+  "SELECTED_WEEK": "Selected week",
+  "SELECTED_DAY": "Selected day",
+  "SELECTED_TIME": "Selected time"
 }
