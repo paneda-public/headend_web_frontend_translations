@@ -1021,7 +1021,7 @@
   "H_NEW_ENC_REVISION": "Normally, encoders that doesn't change its parameters are kept during a reconfiguration. You may however force a new encoder (application) to be launched if needed. Do so by clicking the button once and then save the source.",
   "ALARM_HISTORY": "Alarm history",
   "NUM_STATE_CHANGES" : "# fluctuations",
-  "DISPLAY_NUM_ALARMS": "Display {{numItems}} alarms from {{group}}",
+  "INCLUDE_NUM_ALARMS": "In {{numItems}} alarms from {{group}}",
   "_MONTHS": "months",
   "_DAYS": "days",
   "LAST": "Last",
@@ -1030,5 +1030,9 @@
   "SELECTED_DAY": "Selected day",
   "SELECTED_TIME": "Selected time",
   "DISPLAYING_ALARMS_FROM_TO": "Displaying alarms from {{from}} to {{to}}",
-  "DISPLAYING_RANGE": "Displaying {{lower}} - {{upper}} of {{total}} items"
+  "DISPLAYING_RANGE": "Displaying {{lower}} - {{upper}} of {{total}} items",
+  "STARTED_IN_INTERVAL": "Include {{started}} alarms that was started during the selected time period.",
+  "ENDED_IN_INTERVAL": "Include {{ended}} alarms that was ended during the selected time period (may overlap with started alarms)",
+  "ONLY_ACTIVE_IN_INTERVAL": "Include {{active}} alarms that was active but did not change state during the selected time period."
+
 }
