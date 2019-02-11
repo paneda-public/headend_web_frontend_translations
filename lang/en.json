@@ -1035,5 +1035,6 @@
   "ENDED_IN_INTERVAL": "Include {{ended}} alarms that was ended during the selected time period (may overlap with started alarms)",
   "ONLY_ACTIVE_IN_INTERVAL": "Include {{active}} alarms that was active but did not change state during the selected time period.",
   "NO_ITEMS": "No items",
-  "RESOLVED": "Resolved"
+  "RESOLVED": "Resolved",
+  "UNRESOLVED": "Unresolved"
 }
