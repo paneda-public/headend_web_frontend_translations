@@ -1028,5 +1028,6 @@
   "SELECT_DATE_IN_CHART": "Select time interval in chart",
   "SELECTED_WEEK": "Selected week",
   "SELECTED_DAY": "Selected day",
-  "SELECTED_TIME": "Selected time"
+  "SELECTED_TIME": "Selected time",
+  "DISPLAYING_ALARMS_FROM_TO": "Displaying alarms from {{from}} to {{to}}"
 }
