@@ -1029,5 +1029,6 @@
   "SELECTED_WEEK": "Selected week",
   "SELECTED_DAY": "Selected day",
   "SELECTED_TIME": "Selected time",
-  "DISPLAYING_ALARMS_FROM_TO": "Displaying alarms from {{from}} to {{to}}"
+  "DISPLAYING_ALARMS_FROM_TO": "Displaying alarms from {{from}} to {{to}}",
+  "DISPLAYING_RANGE": "Displaying {{lower}} - {{upper}} of {{total}} items"
 }
