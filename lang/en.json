@@ -1036,5 +1036,6 @@
   "ONLY_ACTIVE_IN_INTERVAL": "Include {{active}} alarms that was active but did not change state during the selected time period.",
   "NO_ITEMS": "No items",
   "RESOLVED": "Resolved",
-  "UNRESOLVED": "Unresolved"
+  "UNRESOLVED": "Unresolved",
+  "TOO_MANY_ITEMS_PLEASE_NARROW_TIME_SELECTION": "Too many ({{totalItems}}) items selected to view. Plese select a shorter time period above."
 }
