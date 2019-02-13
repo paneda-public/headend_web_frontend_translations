@@ -1039,5 +1039,5 @@
   "UNRESOLVED": "Unresolved",
   "TOO_MANY_ITEMS_PLEASE_NARROW_TIME_SELECTION": "Too many ({{totalItems}}) items selected to view. Plese select a shorter time period above.",
   "LIVE_STATUS": "Status (live)",
-  "INCLUDE_PROVIDERS_IN_HISTORY": "Include the following providers in the alarm history"
+  "INCLUDE_PROVIDERS_IN_HISTORY": "Include data from the following providers in the alarm history"
 }
