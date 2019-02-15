@@ -1041,5 +1041,6 @@
   "LIVE_STATUS": "Status (live)",
   "INCLUDE_PROVIDERS_IN_HISTORY": "Include data from the following providers in the alarm history",
   "INCLUDE_SHARED_ALARMS": "Include alarms shared between providers (at least one provider must still be selected)",
-  "INCLUDE_CATEGORIES_IN_HISTORY": "Include data from the following alarm categories in the alarm history"
+  "INCLUDE_CATEGORIES_IN_HISTORY": "Include data from the following alarm categories in the alarm history",
+  "TIME_FILTERED_TO": "Time filtered to: {{fromFormatted}} to {{toFormatted}}"
 }
