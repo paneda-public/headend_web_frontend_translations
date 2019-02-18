@@ -1,0 +1,9 @@
+{
+  "WELCOME": "Welkom bij uw PANEDA-kopstation",
+  "SUBCHANNEL_ID_NOT_ALLOWED": "Subchannel ID {{usedSubchannelId}} is niet toegestaan volgens contract.",
+  "SERVICE_ID_NOT_ALLOWED": "Service ID {{usedServiceId}} is niet toegestaan volgens contract.",
+  "PROGRAM_LANGUAGE": "Programmataal",
+  "WELCOME_SHORT": "Paneda head-end systeem",
+  "START_LOG_IN": "Begin alsjeblieft door in te loggen",
+  "ENTER_VALID_EMAIL": "Vul een geldig e-mailadres in"
+}
