@@ -1051,7 +1051,7 @@
   "INCLUDE_SHARED_ALARMS": "Include alarms shared between providers (at least one provider must still be selected)",
   "INCLUDE_CATEGORIES_IN_HISTORY": "Include data from the following alarm categories in the alarm history",
   "TIME_FILTERED_TO": "Time filtered to: {{fromFormatted}} to {{toFormatted}}",
-  "MAINTENANCE_MODE": "Maintenance mode - all subchannels muted",
+  "MAINTENANCE_MODE": "Maintenance mode activated - all subchannels muted",
   "H_MAINTENANCE_MODE": "Toggle between standard and Maintenance mode. When in maintance mode all subchannels from this system are muted and the switch will not use any data from the system unless no other data exist (in default switch setting)",
   "STANDARD_MODE": "standard mode"
 }
