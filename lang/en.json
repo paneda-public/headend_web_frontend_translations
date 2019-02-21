@@ -1057,6 +1057,9 @@
   "ACTIVE_PASSIVE_MODE_SET": "Active/passive mode set",
   "FAILED_TO_SET_ACTIVE_PASSIVE_MODE": "Failed to set active/passive mode",
   "MAINTENANCE_MODE_UPDATED": "Maintenance mode setting updated",
-  "FAILED_TO_SET_MAINTENANCE_MODE": "Failed to activate/deactivate maintenance mode"
+  "FAILED_TO_SET_MAINTENANCE_MODE": "Failed to activate/deactivate maintenance mode",
+  "ADD_BACKUP_FILE_SOURCE": "Add a new backup file source",
+  "DELETE_BACKUP_FILE_SOURCE": "Delete backup file source",
+  "BACKUP_FILE_INPUTS": "Backup (audio) file inputs"
 
 }
