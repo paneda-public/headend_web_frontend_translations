@@ -1053,5 +1053,10 @@
   "TIME_FILTERED_TO": "Time filtered to: {{fromFormatted}} to {{toFormatted}}",
   "MAINTENANCE_MODE": "Maintenance mode activated - all subchannels muted",
   "H_MAINTENANCE_MODE": "Toggle between standard and Maintenance mode. When in maintance mode all subchannels from this system are muted and the switch will not use any data from the system unless no other data exist (in default switch setting)",
-  "STANDARD_MODE": "standard mode"
+  "STANDARD_MODE": "standard mode",
+  "ACTIVE_PASSIVE_MODE_SET": "Active/passive mode set",
+  "FAILED_TO_SET_ACTIVE_PASSIVE_MODE": "Failed to set active/passive mode",
+  "MAINTENANCE_MODE_UPDATED": "Maintenance mode setting updated",
+  "FAILED_TO_SET_MAINTENANCE_MODE": "Failed to activate/deactivate maintenance mode"
+
 }
