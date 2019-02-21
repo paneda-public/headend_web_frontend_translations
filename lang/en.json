@@ -1060,6 +1060,7 @@
   "FAILED_TO_SET_MAINTENANCE_MODE": "Failed to activate/deactivate maintenance mode",
   "ADD_BACKUP_FILE_SOURCE": "Add a new backup file source",
   "DELETE_BACKUP_FILE_SOURCE": "Delete backup file source",
-  "BACKUP_FILE_INPUTS": "Backup (audio) file inputs"
+  "BACKUP_FILE_INPUTS": "Backup (audio) file inputs",
+  "BACKUP_FILE_SOURCES": "File sources"
 
 }
