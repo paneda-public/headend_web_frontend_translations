@@ -1062,6 +1062,7 @@
   "ADD_BACKUP_FILE_SOURCE": "Add a new backup file source",
   "DELETE_BACKUP_FILE_SOURCE": "Delete backup file source",
   "BACKUP_FILE_INPUTS": "Backup (audio) file inputs",
+  "BACKUP_FILE_INPUT": "Backup (audio) file input",
   "BACKUP_FILE_SOURCES": "File sources",
   "BACKUP_FILE_SOURCE_UPDATED": "Backup file source updated",
   "FAILED_TO_UPDATE_BACKUP_FILE_SOURCE": "Failed to update backup file source",
