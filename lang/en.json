@@ -1069,5 +1069,8 @@
   "UPLOAD_FILE": "Upload file",
   "TOO_LONG_DURATION": "Too long duration. Found: {{actualDuration}} seconds. Max allowed are {{maxDuration}} seconds.",
   "TOO_LARGE_FILE": "Too large file. Found: {{actualSize}} MB. Max allowed are {{maxSize}} MB.",
-  "INVALID_FILE_TYPE": "Invalid filetype. Found: {{actualType}}. Allowed are {{allowedTypes}}."
+  "INVALID_FILE_TYPE": "Invalid file type. Found: {{actualType}}. Allowed are {{allowedTypes}}.",
+  "UPLOAD_NEW_FILE": "Upload new file",
+  "CURRENT_FILE": "Current file",
+  "FILE_UPLOADED": "File uploaded"
 }
