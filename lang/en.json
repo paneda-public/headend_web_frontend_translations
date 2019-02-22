@@ -1074,5 +1074,6 @@
   "INVALID_FILE_TYPE": "Invalid file type. Found: {{actualType}}. Allowed are {{allowedTypes}}.",
   "UPLOAD_NEW_FILE": "Upload new file",
   "CURRENT_FILE": "Current file",
-  "FILE_UPLOADED": "File uploaded"
+  "FILE_UPLOADED": "File uploaded",
+  "NO_FALLBACK_FILE": "No fallback file"
 }
