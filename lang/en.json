@@ -1077,5 +1077,6 @@
   "FILE_UPLOADED": "File uploaded",
   "NO_FALLBACK_FILE": "No fallback file",
   "UPLOAD_PROGRESS": "Upload progress",
-  "TRANSCODE_PROGRESS": "Transcode progress"
+  "DECODE_PROGRESS": "Decode progress",
+  "FILE_NOT_FOUND_ON_DISK": "File not found on disk"
 }
