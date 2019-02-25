@@ -1075,5 +1075,7 @@
   "UPLOAD_NEW_FILE": "Upload new file",
   "CURRENT_FILE": "Current file",
   "FILE_UPLOADED": "File uploaded",
-  "NO_FALLBACK_FILE": "No fallback file"
+  "NO_FALLBACK_FILE": "No fallback file",
+  "UPLOAD_PROGRESS": "Upload progress",
+  "TRANSCODE_PROGRESS": "Transcode progress"
 }
