@@ -1062,8 +1062,7 @@
   "FAILED_TO_SET_MAINTENANCE_MODE": "Failed to activate/deactivate maintenance mode",
   "ADD_BACKUP_FILE_SOURCE": "Add a new backup file source",
   "DELETE_BACKUP_FILE_SOURCE": "Delete backup file source",
-  "BACKUP_FILE_INPUTS": "Backup (audio) file inputs",
-  "BACKUP_FILE_INPUT": "Backup (audio) file input",
+  "BACKUP_FILE_INPUTS": "Uploaded audio files",
   "H_BACKUP_FILE_INPUT": "The backup file input is automatically used whenever there are no error-free audio inputs. One file input can be used in many services.",
   "BACKUP_FILE_SOURCES": "File sources",
   "BACKUP_FILE_SOURCE_UPDATED": "Backup file source updated",
@@ -1081,7 +1080,8 @@
   "UPLOAD_PROGRESS": "Upload progress",
   "DECODE_PROGRESS": "Decode progress",
   "FILE_NOT_FOUND_ON_DISK": "File not found on disk",
-  "H_AUDIO_FILE_SIZE": "Original file size: {{size}} bytes. After decoding into raw PCM {{transcodedSize}} bytes.",
   "FILE": "File",
+  "ORIGINAL_SIZE": "Original size",
+  "RAW_PCM_SIZE": "Decoded size",
   "ALARM_NOT_APPLICABLE": "This alarm is not applicable for the source type."
 }
