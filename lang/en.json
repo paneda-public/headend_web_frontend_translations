@@ -1086,5 +1086,10 @@
   "RAW_PCM_SIZE": "Decoded size",
   "ALARM_NOT_APPLICABLE": "This alarm is not applicable for the source type.",
   "EXPAND_MENU": "Expand menu",
-  "COLLAPSE_MENU": "Collapse menu"
+  "COLLAPSE_MENU": "Collapse menu",
+  "IP_STATS": "IP statistics",
+  "IP_FILTER": "IP filter",
+  "IP_FILTER_PREFIX_LEN": "Prefix length",
+  "RETRIEVE_LIVE_IP_FLOWS": "Load live IP data",
+  "GATHERING_DATA_PLZ_WAIT": "Gathering live data. Please wait..."
 }
