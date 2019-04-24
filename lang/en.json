@@ -1091,5 +1091,7 @@
   "IP_FILTER": "IP filter",
   "IP_FILTER_PREFIX_LEN": "Prefix length",
   "RETRIEVE_LIVE_IP_FLOWS": "Load live IP data",
-  "GATHERING_DATA_PLZ_WAIT": "Gathering live data. Please wait..."
+  "GATHERING_DATA_PLZ_WAIT": "Gathering live data. Please wait...",
+  "SERVICE_MANAGEMENT": "Service management",
+  "RUNNING": "Running"
 }
