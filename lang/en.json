@@ -1102,6 +1102,7 @@
   "H_TOGGLE_RESTART_SERVICE": "Click to toggle the disabled state on the restart buttons. Note that restarting services are not normally needed.",
   "ALL_SERVICES_RESTARTED": "All services restarted",
   "FAILED_TO_RESTART_SOME_SERVICE": "One or more services failed to restart",
-  "RESTART_COMPUTER": "Restart computer",
-  "H_RESTART_COMPUTER": "Click to restart the computer (OS)"
+  "REBOOT": "Reboot system",
+  "H_REBOOT": "Click to reboot the operating system",
+  "RESTART_ALL_SERVICES": "Restart all services"
 }
