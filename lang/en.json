@@ -1104,5 +1104,8 @@
   "FAILED_TO_RESTART_SOME_SERVICE": "One or more services failed to restart",
   "REBOOT": "Reboot system",
   "H_REBOOT": "Click to reboot the operating system",
-  "RESTART_ALL_SERVICES": "Restart all services"
+  "RESTART_ALL_SERVICES": "Restart all services",
+  "ENABLE_REBOOT": "Enable reboot button",
+  "DISABLE_REBOOT": "Disable reboot button",
+  "H_TOGGLE_REBOOT": "Click to toggle the disable state on the reboot button. Note that rebooting the system are not normally needed."
 }
