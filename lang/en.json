@@ -1093,5 +1093,10 @@
   "RETRIEVE_LIVE_IP_FLOWS": "Load live IP data",
   "GATHERING_DATA_PLZ_WAIT": "Gathering live data. Please wait...",
   "SERVICE_MANAGEMENT": "Service management",
-  "RUNNING": "Running"
+  "RUNNING": "Running",
+  "RESTART_SERVICE": "Restart service",
+  "SERVICE_RESTARTED": "Service restarted",
+  "FAILED_TO_RESTART_SERVICE": "Failed to restart service",
+  "ENABLE_RESTART_SERVICE": "Click to enable restart buttons",
+  "DISABLE_RESTART_SERVICE": "Click to disable restart buttons"
 }
