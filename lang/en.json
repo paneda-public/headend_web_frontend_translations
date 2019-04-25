@@ -1099,5 +1099,9 @@
   "FAILED_TO_RESTART_SERVICE": "Failed to restart service",
   "ENABLE_RESTART_SERVICE": "Click to enable restart buttons",
   "DISABLE_RESTART_SERVICE": "Click to disable restart buttons",
-  "H_TOGGLE_RESTART_SERVICE": "Click to toggle the disabled state on the restart buttons. Note that restarting services are not normally needed."
+  "H_TOGGLE_RESTART_SERVICE": "Click to toggle the disabled state on the restart buttons. Note that restarting services are not normally needed.",
+  "ALL_SERVICES_RESTARTED": "All services restarted",
+  "FAILED_TO_RESTART_SOME_SERVICE": "One or more services failed to restart",
+  "RESTART_COMPUTER": "Restart computer",
+  "H_RESTART_COMPUTER": "Click to restart the computer (OS)"
 }
