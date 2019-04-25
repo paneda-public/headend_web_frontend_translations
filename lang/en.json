@@ -1107,5 +1107,6 @@
   "RESTART_ALL_SERVICES": "Restart all services",
   "ENABLE_REBOOT": "Enable reboot button",
   "DISABLE_REBOOT": "Disable reboot button",
-  "H_TOGGLE_REBOOT": "Click to toggle the disable state on the reboot button. Note that rebooting the system are not normally needed."
+  "H_TOGGLE_REBOOT": "Click to toggle the disable state on the reboot button. Note that rebooting the system is not normally needed.",
+  "OPERATING_SYSTEM": "Operating system"
 }
