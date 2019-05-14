@@ -357,6 +357,7 @@
   "FAILED_TO_UPDATE_AUDIO_SOURCE": "Failed to update audio source",
   "WEB_STREAM": "Web stream",
   "AES_3": "AES3 (AES/EBU)",
+  "AES_3_ANALOGUE": "AES3 (AES/EBU) / Analogue",
   "AES_67": "AES67 (UDP RTP, livewire)",
   "HTTP_PROXY": "HTTP proxy",
   "MULTICAST_GROUP": "Multicast group",
@@ -1108,5 +1109,7 @@
   "ENABLE_REBOOT": "Enable reboot button",
   "DISABLE_REBOOT": "Disable reboot button",
   "H_TOGGLE_REBOOT": "Click to toggle the disable state on the reboot button. Note that rebooting the system is not normally needed.",
-  "OPERATING_SYSTEM": "Operating system"
+  "OPERATING_SYSTEM": "Operating system",
+  "REBOOT_IN_PROGRESS": "Reboot in progress...",
+  "FAILED_TO_REBOOT": "Failed to initiate a reboot"
 }
