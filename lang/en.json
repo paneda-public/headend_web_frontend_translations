@@ -1111,5 +1111,6 @@
   "H_TOGGLE_REBOOT": "Click to toggle the disable state on the reboot button. Note that rebooting the system is not normally needed.",
   "OPERATING_SYSTEM": "Operating system",
   "REBOOT_IN_PROGRESS": "Reboot in progress...",
-  "FAILED_TO_REBOOT": "Failed to initiate a reboot"
+  "FAILED_TO_REBOOT": "Failed to initiate a reboot",
+  "DIGITAL_INPUT_INFO": "Digital input {{number}}"
 }
