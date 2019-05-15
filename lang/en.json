@@ -1112,5 +1112,8 @@
   "OPERATING_SYSTEM": "Operating system",
   "REBOOT_IN_PROGRESS": "Reboot in progress...",
   "FAILED_TO_REBOOT": "Failed to initiate a reboot",
-  "DIGITAL_INPUT_INFO": "Digital input {{number}}"
+  "DIGITAL_INPUT_INFO": "Digital input {{number}}",
+  "REF_SOURCE": "Reference source",
+  "TEMPERATURE": "Temperature",
+  "LOCKED_TO_INPUT": "Input locked"
 }
