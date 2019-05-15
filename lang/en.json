@@ -1125,5 +1125,9 @@
   "NOT_USED": "Not used",
   "SELECT_INPUT_2_TYPE": "Select input type of stereo channel two",
   "DIGITAL_INPUT": "Digital",
-  "ANALOGUE_INPUT": "Analogue"
+  "ANALOGUE_INPUT": "Analogue",
+  "CHANGE_INPUT_TYPE": "Change input type",
+  "INPUT_TYPE_UPDATED": "Input type updated",
+  "FAILED_TO_UPDATE_INPUT_TYPE": "Failed to update input type"
+  
 }
