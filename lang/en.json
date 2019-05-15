@@ -1114,6 +1114,11 @@
   "FAILED_TO_REBOOT": "Failed to initiate a reboot",
   "DIGITAL_INPUT_INFO": "Digital input {{number}}",
   "REF_SOURCE": "Reference source",
+  "REF_INTERNAL": "Internal",
+  "REF_DIGITAL_IN_1": "Digital in 1",
+  "REF_10M": "10MHz input",
   "TEMPERATURE": "Temperature",
+  "BOARD_TEMPERATURE": "Board",
+  "CPU_TEMPERATURE": "CPU",
   "LOCKED_TO_INPUT": "Input locked"
 }
