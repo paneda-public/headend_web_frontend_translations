@@ -1128,6 +1128,6 @@
   "ANALOGUE_INPUT": "Analogue",
   "CHANGE_INPUT_TYPE": "Change input type",
   "INPUT_TYPE_UPDATED": "Input type updated",
-  "FAILED_TO_UPDATE_INPUT_TYPE": "Failed to update input type"
-  
+  "FAILED_TO_UPDATE_INPUT_TYPE": "Failed to update input type",
+  "PMA_SETTINGS": "HW settings"
 }
