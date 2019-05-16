@@ -1129,5 +1129,9 @@
   "CHANGE_INPUT_TYPE": "Change input type",
   "INPUT_TYPE_UPDATED": "Input type updated",
   "FAILED_TO_UPDATE_INPUT_TYPE": "Failed to update input type",
-  "PMA_SETTINGS": "HW settings"
+  "PMA_SETTINGS": "HW settings",
+  "PROFESSIONAL_MODE": "Professional mode",
+  "CONSUMER_MODE": "Consumer mode",
+  "LINEAR_PCM": "Linear PCM",
+  "OTHER": "Other"
 }
