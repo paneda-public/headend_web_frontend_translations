@@ -1116,7 +1116,7 @@
   "REF_SOURCE": "Reference source",
   "REF_INTERNAL": "Internal",
   "REF_DIGITAL_IN_1": "Digital in 1",
-  "REF_10M": "10MHz input",
+  "REF_10M": "10 MHz input",
   "TEMPERATURE": "Temperature",
   "BOARD_TEMPERATURE": "Board",
   "CPU_TEMPERATURE": "CPU",
