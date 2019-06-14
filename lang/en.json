@@ -1134,5 +1134,8 @@
   "CONSUMER_MODE": "Consumer mode",
   "LINEAR_PCM": "Linear PCM",
   "OTHER": "Other",
-  "FORMAT": "Format"
+  "FORMAT": "Format",
+  "PASSPHRASE": "Passphrase",
+  "REPEAT_PASSPHRASE": "Repeat passphrase",
+  "H_PASSPHRASE": "The backup file contains sensitive data and is therefore encrypted using a key derived from the user supplied passphrase. Use a passphrase with sufficient randomness and length. Do not use your account password. Leave blank for no passphrase (not recommented). Note that not Paneda nor anyone else can access the file content without the passphrase"
 }
