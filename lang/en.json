@@ -1086,6 +1086,7 @@
   "FILE": "File",
   "ORIGINAL_SIZE": "Original size",
   "RAW_PCM_SIZE": "Decoded size",
+  "LISTEN": "Listen",
   "ALARM_NOT_APPLICABLE": "This alarm is not applicable for the source type.",
   "EXPAND_MENU": "Expand menu",
   "COLLAPSE_MENU": "Collapse menu",
