@@ -1142,5 +1142,8 @@
   "H_PASSPHRASE": "The backup file contains sensitive data and is therefore encrypted using a key derived from the user supplied passphrase. Use a passphrase with sufficient randomness and length. Do not use your account password. Leave blank for no passphrase (not recommended). Note that not Paneda nor anyone else can access the file content without the passphrase",
   "RESTORE_BACKUP": "Restore backup",
   "Invalid header HMAC": "Invalid file signature detected. This indicates that an incorrect passphrase was submitted.",
-  "Backup restored": "Backup restored. Rebooting automatically in a few seconds..."
+  "Backup restored": "Backup restored. Rebooting automatically in a few seconds...",
+  "H_CLUSTER_SECRET": "In order for the active and passive systems to communicate they use a 'secret' known only to the cluster members. In order to verify that all cluster members have the same secret you can compare the fingerprint. To update the secret you must supply a random string that will be used to derive a new cluster secret. This initialization string is then salted and hashed to derive the actual secret used.",
+  "CLUSTER_SECRET_FINGERPRINT": "Fingerprint",
+  "CLUSTER_SECRET_INIT": "Generate new secret"
 }
