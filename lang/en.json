@@ -1145,5 +1145,6 @@
   "Backup restored": "Backup restored. Rebooting automatically in a few seconds...",
   "H_CLUSTER_SECRET": "In order for the active and passive system(s) to communicate securely they use a 'secret' known only to the cluster members. In order to verify that all cluster members have the same secret you can compare the fingerprint. To update the secret you must supply a random string that will be used as input to derive the new cluster secret. This is typically done only once during installation.",
   "CLUSTER_SECRET_FINGERPRINT": "Fingerprint",
-  "CLUSTER_SECRET_INIT": "Generate new secret"
+  "CLUSTER_SECRET_INIT": "Generate new secret",
+  "UPDATE": "Update"
 }
