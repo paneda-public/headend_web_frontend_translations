@@ -1162,5 +1162,7 @@
   "INSTALL_CERTIFICATE": "Install certificate",
   "ADD_TRUSTED_ROOT_CERT": "Add additional trusted CA(s)",
   "PEM_CERT_LONG": "Paste PEM formatted certificate here",
-  "TRUSTED_ROOT_CA_LONG": "Trusted root CA(s). PEM format. May contain several root certificates."
+  "TRUSTED_ROOT_CA_LONG": "Trusted root CA(s). PEM format. May contain several root certificates.",
+  "TRUSTED_CA_INSTALLED": "Trusted CA(s) installed/updated",
+  "FAILED_TO_INSTALL_TRUSTED_CA": "Failed to update trusted CA(s)"
 }
