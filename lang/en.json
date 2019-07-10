@@ -1158,5 +1158,7 @@
   "FAILED_TO_GENERATE_CSR": "Failed to generate CSR",
   "CSR_GENERATED": "CSR generated",
   "FQDN_IP": "FQDN, local domain or IP",
-  "ADD_MORE": "Add more"
+  "ADD_MORE": "Add more",
+  "INSTALL_CERTIFICATE": "Install certificate",
+  "ADD_TRUSTED_ROOT_CERT": "Add additional trusted CA(s)"
 }
