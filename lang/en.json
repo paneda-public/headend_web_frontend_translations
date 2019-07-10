@@ -1153,7 +1153,7 @@
   "UPDATE": "Update",
   "TUNNEL_PASSWORD": "Tunnel password",
   "H_TUNNELS": "Tunnels are primarily used to provide access to Paneda for remote support and maintenance. The system need access to internet (optionally via a http proxy, see advanced settings) for remote assistance to work. When the tunnels are opened, they are protected by a random password in addition to the normal login credentials needed. this provides an additional security layer.",
-  "TLS_SETTINGS": "TLS settings",
+  "TLS_SETTINGS": "TLS/SSL settings",
   "GENERATE_CSR": "Generate CSR",
   "FAILED_TO_GENERATE_CSR": "Failed to generate CSR",
   "CSR_GENERATED": "CSR generated",
