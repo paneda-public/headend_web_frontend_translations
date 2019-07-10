@@ -1160,5 +1160,7 @@
   "FQDN_IP": "FQDN, local domain or IP",
   "ADD_MORE": "Add more",
   "INSTALL_CERTIFICATE": "Install certificate",
-  "ADD_TRUSTED_ROOT_CERT": "Add additional trusted CA(s)"
+  "ADD_TRUSTED_ROOT_CERT": "Add additional trusted CA(s)",
+  "PEM_CERT_LONG": "Paste PEM formatted certificate here",
+  "TRUSTED_ROOT_CA_LONG": "Trusted root CA(s). PEM format. May contain several root certificates."
 }
