@@ -1171,5 +1171,10 @@
   "VALID_LICENSE": "Valid license",
   "EXPIRES": "Expires",
   "ISSUED": "Issued",
-  "ISSUED_FOR": "Issued for"
+  "ISSUED_FOR": "Issued for",
+  "INVALID_LICENSE": "Invalid license",
+  "VIEW_LICENSE": "View License",
+  "INSTALL_NEW_LICENSE": "Install new license",
+  "PASTE_LICENSE_KEY_HERE": "Paste license key here",
+  "INSTALL_LICENSE": "Install license"
 }
