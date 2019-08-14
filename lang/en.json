@@ -889,6 +889,9 @@
   "MAX_NUM_DATA_SERVICES": "Max data services",
   "MAX_NUM_FHG_CODECS": "Max Fraunhofer AAC codecs",
   "MAX_NUM_IRT_MP2_CODECS": "Max IRT MP2 codecs",
+  "MAX_NUM_REDUNDANT_SOURCES": "Max number of redundant sources",
+  "MAX_NUM_CLUSTER_MEMBERS": "Max number of cluster members",
+  "EDI_RECORDINGS": "ETI recordings",
   "TOO_MANY_AUDIO_SERVICES": "Too many audio services in the contract. Found {{found}}. Allowed in license is: {{max}}",
   "TOO_MANY_DATA_SERVICES": "Too many data services in the contract. Found {{found}}. Allowed in license is: {{max}}",
   "TOO_MANY_FHG_CODECS": "Too many Fraunhofer AAC codecs in the contract. Found {{found}}. Allowed in license is: {{max}}",
@@ -1164,5 +1167,9 @@
   "PEM_CERT_LONG": "Paste PEM formatted certificate here",
   "TRUSTED_ROOT_CA_LONG": "Trusted root CA(s). PEM format. May contain several root certificates.",
   "TRUSTED_CA_INSTALLED": "Trusted CA(s) installed/updated",
-  "FAILED_TO_INSTALL_TRUSTED_CA": "Failed to update trusted CA(s)"
+  "FAILED_TO_INSTALL_TRUSTED_CA": "Failed to update trusted CA(s)",
+  "VALID_LICENSE": "Valid license",
+  "EXPIRES": "Expires",
+  "ISSUED": "Issued",
+  "ISSUED_FOR": "Issued for"
 }
