@@ -1173,7 +1173,7 @@
   "ISSUED": "Issued",
   "ISSUED_FOR": "Issued for",
   "INVALID_LICENSE": "Invalid license",
-  "INVALID_LICENSE_WITH_REASONS": "Invalid license. {{reason}}",
+  "INVALID_LICENSE_WITH_REASONS": "Invalid license. Used {{key}} with value {{value}} not present in license",
   "VIEW_LICENSE": "View License",
   "INSTALL_NEW_LICENSE": "Install new license",
   "PASTE_LICENSE_KEY_HERE": "Paste license key here",
