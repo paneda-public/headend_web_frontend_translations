@@ -1183,5 +1183,6 @@
   "XPAD_TYPE": "X-PAD type",
   "NO_XPAD": "No X-PAD",
   "SHORT_XPAD": "Short X-PAD",
-  "VAR_XPAD": "Variable X-PAD"
+  "VAR_XPAD": "Variable X-PAD",
+  "PERFORMANCE": "Performance monitor"
 }
