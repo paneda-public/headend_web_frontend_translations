@@ -1184,5 +1184,8 @@
   "NO_XPAD": "No X-PAD",
   "SHORT_XPAD": "Short X-PAD",
   "VAR_XPAD": "Variable X-PAD",
-  "PERFORMANCE": "Performance monitor"
+  "PERFORMANCE": "Performance monitor",
+  "CPU_USAGE": "CPU utilization",
+  "LOAD_AVERAGE": "Load average",
+  "BANDWIDTH": "Bandwidth"
 }
