@@ -1187,5 +1187,13 @@
   "PERFORMANCE": "Performance monitor",
   "CPU_USAGE": "CPU utilization",
   "LOAD_AVERAGE": "Load average",
-  "BANDWIDTH": "Bandwidth"
+  "BANDWIDTH": "Bandwidth",
+  "INPUT_ATTENUATION": "Input attenuation",
+  "AGC TARGET": "AGC Target",
+  "CHANNEL_ATTENUATION": "Channel attenuation",
+  "PLL_LOCK": "PLL",
+  "OUTPUT_POWER": "Output power",
+  "CHANNEL_ENABLED": "Channel enabled",
+  "3V3": "3.3V",
+  "5V": "5V"
 }
