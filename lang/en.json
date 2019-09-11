@@ -1196,5 +1196,6 @@
   "OUTPUT_POWER": "Output power",
   "CHANNEL_ENABLED": "Channel enabled",
   "3V3": "3.3V",
-  "5V": "5V"
+  "5V": "5V",
+  "INVALID_JSON": "Invalid JSON found. Correct syntax before saving."
 }
