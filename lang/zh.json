@@ -43,7 +43,7 @@
   "INVALID_CONFIGURATION": "无效的配置：{{error}}。",
   "CAPACITY_OVERBOOKED": "容量超额预定。使用：{{usedCu}}CU。允许的容量：{{cuCapacity}}CU。",
   "NO_CONFIG_SELECTED": "没有配置选择。请选择或创建一个配置进行编辑。",
-  "DUPLICATED_DATA": "复制的数据发现：",
+  "DUPLICATED_DATA": "复制的数据发现：{{dynamicData}}",
   "SERVICE_LABEL": "服务标签",
   "_IS_REQUIRED": "是必须的",
   "_MUST_BE_LESS_THAN": "必须小于",

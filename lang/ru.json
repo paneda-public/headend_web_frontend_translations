@@ -43,7 +43,7 @@
   "INVALID_CONFIGURATION": "Неверная конфигурация {{error}}",
   "CAPACITY_OVERBOOKED": "Превышен допустимый объём. Использовано: {{usedCu}} единиц. Допустимо: {{cuCapacity}} единиц.",
   "NO_CONFIG_SELECTED": "Нет выбранных конфигураций. Выберите или создайте конфигурации для редактирования.",
-  "DUPLICATED_DATA": "Обнаружены повторяющиеся данные",
+  "DUPLICATED_DATA": "Обнаружены повторяющиеся данные: {{dynamicData}}",
   "SERVICE_LABEL": "Метка услуги",
   "_IS_REQUIRED": "требуется",
   "_MUST_BE_LESS_THAN": "должна быть меньше, чем",
