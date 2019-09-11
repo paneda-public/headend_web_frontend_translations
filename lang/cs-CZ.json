@@ -43,7 +43,7 @@
   "INVALID_CONFIGURATION": "Neplatná konfigurace: {{error}}.",
   "CAPACITY_OVERBOOKED": "Kapacita přeskupená. Použité: {{usedCu}}CU. Povolená kapacita: {{cuCapacity}}CU.",
   "NO_CONFIG_SELECTED": "Nebyla vybrána žádná konfigurace. Vyberte prosím nebo vytvořte konfiguraci, kterou chcete upravit.",
-  "DUPLICATED_DATA": "Počet nalezených duplicitních dat:",
+  "DUPLICATED_DATA": "Počet nalezených duplicitních dat: {{dynamicData}}",
   "SERVICE_LABEL": "Servisní štítek",
   "_IS_REQUIRED": "je požadováno",
   "_MUST_BE_LESS_THAN": "Musí být menší než",

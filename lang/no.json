@@ -43,7 +43,7 @@
   "INVALID_CONFIGURATION": "Ugyldig konfigurasjon: {{error}}.",
   "CAPACITY_OVERBOOKED": "Kapasitet overbooket. Brukt: {{usedCu}}CU. Tillatt kapasitet: {{cuCapacity}}CU.",
   "NO_CONFIG_SELECTED": "Ingen konfigurasjon er valgt. Velg eller opprett en konfigurasjon for å redigere.",
-  "DUPLICATED_DATA": "Dupliserte data funnet:",
+  "DUPLICATED_DATA": "Dupliserte data funnet:{{dynamicData}}",
   "SERVICE_LABEL": "Tjenesteetikett",
   "_IS_REQUIRED": "det kreves",
   "_MUST_BE_LESS_THAN": "må være mindre enn",
