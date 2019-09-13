@@ -1197,5 +1197,13 @@
   "CHANNEL_ENABLED": "Channel enabled",
   "3V3": "3.3V",
   "5V": "5V",
-  "INVALID_JSON": "Invalid JSON found. Correct syntax before saving."
+  "INVALID_JSON": "Invalid JSON found. Correct syntax before saving.",
+  "UPDATE_LANGUAGE_PACKAGE": "Update language package",
+  "H_UPDATE_LANGUAGE_PACKAGE": "This will download an updated language pack from https://lang.paneda.tech optionally using the proxy server specified below",
+  "LANGUAGE_PACK_VERSION": "Language package version",
+  "ENABLED_LANGUAGES": "Enabled languages",
+  "MORE_LANGUAGES": "More languages",
+  "SUCCESSFULLY_UPDATED_LANGUAGE_PACK": "Successfully updated language pack",
+  "FAILED_TO_UPDATE_LANGUAGE_PACK": "Failed to update the language pack",
+  "INSTALLED_LANG_VERSION": "Installed Language pack version"
 }
