@@ -1205,5 +1205,6 @@
   "MORE_LANGUAGES": "More languages",
   "SUCCESSFULLY_UPDATED_LANGUAGE_PACK": "Successfully updated language pack",
   "FAILED_TO_UPDATE_LANGUAGE_PACK": "Failed to update the language pack",
-  "INSTALLED_LANG_VERSION": "Installed Language pack version"
+  "INSTALLED_LANG_VERSION": "Installed Language pack version",
+  "SELECT_LANGUAGE": "Select language"
 }
