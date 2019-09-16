@@ -1207,5 +1207,6 @@
   "FAILED_TO_UPDATE_LANGUAGE_PACK": "Failed to update the language pack",
   "INSTALLED_LANG_VERSION": "Installed Language pack version",
   "SELECT_LANGUAGE": "Select language",
-  "PERCENT_TRANSLATED": "{{translatePercent}}% of the phrases are translated"
+  "PERCENT_TRANSLATED": "{{translatePercent}}% of the phrases are translated",
+  "ACTIVATED_BY": "activated by"
 }
