@@ -1209,7 +1209,11 @@
   "INSTALLED_LANG_VERSION": "Installed Language pack version",
   "SELECT_LANGUAGE": "Select language",
   "PERCENT_TRANSLATED": "{{translatePercent}}% of the phrases are translated",
-  "ACTIVATED_BY": "activated by",
+<<<<<<< 64a81e4cb081b34b7d174ab2cebdea57f02bd158
+  "ACTIVATED_BY": "activated by"
+}
+=======
   "SYNC_PFT_SEQ_NO": "Synchronize the AF and PFT layer sequence numbers",
   "H_SYNC_PFT_SEQ_NO": "This setting will ensure that all PFT fragments sent will use the same AF and PFT sequence number for a specific EDI frame across all EDI ouput flows (with this setting enabled). Not compatible with resend functionality."
 }
+>>>>>>> new translations
