@@ -1214,5 +1214,15 @@
   "PERCENT_TRANSLATED": "{{translatePercent}}% of the phrases are translated",
   "ACTIVATED_BY": "activated by",
   "SYNC_PFT_SEQ_NO": "Synchronize the AF and PFT layer sequence numbers",
-  "H_SYNC_PFT_SEQ_NO": "This setting will ensure that all PFT fragments sent will use the same AF and PFT sequence number for a specific EDI frame across all EDI ouput flows (with this setting enabled). Not compatible with resend functionality."
+  "H_SYNC_PFT_SEQ_NO": "This setting will ensure that all PFT fragments sent will use the same AF and PFT sequence number for a specific EDI frame across all EDI ouput flows (with this setting enabled). Not compatible with resend functionality.",
+  "USE_PFT_ADDR": "Use PFT address field",
+  "PFT_SOURCE_AUTO": "Automatic source address",
+  "PFT_SOURCE_ADDR": "PFT source address",
+  "PFT_DEST_ADDR": "PFT destination address",
+  "H_PFT_SOURCE_AUTO": "Automatically pick the source address as determined from the Paneda smart content switch where 0 = preferred source, 1 = second most preferred and so on",
+  "PFT_SOURCE_MANUAL": "Manual source address",
+  "H_PFT_SOURCE_MANUAL": "Manually specify the source address",
+  "BROADCAST_ADDR" : "Broadcast address",
+  "_DECIMAL": "decimal"
+
 }
