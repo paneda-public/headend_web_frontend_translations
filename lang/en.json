@@ -1225,6 +1225,9 @@
   "PFT_SOURCE_MANUAL": "Manual source address",
   "H_PFT_SOURCE_MANUAL": "Manually specify the source address",
   "BROADCAST_ADDR" : "Broadcast address",
-  "_DECIMAL": "decimal"
+  "_DECIMAL": "decimal",
+  "CRON_STRING": "Cron string",
+  "MANUAL_CRON": "Specify cron string manually",
+  "WIZARD_CRON": "Build cron string using wizard"
 
 }
