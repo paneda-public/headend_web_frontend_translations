@@ -1229,6 +1229,7 @@
   "CRON_STRING": "Cron string",
   "RESULTING_CRON_STRING": "Resulting cron string",
   "MANUAL_CRON": "Specify cron string manually",
-  "WIZARD_CRON": "Build cron string using wizard"
+  "WIZARD_CRON": "Build cron string using wizard",
+  "TOO_MANY_EVENTS_TO_SHOW": "Too many events"
 
 }
