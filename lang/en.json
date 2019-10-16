@@ -1231,6 +1231,11 @@
   "MANUAL_CRON": "Specify cron string manually",
   "WIZARD_CRON": "Build cron string using wizard",
   "TOO_MANY_EVENTS_TO_SHOW": "Too many events to display",
-  "H_EDI_ENABLE_DISABLE": "It is possible to disable an EDI destination by unchecking this tick box and save the changes. It can then easily be enabled again in the future."
-
+  "H_EDI_ENABLE_DISABLE": "It is possible to disable an EDI destination by unchecking this tick box and save the changes. It can then easily be enabled again in the future.",
+  "PAD_SETTINGS": "PAD settings",
+  "RF_AMP_SETTINGS": "RF amplifier settings",
+  "RF_AMP_STATUS": "RF amplifier status",
+  "PBS_SLS_SIZE_INFO": "For the best receiver compatibility and response time, it should be one or more jpg images of 320x240 pixels, each compressed to less than 10 KB.",
+  "PBS_SLS_AUTO_CONV_INFO": "Images larger than 320x240 will be automatically scaled down to 320x240 , however the automatic compression may not be efficient and the images may end up considerably larger, memory wise, than expected.",
+  "XPAD_BITRATE_KBIT_S": "XPAD bitrate (kbit/s)"
 }
