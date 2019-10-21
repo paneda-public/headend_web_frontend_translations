@@ -565,7 +565,7 @@
   "H_ETI_INPUT_DATA_COARSE_QUALITY": "Indicates that the incoming ETI data is syntactically ok.",
   "H_OUTPUT_ENDPOINT": "Indicates that the sending of data to the endoint is successful.",
   "H_ETI_INPUT_DATA_FINE_QUALITY": "Indicates that the incoming ETI stream, including all subchannels, contains OK data.",
-  "H_SWITCH_OUTPUT": "Indicates that the output from the switch, including all subchannels, contains error free (but necessarily preferred) data.",
+  "H_SWITCH_OUTPUT": "Indicates that the output from the switch, including all subchannels, contains error free (but not necessarily preferred) data.",
   "H_EQUIVALENT_DATA_FOUND": "Indicates that two or more streams carrying equivalent data is found. This enables seamless switchover.",
   "H_PREFERRED_SELECTED": "Indicates that all subchannels contain the preferred data",
   "H_DEVICE_CONNECTION": "Indicates that the device is connected to the server.",
@@ -1240,5 +1240,12 @@
   "XPAD_BITRATE_KBIT_S": "XPAD bitrate (kbit/s)",
   "CLICK_TO_OPEN_FILE_SELECT_DIALOG": "Click to open file select dialog",
   "SUCCESS_UPDATE_PAD_SETTINGS": "Successfully updated PAD settings",
-  "FAILED_UPDATE_PAD_SETTINGS": "Failed to update PAD settings!"
+  "FAILED_UPDATE_PAD_SETTINGS": "Failed to update PAD settings!",
+  "REMOVE_EDI": "Remove the EDI output destination ({{endpoint_addr}})",
+  "NO_SWITCH_INSTALLED_EXTENDED": "The Paneda Smart Content Switch functionality is currently not enabled. If this system is part of a redundancy cluster you should enable the switch below. If this is a standalone system, then consider extending it with a redundant peer.",
+  "ENABLE_SWITCH": "Enable switch (this action cannot be undone)",
+  "REQUIRE_CLUSTER_IN_LICENSE": "This feature reuires a license file with a minimum redundant cluster size of two.",
+  "TOO_MANY_SWITCH_INPUTS": "You cannot add more switch inputs than the max cluster size in the license file.",
+  "SUPPRESS_SEND_IF_MUTED": "When the system is muted (maintenance mode/startup), suppress EDI output.",
+  "H_SUPPRESS_SEND_IF_MUTED": "During maintenance mode and system startup the data is internally marked as 'muted'. You can select to ignore this for the EDI output, or to suppress the sending of EDI data until the data becomes 'unmuted' (recommended)."
 }

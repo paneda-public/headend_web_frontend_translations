@@ -565,9 +565,9 @@
   "H_ETI_INPUT_DATA_COARSE_QUALITY": "Indicates that the incoming ETI data is syntactically ok.",
   "H_OUTPUT_ENDPOINT": "Indicates that the sending of data to the endoint is successful.",
   "H_ETI_INPUT_DATA_FINE_QUALITY": "Indicates that the incoming ETI stream, including all subchannels, contains OK data.",
-  "H_SWITCH_OUTPUT": "Indicates that the output from the switch, including all subchannels, contains OK data.",
+  "H_SWITCH_OUTPUT": "Indicates that the output from the switch, including all subchannels, contains error free (but not necessarily preferred) data.",
   "H_EQUIVALENT_DATA_FOUND": "Indicates that two or more streams carrying equivalent data is found. This enables seamless switchover.",
-  "H_PREFERRED_SELECTED": "Indicates that the preferred input is used as output without modifications.",
+  "H_PREFERRED_SELECTED": "Indicates that all subchannels contain the preferred data",
   "H_DEVICE_CONNECTION": "Indicates that the device is connected to the server.",
   "_DISCONNECTED": "disconnected",
   "FORGET_DEVICE": "Forget device",
@@ -999,7 +999,7 @@
   "OVERRIDE_MUX_TIMESTAMP": "Override the timestamp from the mux",
   "H_OVERRIDE_MUX_TIMESTAMP": "It is preferred to set the final ATST (TIST) value as late as possible in the system (I.e enable timestamp override)",
   "H_PEER_QUEUE_SYNC": "Indicates that the input buffers from all connected peers are synchronized",
-  "DELAY_INFO": "Timing information",
+  "DELAY_INFO": "Synchronisation information",
   "EDI_OUTPUT": "EDI output",
   "PETI_OUTPUT": "FEP output",
   "APP_TARGET_DELAY": "Application target delay",
@@ -1011,6 +1011,11 @@
   "REFERENCE_TIST": "Reference TIST (mod 125)",
   "TIMESTAMP_OVERRIDE": "Timestap override",
   "USER_SELECTED_TIST_OFFSET": "User selected TSTA/TIST offset",
+  "CURRENT_DLFC": "Current DLFC",
+  "CURRENT_PFT_SEQ_NO": "Current PFT sequence number",
+  "CURRENT_PFT_CHECKSUM": "Current PFT fragment data checksum",
+  "PFT_SEQ_NO_AT_DLCF_0": "PFT sequence number @ DLFC 0",
+  "PFT_CHECKSUM_AT_DLCF_0": "PFT checksum @ DLFC 0",
   "ERROR_HANDLING": "Error handling",
   "QI_PRIO": "Event priority",
   "QI_NAME": "Event name",
@@ -1209,11 +1214,41 @@
   "INSTALLED_LANG_VERSION": "Installed Language pack version",
   "SELECT_LANGUAGE": "Select language",
   "PERCENT_TRANSLATED": "{{translatePercent}}% of the phrases are translated",
-<<<<<<< 64a81e4cb081b34b7d174ab2cebdea57f02bd158
-  "ACTIVATED_BY": "activated by"
-}
-=======
+  "ACTIVATED_BY": "activated by",
   "SYNC_PFT_SEQ_NO": "Synchronize the AF and PFT layer sequence numbers",
-  "H_SYNC_PFT_SEQ_NO": "This setting will ensure that all PFT fragments sent will use the same AF and PFT sequence number for a specific EDI frame across all EDI ouput flows (with this setting enabled). Not compatible with resend functionality."
+  "H_SYNC_PFT_SEQ_NO": "This setting will ensure that all PFT fragments sent will use the same AF and PFT sequence number for a specific EDI frame across all EDI ouput flows (with this setting enabled). Not compatible with resend functionality.",
+  "USE_PFT_ADDR": "Use PFT address field",
+  "PFT_SOURCE_AUTO": "Automatic source address",
+  "PFT_SOURCE_ADDR": "PFT source address",
+  "PFT_DEST_ADDR": "PFT destination address",
+  "H_PFT_SOURCE_AUTO": "Automatically pick the source address as determined from the Paneda smart content switch where 0 = preferred source, 1 = second most preferred and so on",
+  "PFT_SOURCE_MANUAL": "Manual source address",
+  "H_PFT_SOURCE_MANUAL": "Manually specify the source address",
+  "BROADCAST_ADDR" : "Broadcast address",
+  "_DECIMAL": "decimal",
+  "CRON_STRING": "Cron string",
+  "RESULTING_CRON_STRING": "Resulting cron string",
+  "MANUAL_CRON": "Specify cron string manually",
+  "WIZARD_CRON": "Build cron string using wizard",
+  "TOO_MANY_EVENTS_TO_SHOW": "Too many events to display",
+  "H_EDI_ENABLE_DISABLE": "It is possible to disable an EDI destination by unchecking this tick box and save the changes. It can then easily be enabled again in the future.",
+<<<<<<< f6187c3a4299cf5bbc26802e9307f829bcdde298
+  "PAD_SETTINGS": "PAD settings",
+  "RF_AMP_SETTINGS": "RF amplifier settings",
+  "RF_AMP_STATUS": "RF amplifier status",
+  "PBS_SLS_SIZE_INFO": "For the best receiver compatibility and response time, it should be one or more jpg images of 320x240 pixels, each compressed to less than 10 KB.",
+  "PBS_SLS_AUTO_CONV_INFO": "Images larger than 320x240 will be automatically scaled down to 320x240 , however the automatic compression may not be efficient and the images may end up considerably larger, memory wise, than expected.",
+  "XPAD_BITRATE_KBIT_S": "XPAD bitrate (kbit/s)",
+  "CLICK_TO_OPEN_FILE_SELECT_DIALOG": "Click to open file select dialog",
+  "SUCCESS_UPDATE_PAD_SETTINGS": "Successfully updated PAD settings",
+  "FAILED_UPDATE_PAD_SETTINGS": "Failed to update PAD settings!"
+=======
+  "REMOVE_EDI": "Remove the EDI output destination ({{endpoint_addr}})",
+  "NO_SWITCH_INSTALLED_EXTENDED": "The Paneda Smart Content Switch functionality is currently not enabled. If this system is part of a redundancy cluster you should enable the switch below. If this is a standalone system, then consider extending it with a redundant peer.",
+  "ENABLE_SWITCH": "Enable switch (this action cannot be undone)",
+  "REQUIRE_CLUSTER_IN_LICENSE": "This feature reuires a license file with a minimum redundant cluster size of two.",
+  "TOO_MANY_SWITCH_INPUTS": "You cannot add more switch inputs than the max cluster size in the license file.",
+  "SUPPRESS_SEND_IF_MUTED": "When the system is muted (maintenance mode/startup), suppress EDI output.",
+  "H_SUPPRESS_SEND_IF_MUTED": "During maintenance mode and system startup the data is internally marked as 'muted'. You can select to ignore this for the EDI output, or to suppress the sending of EDI data until the data becomes 'unmuted' (recommended)."
+>>>>>>> words
 }
->>>>>>> new translations
