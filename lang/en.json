@@ -1250,5 +1250,5 @@
   "H_SUPPRESS_SEND_IF_MUTED": "During maintenance mode and system startup the data is internally marked as 'muted'. You can select to ignore this for the EDI output, or to suppress the sending of EDI data until the data becomes 'unmuted' (recommended).",
   "CLICK_HIDE_DETAILS": "Click to hide details",
   "CLICK_SHOW_DETAILS": "Click to show details",
-  "NON_PERFECT_SUBCHANNELS": "Subchannel(s) with remarks(s)"
+  "NON_PERFECT_SUBCHANNELS": "Subchannel(s) with remark(s)"
 }
