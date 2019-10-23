@@ -1251,5 +1251,7 @@
   "CLICK_HIDE_DETAILS": "Click to hide details",
   "CLICK_SHOW_DETAILS": "Click to show details",
   "NON_PERFECT_SUBCHANNELS": "Subchannel(s) with remark(s)",
-  "SELECTED_MUX_IS": "{{muxName}} is selected as the base of the output"
+  "SELECTED_MUX_IS": "{{muxName}}",
+  "_H_SELECTED_MUX_DESC": "is selected as the base of the output",
+  "MULTIPLEXER": "Multiplexer"
 }
