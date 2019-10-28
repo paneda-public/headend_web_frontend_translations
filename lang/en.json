@@ -1253,5 +1253,6 @@
   "NON_PERFECT_SUBCHANNELS": "Subchannel(s) with remark(s)",
   "SELECTED_MUX_IS": "{{muxName}}",
   "_H_SELECTED_MUX_DESC": "is selected as the base of the output",
-  "MULTIPLEXER": "Multiplexer"
+  "MULTIPLEXER": "Multiplexer",
+  "APPROX_TIME_TO_TRANSMIT": "Approximate time to transmit"
 }
