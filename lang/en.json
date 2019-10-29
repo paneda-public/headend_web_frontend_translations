@@ -1254,5 +1254,8 @@
   "SELECTED_MUX_IS": "{{muxName}}",
   "_H_SELECTED_MUX_DESC": "is selected as the base of the output",
   "MULTIPLEXER": "Multiplexer",
-  "APPROX_TIME_TO_TRANSMIT": "Approximate time to transmit"
+  "APPROX_TIME_TO_TRANSMIT": "Approximate time to transmit",
+  "AGC": "AGC",
+  "AUTOMATIC_GAIN_CONTROL": "Automatic gain control"
+  
 }
