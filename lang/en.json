@@ -1256,6 +1256,12 @@
   "MULTIPLEXER": "Multiplexer",
   "APPROX_TIME_TO_TRANSMIT": "Approximate time to transmit",
   "AGC": "AGC",
-  "AUTOMATIC_GAIN_CONTROL": "Automatic gain control"
+  "AUTOMATIC_GAIN_CONTROL": "Automatic gain control",
+  "AGC_TARGET_TOOLTIP": "Set agc power target between -10 and 5 dB in steps of 0.5 dB",
+  "AGC_ENABLE_TOOLTIP": "Enable/disable AGC (Automatic gain control)",
+  "CHANNEL_ATTENUATION_TOOLTIP": "Set the channel attenuation from 0 to 31.5 dB, disable AGC to enable this field",
+  "RF_AMP_ENABLE_TOOLTIP": "Enable/disable RF amplifier channel",
+  "INPUT_ATTENUATION_TOOLTIP": "Enable/disable input attenuation",
+  "RF_AMP_CHANNEL_SELECT_TOOLTIP": "Select channel to control. (Ensemble 1 or ensemble 2)"
   
 }
