@@ -1262,6 +1262,7 @@
   "CHANNEL_ATTENUATION_TOOLTIP": "Set the channel attenuation from 0 to 31.5 dB, disable AGC to enable this field",
   "RF_AMP_ENABLE_TOOLTIP": "Enable/disable RF amplifier channel",
   "INPUT_ATTENUATION_TOOLTIP": "Enable/disable input attenuation",
-  "RF_AMP_CHANNEL_SELECT_TOOLTIP": "Select channel to control. (Ensemble 1 or ensemble 2)"
+  "RF_AMP_CHANNEL_SELECT_TOOLTIP": "Select channel to control. (Ensemble 1 or ensemble 2)",
+  "CHANNEL": "Channel"
   
 }
