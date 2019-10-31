@@ -1307,5 +1307,6 @@
   "CLICK_TEXT_MODE": "Click to switch to text mode",
   "CLICK_LIST_MODE": "Click to switch to list mode",
   "TEXT_MODE_SELECTED": "Text mode selected",
-  "LIST_MODE_SELECTED": "List mode selected"
+  "LIST_MODE_SELECTED": "List mode selected",
+  "FILL_OUT_PROXY_INFO": "Populate the create new proxy container form with the settings used to create this proxy container"
 }
