@@ -1298,7 +1298,8 @@
   "_INTERFACE_WITH_IP": "interface {{ipLabel}} ({{ip}})",
   "_VIA_PROXY_PORT_ON_PROXY": "via proxy port {{targetProxyPortLabel}} ({{proxyport}}) on proxy",
   "PROXY_TARGET_PORT": "Proxy target port",
-  "ONE_PROXY_PORT_DESC": "{{unitSource}} connects to port {{targetPortLabel}} ({{targetPort}}) on interface {{targetIpLabel}} {{targetIp}} via proxy port {{targetProxyPortLabel}} {{targetProxyPort}} on proxy interface {{proxyIpLabel}} {{proxyIp}}",
+  "ONE_PROXY_PORT_DESC": "{{unitSource}} connects to port {{targetPort}} {{targetPortLabel}} on {{unitTarget}} IP {{targetIp}} {{targetIpLabel}} via proxy port {{targetProxyPort}} {{targetProxyPortLabel}} and IP {{proxyIp}} {{proxyIpLabel}}",
+  "ONE_PROXY_ALLOWED_DESC": "Traffic is allowed only from source IP: {{srcIp}} {{srcIpLabel}}",
   "SYSTEM_FUNCTION": "System function",
   "ENCODER_OR_CLIENTS": "Encoder/API clients",
   "CREATE_NEW_PROXY_CONTAINER": "Create new proxy container",
@@ -1308,5 +1309,11 @@
   "CLICK_LIST_MODE": "Click to switch to list mode",
   "TEXT_MODE_SELECTED": "Text mode selected",
   "LIST_MODE_SELECTED": "List mode selected",
-  "FILL_OUT_PROXY_INFO": "Populate the create new proxy container form with the settings used to create this proxy container"
+  "FILL_OUT_PROXY_INFO": "Populate the create new proxy container form with the settings used to create this proxy container",
+  "ALLOWED_FROM": "Allowed from",
+  "ADD_WHITELIST_IP_FOR_API_ACCESS": "Add a whitelisted IP address for API access",
+  "API_CLIENT_IP": "Client IP",
+  "_AND": "and",
+  "INVALID_IP": "Invalid IP",
+  "REMOVE_WHITELIST_IP_FOR_API_ACCESS": "Remove whitelisted IP address"
 }
