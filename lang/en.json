@@ -1315,5 +1315,6 @@
   "API_CLIENT_IP": "Client IP",
   "_AND": "and",
   "INVALID_IP": "Invalid IP",
-  "REMOVE_WHITELIST_IP_FOR_API_ACCESS": "Remove whitelisted IP address"
+  "REMOVE_WHITELIST_IP_FOR_API_ACCESS": "Remove whitelisted IP address",
+  "H_PBS_STATUS_AUDIO_PARAMS_SYNC": "Indicates that external audio headers can be decoded"
 }
