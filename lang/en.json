@@ -1316,5 +1316,6 @@
   "_AND": "and",
   "INVALID_IP": "Invalid IP",
   "REMOVE_WHITELIST_IP_FOR_API_ACCESS": "Remove whitelisted IP address",
-  "H_PBS_STATUS_AUDIO_PARAMS_SYNC": "Indicates that external audio headers can be decoded"
+  "H_PBS_STATUS_AUDIO_PARAMS_SYNC": "Indicates that external audio headers can be decoded",
+  "PBS_SLS_TIME_TO_TRANSMIT_INFO": "The approximate transmission time is the maximum time it will take to transmit the image over the air. The actual time until the image is displayed on the receiver may differ as it depends greatly on the implementation of the receiver."
 }
