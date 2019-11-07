@@ -1039,6 +1039,7 @@
   "desc_is_file": "The content of the subchannel originates from a file rather than a live source",
   "name_non_preferred_input": "Non preferred input",
   "desc_non_preferred_input": "The multiplexer has filled the subchannel with content from a non preferred input source",
+  "name_patched": "Patched subchannel",
   "name_insufficient_history": "Insufficient history",
   "desc_insufficient_history": "Data in subchannel is OK right now but lacks sufficient error free history to be considered fully stable",
   "name_no_pad_data": "No PAD data",
