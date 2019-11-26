@@ -1183,6 +1183,7 @@
   "ADD_MORE": "Add more",
   "INSTALL_CERTIFICATE": "Install certificate",
   "ADD_TRUSTED_ROOT_CERT": "Add additional trusted CA(s)",
+  "UPDATE_TRUSTED_ROOT_CA": "Update trusted root CA store",
   "PEM_CERT_LONG": "Paste PEM formatted certificate here",
   "TRUSTED_ROOT_CA_LONG": "Trusted root CA(s). PEM format. May contain several root certificates.",
   "TRUSTED_CA_INSTALLED": "Trusted CA(s) installed/updated",
