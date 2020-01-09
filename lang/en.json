@@ -905,6 +905,7 @@
   "TOO_MANY_FHG_CODECS": "Too many Fraunhofer AAC codecs in the contract. Found {{found}}. Allowed in license is: {{max}}",
   "TOO_MANY_IRT_MP2_CODECS": "Too many IRT MP2 codecs in the contract. Found {{found}}. Allowed in license is: {{max}}",
   "LICENSE_ERROR": "License error. Too many {{type}} used. Limit is: {{limit}}",
+  "CONTRACT_LIMIT_ERROR": "Contract limit error. Too many {{type}} used. Limit is: {{limit}}",
   "INTERFRAGMENT_DELAY": "Interfragment delay",
   "H_INTERFRAGMENT_DELAY": "Add a delay of {{delay_between_each_fragment}} µs between each fragment.",
   "_MICROSECONDS": "microseconds",
