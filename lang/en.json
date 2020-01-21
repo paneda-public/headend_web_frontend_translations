@@ -1347,5 +1347,6 @@
   "paneda-cm-list-item-mode-deleted": "Item is deleted (pending save)",
   "UNDO_DELETE": "Undo delte operation",
   "ENCODED_IN": "Encoded in",
-  "UNDO": "Undo"
+  "UNDO": "Undo",
+  "READ_ONLY_IN_DOCKER": "Read-only when system is deployed in docker"
 }
