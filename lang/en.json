@@ -1348,5 +1348,10 @@
   "UNDO_DELETE": "Undo delte operation",
   "ENCODED_IN": "Encoded in",
   "UNDO": "Undo",
-  "READ_ONLY_IN_DOCKER": "Read-only when system is deployed in docker"
+  "READ_ONLY_IN_DOCKER": "Read-only when system is deployed in docker",
+  "H_ENABLE_DELETE_ALARM_HISTORY": "Enable the delete button for the alarm history",
+  "H_DELETE_ALARM_HISTORY": "Delete the alarm history. Any unresolved alarms are unaffected. This action cannot be undone.",
+  "H_REFRESH_VIEW": "Refresh view",
+  "ALARM_HISTORY_DELETED": "Alarm history deleted",
+  "FAILED_TO_DELETE_ALARM_HISTORY": "Failed to delete alarm history"
 }
