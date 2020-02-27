@@ -1353,5 +1353,10 @@
   "H_DELETE_ALARM_HISTORY": "Delete the alarm history. Any unresolved alarms are unaffected. This action cannot be undone.",
   "H_REFRESH_VIEW": "Refresh view",
   "ALARM_HISTORY_DELETED": "Alarm history deleted",
-  "FAILED_TO_DELETE_ALARM_HISTORY": "Failed to delete alarm history"
+  "FAILED_TO_DELETE_ALARM_HISTORY": "Failed to delete alarm history",
+  "EPG_PROFILE_ID_LIST": "Profile IDs",
+  "H_EPG_PROFILE_ID_LIST": "The list of SPI Profile IDs that is carried within this service. See ETSI TS 102 371 section 7.1.1",
+  "EPG_BASIC_PROFILE_ID": "Basic profile",
+  "EPG_ADVANCED_PROFILE_ID": "Advanced profile"
+
 }
