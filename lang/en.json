@@ -1361,5 +1361,12 @@
   "EPG_BASIC_PROFILE_ID": "Basic profile",
   "EPG_ADVANCED_PROFILE_ID": "Advanced profile",
   "H_EMPTY_CONFIG": "A predefined, read-only and empty configuration",
-  "H_ON_AIR_CONFIG": "The configuration that is currently being broadcasted. Currently from: '{{createdFrom}}'"
+  "H_ON_AIR_CONFIG": "The configuration that is currently being broadcasted. Currently from: '{{createdFrom}}'",
+  "TEST_TONE": "Test tone",
+  "TEST_TONE_FREQ": "Frequency",
+  "TEST_TONE_WAVE": "Waveform",
+  "WAVE_SINE": "Sine",
+  "WAVE_SILENCE": "Silence",
+  "WAVE_PINK_NOISE": "Pink noise",
+  "WAVE_WHITE_NOISE": "White noise"
 }
