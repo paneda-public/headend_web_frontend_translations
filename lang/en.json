@@ -1359,6 +1359,7 @@
   "EPG_PROFILE_ID_LIST": "Profile IDs",
   "H_EPG_PROFILE_ID_LIST": "The list of SPI Profile IDs that is carried within this service. See ETSI TS 102 371 section 7.1.1",
   "EPG_BASIC_PROFILE_ID": "Basic profile",
-  "EPG_ADVANCED_PROFILE_ID": "Advanced profile"
-
+  "EPG_ADVANCED_PROFILE_ID": "Advanced profile",
+  "H_EMPTY_CONFIG": "A predefined, read-only and empty configuration",
+  "H_ON_AIR_CONFIG": "The configuration that is currently being broadcasted. Currently from: '{{createdFrom}}'"
 }
