@@ -1368,5 +1368,6 @@
   "WAVE_SINE": "Sine",
   "WAVE_SILENCE": "Silence",
   "WAVE_PINK_NOISE": "Pink noise",
-  "WAVE_WHITE_NOISE": "White noise"
+  "WAVE_WHITE_NOISE": "White noise",
+  "MUX_ENTITY_NAME": "Mux name"
 }
