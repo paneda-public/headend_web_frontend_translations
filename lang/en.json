@@ -1371,5 +1371,7 @@
   "WAVE_WHITE_NOISE": "White noise",
   "MUX_ENTITY_NAME": "Mux name",
   "MUX_ENTITY_ID": "Mux ID",
-  "PBS_AUDIO_FILES_SETTINGS": "Audio Files"
+  "PBS_AUDIO_FILES_SETTINGS": "Audio Files settings",
+  "PBS_ACTIVATE_BREAK_IN": "Activate break-in",
+  "PBS_BREAK_IN_TOOLTIP": "Toggle break-in using the selected audio file."
 }
