@@ -1373,5 +1373,9 @@
   "MUX_ENTITY_ID": "Mux ID",
   "PBS_AUDIO_FILES_SETTINGS": "Audio Files settings",
   "PBS_ACTIVATE_BREAK_IN": "Activate break-in",
-  "PBS_BREAK_IN_TOOLTIP": "Toggle break-in using the selected audio file."
+  "PBS_AUDIO_FILE_BREAK_IN_FAILED": "Break-in failed!",
+  "PBS_BREAK_IN_TOOLTIP": "Toggle break-in using the selected audio file.",
+  "PBS_FILE_UPLOADED_AND_DECODED": "Audio file uploaded and decoded",
+  "PBS_AUDIO_FILE_UPDATED": "Audio file updated",
+  "PBS_FAILED_TO_UPDATE_AUDIO_FILE": "Failed to update audio file!"
 }
