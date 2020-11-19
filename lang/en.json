@@ -1380,5 +1380,6 @@
   "PBS_FAILED_TO_UPDATE_AUDIO_FILE": "Failed to update audio file!",
   "PRE_RECORDED_MESSAGES": "Pre-recorded messages",
   "PBS_SIGNAL_NAME": "Trigger signal name",
-  "PBS_TRIGGER_SIGNALS": "Trigger signals"
+  "PBS_TRIGGER_SIGNALS": "Trigger signals",
+  "PBS_USE_CHECKBOX_TO_OVERRIDE_SIGNAL": "Use checkbox to override signal state"
 }
