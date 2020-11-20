@@ -1384,6 +1384,7 @@
   "PBS_USE_CHECKBOX_TO_OVERRIDE_SIGNAL": "Use checkbox to override signal state",
   "PBS_IO_TRIGGER_AUDIO_SOURCE_SELECTION": "Select I/O trigger audio source",
   "PBS_IO_TRIGGER_AUDIO_SOURCE_CURRENT": "Current source",
-  "PBS_IO_TRIGGER_OVERRIDE": "I/O trigger override"
+  "PBS_IO_TRIGGER_OVERRIDE": "I/O trigger override",
+  "PBS_IO_TRIGGER_SOURCE": "I/O trigger audio source"
   
 }
