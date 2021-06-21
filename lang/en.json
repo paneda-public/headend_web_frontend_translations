@@ -1059,6 +1059,8 @@
   "desc_no_pad_data": "There are no PAD data in the audio stream. But the service is configured with PAD",
   "name_old_pad_data": "Old PAD data",
   "desc_old_pad_data": "The PAD data is too old. Backup PAD may or may not be used",
+  "name_stream_degraded": "Stream degraded",
+  "desc_stream_degraded": "The input stream is degraded",
   "SWITCHBACK_HYSTERESIS": "Input Hysteresis (s)",
   "H_SWITCHBACK_HYSTERESIS": "Time in seconds that a failed input must be OK before we switch back to it",
   "CLICK_TOGGLE_ERROR": "Click to toggle visibility of {{errorCount}} error(s) and/or warning(s)",
