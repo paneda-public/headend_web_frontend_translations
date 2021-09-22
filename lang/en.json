@@ -1410,6 +1410,7 @@
   "FIG_STATISTICS": "Fig statistics",
   "AVERAGE_MIN_SENDPOINT_IN_FIC": "Average min sendpoint in fic",
   "AVERAGE_MAX_SENDPOINT_IN_FIC": "Average max sendpoint in fic",
+  "CURRENTLY_USED_FARE": "Currently used fare",
   "FIG_NAME": "Fig name",
   "LARGEST_SEEN_REP_RATE": "Largest seen repetition rate",
   "AVERAGE_SEEN_REP_RATE": "Average seen repetition rate",
