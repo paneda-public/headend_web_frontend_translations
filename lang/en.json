@@ -42,7 +42,7 @@
   "HISTORY_VIEW": "Configuration history",
   "CONFIG_SYNTAX_ERROR": "Invalid configuration syntax. Try fixing the problem in the expert editor.",
   "INVALID_CONFIGURATION": "Invalid configuration: {{error}}.",
-  "INVALID_PTY_FOUND": "Invalid PTY selected. No FIG 0/19 will be generated.",
+  "INVALID_PTY_FOUND": "Invalid PTY selected. No FIG 0/17 will be generated.",
   "INVALID_LANGUAGE_FOUND": "Invalid language selected. No FIG 0/5 will be generated.",
   "CAPACITY_OVERBOOKED": "Capacity overbooked. Used: {{usedCu}} CU. Allowed capacity: {{cuCapacity}} CU.",
   "NO_CONFIG_SELECTED": "No configuration selected. Please select or create a configuration to edit.",
