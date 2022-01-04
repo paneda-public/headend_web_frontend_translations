@@ -1265,7 +1265,7 @@
   "H_PFT_SOURCE_AUTO": "Automatically pick the source address as determined from the Paneda smart content switch where 0 = preferred source, 1 = second most preferred and so on",
   "PFT_SOURCE_MANUAL": "Manual source address",
   "H_PFT_SOURCE_MANUAL": "Manually specify the source address",
-  "BROADCAST_ADDR" : "Broadcast address",
+  "BROADCAST_ADDR": "Broadcast address",
   "_DECIMAL": "decimal",
   "CRON_STRING": "Cron string",
   "RESULTING_CRON_STRING": "Resulting cron string",
@@ -1359,8 +1359,8 @@
   "H_PBS_STATUS_AUDIO_PARAMS_SYNC": "Indicates that external audio headers can be decoded",
   "PBS_SLS_TIME_TO_TRANSMIT_INFO": "The approximate transmission time is the maximum time it will take to transmit the image over the air. The actual time until the image is displayed on the receiver may differ as it depends greatly on the implementation of the receiver.",
   "H_EDIT_SERVICE_ADVANCED": "Click to toggle edit of configuration file in advanced mode. Note that this is normally not needed.",
-  "H_DIFF_SERVICE_CONF_FACTORY" : "Current (saved) difference from factory default",
-  "H_DIFF_SERVICE_CONF_CURRENT" : "Pending (unsaved) difference in editor",
+  "H_DIFF_SERVICE_CONF_FACTORY": "Current (saved) difference from factory default",
+  "H_DIFF_SERVICE_CONF_CURRENT": "Pending (unsaved) difference in editor",
   "SAVE_ADVANCED_CONFIG": "Save configuration file",
   "SET_FACTORY_DEFAULT": "Set config to factory default",
   "H_ADVANCED_MODE_EDIT_WARNING": "Warning: Editing this file in advanced mode can severely impact the functionality of the system. Only do so if instructed by Paneda support personnel.",
@@ -1462,5 +1462,4 @@
   "PBS_IO_TRIGGER_AUDIO_SOURCE_CURRENT": "Current source",
   "PBS_IO_TRIGGER_OVERRIDE": "I/O trigger override",
   "PBS_IO_TRIGGER_SOURCE": "I/O trigger audio source"
-  
 }
