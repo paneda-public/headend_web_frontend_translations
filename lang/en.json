@@ -661,6 +661,8 @@
   "REQUIRED_ACTIONS": "Required actions:",
   "MISSING_SETTING": "Missing setting: '{{settingName}}' - Click to configure.",
   "SERVICE_CONF_REFORMAT": "Convert service configuration format: '{{reason}}'. - Click to convert.",
+  "SETTING_MOVE": "Setting has moved: '{{reason}}'. - Click to convert.",
+  "SETTING_REFORMAT": "Setting format has changed: {{reason}}'. - Click to convert.",
   "SCRIPT_EXECUTED_SUCCESSFULLY": "Script executed successfully",
   "FAILED_TO_EXECUTE_SCRIPT": "Failed to execute script.",
   "UNDEFINED": "Undefined",
