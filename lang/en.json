@@ -424,7 +424,7 @@
   "CANDIDATE_IS_PASSIVE": "Candidate is passive",
   "CANDIDATE_IS_NOT_REACABLE": "Candidate is not reachable",
   "CANDIDATE_HAS_DIFFERENT_VERSION": "Cluster member has a different version. Synchronisation is degraded.",
-  "CANDIDATE_HAS_DIFFERENT_UPGRADE_ACTIONS": "Cluster member has a different upgrade actions completed. Synchronisation is degraded.",
+  "CANDIDATE_HAS_DIFFERENT_UPGRADE_ACTIONS": "Cluster member has a different upgrade actions remaining. Synchronisation is degraded.",
   "SYSTEM_IS_PASSIVE": "System is passive. Action requires an active system",
   "SILENCE_DETECT_TIME_SPAN": "Silence detect time span",
   "SILENCE_DETECT_THRESHOLD": "Silence detect threshold",
