@@ -644,6 +644,7 @@
   "HEX": "Hexadecimal",
   "FAILED_TO_SAVE_CONTRACT": "Failed to save contract",
   "CONTRACT_SAVED": "Contract saved",
+  "NAME_DUPLICATES": "The following names are duplicated: {{dupes}}",
   "SUBCHANNEL_DUPLICATES": "The following subchannels are duplicated: {{dupes}}",
   "PROGRAM_SERVICE_REF_DUPLICATES": "The following programme service references are duplicated: {{dupes}}",
   "DATA_SERVICE_REF_DUPLICATES": "The following data service references are duplicated: {{dupes}}",
