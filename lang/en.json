@@ -907,6 +907,7 @@
   "ADDITIONAL_ROLES": "Additional roles",
   "NONE": "None",
   "ALL_PROVIDERS": "All providers",
+  "ALL_SCOPES": "All scopes",
   "HIGHLIGHT_REQUIRED_ROLES": "Highlight required roles",
   "ITEMS_PER_PAGE": "Items per page",
   "ENABLE_DELETE": "Enable delete",
