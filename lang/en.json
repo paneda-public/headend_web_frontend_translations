@@ -850,6 +850,7 @@
   "INCLUDE_USER_APPLICATION": "Include a User Application",
   "H_INCLUDE_DYNAMIC_LABEL": "Use a dynamic label service (DLS). A DLS service can only be carried in PAD.",
   "H_INCLUDE_USER_APPLICATION": "Use a user application service. These services can often be sent in both PAD or using a PMD subchannel.",
+  "USER_APPLICATION_TYPE": "User application type",
   "DTM_COMPLETED_JUST_IN_TIME": "Completed just in time",
   "DTM_HEADER_UPDATE": "Use header update",
   "DTM_TRIGGER_TIME": "Use trigger time",
