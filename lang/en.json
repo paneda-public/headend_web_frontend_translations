@@ -863,6 +863,7 @@
   "PRIMARY_SLS_CONTENT": "Primary slideshow service content",
   "FALLBACK_SLS_CONTENT": "Fallback slideshow service content",
   "MIN_DISPLAY_DURATION_SECONDS": "Minimum display time (seconds)",
+  "H_MIN_DISPLAY_DURATION_SECONDS": "The minimum time this object should appear on the receiver. Required for DLS. Optional for SLS (the image will then appear for how long it takes to transmit the next one)",
   "DYNAMIC_LABEL": "Dynamic label",
   "DL_PLUS_API_ONLY": "DL+ tags. Use the API to modify the DL+ content.",
   "DATA_SOURCE_CONTENT_UPDATED": "Data source content updated",
