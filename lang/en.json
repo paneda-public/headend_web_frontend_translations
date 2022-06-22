@@ -238,6 +238,7 @@
   "RESEND_BUFFER_SIZE": "Resend buffer size",
   "MUST_BE_GREATER_THAN_OR_EQUAL_TO": "Must be greater than or equal to",
   "MUST_BE_LESS_THAN_OR_EQUAL_TO": "Must be less than or equal to",
+  "MUST_BE_INTEGER": "Must be an integer",
   "MAX_FRAGMENT_PAYLOAD_SIZE": "Maximum payload size per fragment",
   "OFFSET_IN_SECONDS": "Offset in seconds",
   "OFFSET_IN_MILLISECONDS": "Offset in milliseconds",
