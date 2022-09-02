@@ -980,6 +980,8 @@
   "ADD_NEW_DAB_ID": "Add new DAB ID",
   "ADD_NEW_RDS_ID": "Add new RDS ID",
   "ADD_NEW_DRM_AMSS_ID": "Add new DRM/AMSS ID",
+  "DISABLE_IMPLICIT_RDS_LINK": "Disable RDS implicit link",
+  "H_DISABLE_IMPLICIT_RDS_LINK": "If no RDS IDs are specified, the DAB service ID is implicitly linked against the RDS PI code with the same value. Tick the box to disable this implicit linkage. If one or more RDS IDs are given, then the implicit linkage is automatically disabled.",
   "HARD_LINK": "Hard link",
   "SOFT_LINK": "Soft link",
   "HARD_SOFT_LINK": "Hard/soft",
