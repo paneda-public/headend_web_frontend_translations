@@ -45,6 +45,7 @@
   "INVALID_PTY_FOUND": "Invalid PTY selected. No FIG 0/17 will be generated.",
   "INVALID_LANGUAGE_FOUND": "Invalid language selected. No FIG 0/5 will be generated.",
   "CAPACITY_OVERBOOKED": "Capacity overbooked. Used: {{usedCu}} CU. Allowed capacity: {{cuCapacity}} CU.",
+  "CU_ALLOCATION_MISUSED": "CU allocation misused: {{reason}}.",
   "NO_CONFIG_SELECTED": "No configuration selected. Please select or create a configuration to edit.",
   "DUPLICATED_DATA": "Duplicated data found: {{dynamicData}}",
   "SERVICE_LABEL": "Service label",
