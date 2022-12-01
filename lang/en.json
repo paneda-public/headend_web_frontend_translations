@@ -646,7 +646,7 @@
   "PAUSED": "Paused",
   "CAPACITY_START": "Start CU address",
   "CAPACITY_START_NOT_USED": "Automatically set by mux",
-  "H_USE_CAPACITY_START": "Start CU address for all services of this provider",
+  "H_USE_CAPACITY_START": "Start CU of the range allocated for this provider",
   "USE_CAPACITY_START": "Manually defined",
   "CU_OVERALLOCATED": "Capacity overallocated. Remove {{cu}} CU from contract",
   "CAPACITY": "Capacity",
