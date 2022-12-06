@@ -644,6 +644,7 @@
   "PAD_SOURCE_MISSING": "Selected PAD source '{{sourceName}}' is missing",
   "VALID_FROM": "Valid From",
   "PAUSED": "Paused",
+  "SUBCHANNEL_CU_START": "Start CU address (leave blank for automatic mode)",
   "CAPACITY_START": "Start CU address",
   "CAPACITY_START_NOT_USED": "Automatically set by mux",
   "H_USE_CAPACITY_START": "Start CU of the range allocated for this provider",
