@@ -680,6 +680,8 @@
   "SET": "Set",
   "UNSET": "Unset",
   "AL_FLAG_SET_IN_ENSEMBLE": "Alarm support is specified on ensemble level",
+  "FIG_O7_ENABLED": "FIG 0/7 usage",
+  "H_FIG_O7_ENABLED": "Control the usage of FIG 0/7 (I.e. if ETSI 300 401 v2.1+ is enabled or not).",
   "REQUIRED_ACTIONS": "Required actions:",
   "MISSING_SETTING": "Missing setting: '{{settingName}}' - Click to configure.",
   "SERVICE_CONF_REFORMAT": "Convert service configuration format: '{{reason}}'. - Click to convert.",
