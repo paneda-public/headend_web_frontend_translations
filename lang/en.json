@@ -1487,7 +1487,7 @@
   "H_REFRESH_VIEW": "Refresh view",
   "ALARM_HISTORY_DELETED": "Alarm history deleted",
   "FAILED_TO_DELETE_ALARM_HISTORY": "Failed to delete alarm history",
-  "H_EXPORT_HISTORY": "Export alarm history as comma sparated values (.csv)",
+  "H_EXPORT_HISTORY": "Export alarm history as comma separated values (.csv)",
   "ALARM_HISTORY_EXPORTED": "Alarm history has been exported",
   "FAILED_TO_EXPORT_ALARM_HISTORY": "Failed to xport alarm history",
   "EPG_PROFILE_ID_LIST": "Profile IDs",
