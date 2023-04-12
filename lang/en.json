@@ -920,6 +920,7 @@
   "MSC_DATA_GROUP_SIZE": "MSC data group size",  
   "OVERRIDE_TIMEOUT_SECONDS": "Override timeout (seconds)",
   "SOURCE_ID": "Source ID",
+  "INPUT_ID": "Input ID",
   "DLS_TARGET_SEND_INTERVAL": "Target send interval (seconds)",
   "TRANSPORT": "Transport",
   "T_REST_API": "Rest API",
