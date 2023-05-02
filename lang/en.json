@@ -365,6 +365,7 @@
   "DELETE_PAD_SOURCE": "Delete PAD source",
   "AUDIO_SOURCES": "Audio sources",
   "ADD_AUDIO_SOURCE": "Add audio source",
+  "EDIT_AUDIO_SOURCE": "Edit audio source",
   "UPDATE_AUDIO_SOURCE": "Update audio source",
   "DELETE_AUDIO_SOURCE": "Delete audio source",
   "AUDIO_SOURCE_UPDATED": "Audio source updated",
