@@ -1423,6 +1423,8 @@
   "MSC_ITEMS": "MSC Items",
   "MSC_LAYOUTS": "MSC Layouts",
   "SAVED_AT": "Saved at",
+  "HAS_REMARKS": "{{remarks}} exist for this item",
+  "NO_REMARKS": "No remarks exist for this item",
   "ENC_REMARK_invalid-codec": "Invalid codec",
   "ENC_REMARK_codec-parameters": "Codec parameter",
   "ENC_REMARK_error-protection": "Error protection",
