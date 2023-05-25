@@ -1425,7 +1425,7 @@
   "SAVED_AT": "Saved at",
   "HAS_REMARKS": "{{remarks}} remarks exist for this item",
   "NO_REMARKS": "No remarks exist for this item",
-  "AFTER_APPLIED_BITRATE": "After applied bitrate",
+  "RESULTING_CU_SIZE": "Resulting CU size",
   "ENC_REMARK_invalid-codec": "Invalid codec",
   "ENC_REMARK_codec-parameters": "Codec parameter",
   "ENC_REMARK_error-protection": "Error protection",
