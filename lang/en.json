@@ -1431,6 +1431,7 @@
   "ENC_REMARK_error-protection": "Error protection",
   "ENCODER_PROFILES": "Encoder Profiles",
   "ENCODER_PROFILE_ALREADY_SAVED": "Encoder Profile already saved",
+  "ADD_ENCODER_PROFILE": "Add new encoder profile",
   "ENCODER": "Encoder",
   "_ENCODER": "encoder",
   "APPROX_TIME_TO_TRANSMIT": "Approximate time to transmit",
