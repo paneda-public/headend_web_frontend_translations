@@ -1426,6 +1426,8 @@
   "HAS_REMARKS": "{{remarks}} remarks exist for this item",
   "NO_REMARKS": "No remarks exist for this item",
   "RESULTING_CU_SIZE": "Resulting CU size",
+  "MSC_ITEM_ALREADY_SAVED": "MSC item already saved",
+  "ADD_MSC_ITEM": "Add new MSC item",
   "ENC_REMARK_invalid-codec": "Invalid codec",
   "ENC_REMARK_codec-parameters": "Codec parameter",
   "ENC_REMARK_error-protection": "Error protection",
