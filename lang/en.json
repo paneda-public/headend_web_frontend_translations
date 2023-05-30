@@ -1608,5 +1608,24 @@
   "PBS_IO_TRIGGER_AUDIO_SOURCE_SELECTION": "Select I/O trigger audio source",
   "PBS_IO_TRIGGER_AUDIO_SOURCE_CURRENT": "Current source",
   "PBS_IO_TRIGGER_OVERRIDE": "I/O trigger override",
-  "PBS_IO_TRIGGER_SOURCE": "I/O trigger audio source"
+  "PBS_IO_TRIGGER_SOURCE": "I/O trigger audio source",
+
+  "msc_item_remark_xpad-mismatch": "XPAD mismatch",
+  "msc_item_remark_application-not-found": "Application not found",
+  "msc_item_remark_application-not-supported": "Application not supported",
+  "msc_item_remark_application-conflict": "Application conflict",
+  "msc_item_remark_audio-source-not-found": "Audio source not found",
+  "msc_item_remark_audio-source-no-input": "Audio source has no input",
+  "msc_item_remark_audio-source-wrong-type": "Audio source wrong type",
+  "msc_item_remark_data-source-not-found": "Data source not found",
+  "msc_item_remark_data-source-wrong-type": "Data source wrong type",
+  "msc_item_remark_encoder-profile-not-found": "Encoder profile not found",
+  "msc_item_remark_invalid-service-reference": "Invalid service reference",
+  "msc_item_remark_label-not-signalled": "Label not signalled",
+  "msc_item_remark_text-length-exceeded": "Text length exceeded",
+  "msc_item_remark_unsupported-characters": "Unsupported characters",
+  "msc_item_remark_label-encoding": "Label encoding",
+  "msc_item_remark_label-empty": "Label empty",
+  "msc_item_remark_short-label-mismatch": "Short label mismatch",
+  "msc_item_remark_pmd-parameters": "PMD parameters"
 }
