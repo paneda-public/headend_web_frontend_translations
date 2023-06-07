@@ -1357,6 +1357,7 @@
   "PASTE_LICENSE_KEY_HERE": "Paste license key here",
   "INSTALL_LICENSE": "Install license",
   "ORGANIZATION": "Organization",
+  "MANUAL_DATA_CANNOT_BE_EDITED": "Manual data is readonly",
   "XPAD_TYPE": "X-PAD type",
   "SHARED_XPAD_CONTENT": "Shared X-PAD content",
   "NO_XPAD": "No X-PAD",
