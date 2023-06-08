@@ -250,6 +250,7 @@
   "STATUS_CHANNEL": "Statuschannel",
   "STATUS_CHANNELS": "Statuschannels",
   "CURRENT_CONFIGURATION": "Current configuration",
+  "NO_CURRENT_CONFIG": "The selected provider has no active configuration",
   "NAME": "Name",
   "SINCE": "Since",
   "_SINCE": "since",
