@@ -674,6 +674,7 @@
   "CU_OVERALLOCATED": "Capacity overallocated. Remove {{cu}} CU from contract",
   "CAPACITY": "Capacity",
   "SUBCHANNEL_IDS": "Subchannel Ids",
+  "PROGRAMME_SERVICE_REFERENCE": "Programme service reference",
   "PROGRAMME_SERVICE_REFERENCES": "Programme service references",
   "DATA_SERVICE_REFERENCES": "Data service references",
   "_HEX": "hex",
