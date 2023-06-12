@@ -699,6 +699,8 @@
   "H_ALARM_FLAG": "Control the AL-flag bit in FIG 0/0. See ETSI 300 401 for details.",
   "SET": "Set",
   "UNSET": "Unset",
+  "DYNAMIC": "Dynamic",
+  "STATIC": "Static",
   "AL_FLAG_SET_IN_ENSEMBLE": "Alarm support is specified on ensemble level",
   "FIG_O7_ENABLED": "FIG 0/7 usage",
   "H_FIG_O7_ENABLED": "Control the usage of FIG 0/7 (I.e. if ETSI 300 401 v2.1+ is enabled or not).",
