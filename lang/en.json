@@ -1437,6 +1437,8 @@
   "_H_SELECTED_MUX_DESC": "is selected as the base of the output",
   "MULTIPLEXER": "Multiplexer",
   "_MULTIPLEXER": "multiplexer",
+  "NO_COUNTRY_OVERRIDE": "No override",
+  "COUNTRY_OVERRIDE": "Override country",
   "DO_NOT_SIGNAL_LABEL": "No label signalled",
   "DO_NOT_SIGNAL_ANNOUCEMENT_SUPPORT": "No Announcement support",
   "SIGNAL_ANNOUCEMENT_SUPPORT": "Announcement support signalled",
