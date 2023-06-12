@@ -1438,6 +1438,8 @@
   "MULTIPLEXER": "Multiplexer",
   "_MULTIPLEXER": "multiplexer",
   "DO_NOT_SIGNAL_LABEL": "No label signalled",
+  "DO_NOT_SIGNAL_ANNOUCEMENT_SUPPORT": "No Announcement support",
+  "SIGNAL_ANNOUCEMENT_SUPPORT": "Announcement support signalled",
   "STANDARD_LABEL": "Standard label",
   "EXTENDED_LABEL": "Extended label",
   "SHORT_LABEL": "Short label",
