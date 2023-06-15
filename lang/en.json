@@ -383,6 +383,7 @@
   "PORT": "Port",
   "WIRE_FORMAT": "Wire format",
   "FIELD_REQUIRE_UNIQUE": "Field must be unique",
+  "INVALID_RANGE": "Invalid range. Each value must be betweeen [{{min}} .. {{max}}]",
   "INVALID_IPv4": "Invalid ipv4: ex 192.168.72.254",
   "INVALID_UNICAST": "Invalid: Address not in the unicast range",
   "INVALID_MULTICAST_ADDRESS": "Invalid multicast address: range should be 224.0.0.0 - 239.255.255.255",
