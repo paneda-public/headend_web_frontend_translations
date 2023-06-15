@@ -1663,5 +1663,6 @@
   "msc_item_remark_label-encoding": "Label encoding",
   "msc_item_remark_label-empty": "Label empty",
   "msc_item_remark_short-label-mismatch": "Short label mismatch",
-  "msc_item_remark_pmd-parameters": "PMD parameters"
+  "msc_item_remark_pmd-parameters": "PMD parameters",
+  "msc_item_remark_announcement-support": "Announcement support"
 }
