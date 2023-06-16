@@ -177,6 +177,7 @@
   "AUDIO_LEVELS": "Audio levels",
   "BUFFER_LEVELS": "Buffer levels",
   "LIVE_AUDIO_LEVELS": "Audio levels (live)",
+  "LEVEL_MONITOR_NOT_SUPPORTED": "Monitor not supported for this input",
   "LIVE_MUX_BUFFER_LEVELS": "Mux buffer levels (live)",
   "HISTORY_MUX_BUFFER_LEVELS": "Mux buffer levels (history)",
   "LAST_15_MINUTES_IN_MINUTES": "Last 15 minutes per minute",
