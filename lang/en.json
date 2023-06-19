@@ -1471,6 +1471,7 @@
   "SECONDARY_AUDIO": "Secondary Audio",
   "ALIASED_AUDIO": "Aliased Audio",
   "PMD_DATA": "PMD Data",
+  "GUI_EDITING_IS_NOT_IMPLEMENTED_USE_API": "GUI editing for {{type}} is not implemented, please use the API",
   "ENC_REMARK_invalid-codec": "Invalid codec",
   "ENC_REMARK_codec-parameters": "Codec parameter",
   "ENC_REMARK_error-protection": "Error protection",
