@@ -1474,6 +1474,7 @@
   "ENC_REMARK_invalid-codec": "Invalid codec",
   "ENC_REMARK_codec-parameters": "Codec parameter",
   "ENC_REMARK_error-protection": "Error protection",
+  "ENC_REMARK_unable-to-validate": "Unable to validate data against the server",
   "ENCODER_PROFILE": "Encoder Profile",
   "ENCODER_PROFILES": "Encoder Profiles",
   "ENCODER_PROFILE_ALREADY_SAVED": "Encoder Profile already saved",
@@ -1671,5 +1672,6 @@
   "msc_item_remark_short-label-mismatch": "Short label mismatch",
   "msc_item_remark_pmd-parameters": "PMD parameters",
   "msc_item_remark_announcement-support": "Announcement support",
-  "msc_item_remark_not-implemented": "Not implemented in this release"
+  "msc_item_remark_not-implemented": "Not implemented in this release",
+  "msc_item_remark_unable-to-validate": "Unable to validate data against the server"
 }
