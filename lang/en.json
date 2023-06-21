@@ -1475,6 +1475,7 @@
   "ENC_REMARK_invalid-codec": "Invalid codec",
   "ENC_REMARK_codec-parameters": "Codec parameter",
   "ENC_REMARK_error-protection": "Error protection",
+  "ENC_REMARK_unable-to-validate": "Unable to validate data against the server",
   "ENCODER_PROFILE": "Encoder Profile",
   "ENCODER_PROFILES": "Encoder Profiles",
   "ENCODER_PROFILE_ALREADY_SAVED": "Encoder Profile already saved",
@@ -1672,5 +1673,23 @@
   "msc_item_remark_short-label-mismatch": "Short label mismatch",
   "msc_item_remark_pmd-parameters": "PMD parameters",
   "msc_item_remark_announcement-support": "Announcement support",
-  "msc_item_remark_not-implemented": "Not implemented in this release"
+  "msc_item_remark_not-implemented": "Not implemented in this release",
+  "msc_item_remark_unable-to-validate": "Unable to validate data against the server",
+
+  "msc_layout_remark_msc-item-not-found": "Referenced MSC item not found",
+  "msc_layout_remark_duplicated-subchannel-id": "Duplicated subchannel ID found in layout",
+  "msc_layout_remark_duplicated-service-id": "Duplicated service ID found in layout",
+  "msc_layout_remark_duplicated-msc-item-reference": "Duplicated MSC item found in layout",
+  "msc_layout_remark_duplicated-label": "Duplicated label found in layout",
+  "msc_layout_remark_overbooked-capacity": "CU capacity overbooked",
+  "msc_layout_remark_invalid-manual-cu-assignment": "Invalid CU layout",
+  "msc_layout_remark_invalid-subchannel-id": "Invalid subchannel ID",
+  "msc_layout_remark_scids-exhausted": "Too many secondary components",
+  "msc_layout_remark_primary-service-component-not-found": "Missing primary service component",
+  "msc_layout_remark_fig-error": "FIG generation error",
+  "msc_layout_remark_remark-in-reference": "Referenced MSC item or encoder profile has remarks",
+  "msc_layout_remark_codec-limit-exceeded": "Codec limit exceeded",
+  "msc_layout_remark_audio-subchannel-limit-exceeded": "Audio subchannel limit exceeded",
+  "msc_layout_remark_data-application-limit-exceeded": "PMD application limit exceeded",
+  "msc_layout_remark_unable-to-validate": "Unable to validate data against the server"
 }
