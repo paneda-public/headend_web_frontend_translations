@@ -385,6 +385,7 @@
   "PORT": "Port",
   "WIRE_FORMAT": "Wire format",
   "ENCAPSULATED_PROTOCOL": "Encapsulated protocol",
+  "DATA_GROUP_DATA": "Datagroup data",
   "FIELD_REQUIRE_UNIQUE": "Field must be unique",
   "INVALID_RANGE": "Invalid range. Each value must follow the range [{{min}} .. {{max}}]",
   "INVALID_IPv4": "Invalid ipv4: ex 192.168.72.254",
