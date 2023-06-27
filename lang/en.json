@@ -1462,6 +1462,8 @@
   "FAILED_TO_UPDATE_MSC_LAYOUT": "Failed to update MSC Layout",
   "MSC_LAYOUTS": "MSC Layouts",
   "MSC_LAYOUT": "MSC Layout",
+  "MSC_LAYOUT_ACTIVATION_SUCCESSFULLY_INITIATED": "MSC Layout activation successfully initiated",
+  "MSC_LAYOUT_ACTIVATION_FAILED_TO_INITIATE": "MSC Layout activation failed",  
   "SAVED_AT": "Saved at",
   "MISSING_ITEM_ID": "Missing item",
   "FORM_UNSAVED": "Form have pending(unsaved) changes",
