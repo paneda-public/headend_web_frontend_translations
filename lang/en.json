@@ -1451,6 +1451,8 @@
   "SHORT_LABEL_HINT_TEXT": "Toggle the letters next to the mouse icon",
   "MSC_ITEMS": "MSC Items",
   "MSC_ITEM": "MSC Item",
+  "H_MSC_LAYOUT_EDIT": "Toggle editing of MSC Layouts",
+  "DRAG_DROP_MSC_ITEM_HERE": "Drag and drop MSC Item here",
   "ADD_MSC_LAYOUT": "Add new MSC Layout",
   "MSC_LAYOUT_ALREADY_SAVED": "MSC Layout already saved",
   "MSC_LAYOUT_SUCCESSFULLY_UPDATED": "MSC Layout successfully updated",
