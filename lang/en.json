@@ -1469,6 +1469,7 @@
   "SAVED_AT": "Saved at",
   "MISSING_ITEM_ID": "Missing item",
   "FORM_UNSAVED": "Form have pending(unsaved) changes",
+  "H_TOGGLE_HIGHLIGHT_REMARK": "Double click to toggle highlighting of items affected by this remark",
   "HAS_REMARKS": "{{remarks}} remarks exist for this item",
   "NO_REMARKS": "No remarks exist for this item",
   "RESULTING_CU_SIZE": "Resulting CU size",
