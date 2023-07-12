@@ -89,6 +89,7 @@
   "NO_SIGNALLING": "No signalling (FIG not sent)",
   "SIGNAL_LANGUAGE": "Include language",
   "AUDIO_SOURCE": "Audio source",
+  "AUDIO_SOURCE_ALREADY_SAVED": "Audio source already saved",
   "PAD_SOURCE": "Pad source",
   "SAMPLE_FREQ": "Sample frequency",
   "SAMPLE_FORMAT": "Sample format",
