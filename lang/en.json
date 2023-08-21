@@ -1703,7 +1703,7 @@
   "msc_layout_remark_invalid-subchannel-id": "Invalid subchannel ID",
   "msc_layout_remark_scids-exhausted": "Too many secondary components",
   "msc_layout_remark_primary-service-component-not-found": "Missing primary service component",
-  "msc_layout_remark_fig-error": "FIG generation error",
+  "msc_layout_remark_compiled-configuration": "Compiled configuration error",
   "msc_layout_remark_remark-in-reference": "Referenced MSC item or encoder profile has remarks",
   "msc_layout_remark_codec-limit-exceeded": "Codec limit exceeded",
   "msc_layout_remark_audio-subchannel-limit-exceeded": "Audio subchannel limit exceeded",
