@@ -331,6 +331,7 @@
   "DELETE_SCHEDULE": "Delete schedule",
   "SCHEDULE_NAME": "Schedule name",
   "CONFIGURATION_HISTORY": "Configuration history",
+  "USING_SECOND_OFFSET": "Using the following second offset",
   "LANGUAGE_SETTINGS": "Language settings",
   "LOCALE": "Locale",
   "INSTALL": "Install",
