@@ -389,6 +389,7 @@
   "ENCAPSULATED_PROTOCOL": "Encapsulated protocol",
   "DATA_GROUP_DATA": "Datagroup data",
   "FIELD_REQUIRE_UNIQUE": "Field must be unique",
+  "MIN_LENGTH": "Required length is {{length}} characters",
   "INVALID_RANGE": "Invalid range. Each value must follow the range [{{min}} .. {{max}}]",
   "INVALID_IPv4": "Invalid ipv4: ex 192.168.72.254",
   "INVALID_UNICAST": "Invalid: Address not in the unicast range",
