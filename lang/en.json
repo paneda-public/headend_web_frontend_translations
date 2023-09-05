@@ -1468,6 +1468,7 @@
   "STANDARD_LABEL": "Standard label",
   "EXTENDED_LABEL": "Extended label",
   "SHORT_LABEL": "Short label",
+  "LONG_LABEL": "Long label",
   "SHORT_LABEL_HINT_TEXT": "Toggle the letters next to the mouse icon",
   "ADD_PRIMARY": "Add primary",
   "ADD_SECONDARY": "Add secondary",
