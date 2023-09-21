@@ -1475,6 +1475,7 @@
   "MSC_ITEMS": "MSC Items",
   "MSC_ITEM": "MSC Item",
   "MSC_ITEM_TYPE": "MSC Item type",
+  "H_ENCODER_PROFILE_XPAD": "Note that the PAD allocation reduces the effective audio bitrate. This may also affect the valid codec combinations",
   "H_MSC_ITEM_SERVICE_ID": "Select the service ID of the service that this secondary component should be attached to.",
   "H_MSC_ITEM_INCLUDE_STANDARD_LABEL": "When using the extended label it is possible to include a standard label. Refer to your regional profile for recommended usage.",
   "H_MSC_ITEM_TYPE_PRIMARY": "Use this variant to create a single primary audio service",
