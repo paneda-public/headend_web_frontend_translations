@@ -1724,6 +1724,7 @@
   "msc_item_remark_announcement-support": "Announcement support",
   "msc_item_remark_not-implemented": "Not implemented in this release",
   "msc_item_remark_unable-to-validate": "Unable to validate data against the server",
+  "msc_item_remark_error-protection": "Error protection",
 
   "msc_layout_remark_msc-item-not-found": "Referenced MSC item not found",
   "msc_layout_remark_duplicated-subchannel-id": "Duplicated subchannel ID found in layout",
