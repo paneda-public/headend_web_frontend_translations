@@ -1474,6 +1474,8 @@
   "ENHANCED_PACKET_MODE": "Enhanced packet mode",
   "REMOVE_CURRENT_DEFINITION": "Remove current definition",
   "REMOVE_CURRENT_APPLICATION": "Remove current application",
+  "PRIMARY": "Primary",
+  "SECONDARY": "Secondary",
   "ADD_PRIMARY": "Add primary",
   "ADD_SECONDARY": "Add secondary",
   "SINGLE_APPLICATION_INPUT": "Single application input",
