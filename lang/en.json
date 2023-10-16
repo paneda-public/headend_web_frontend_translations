@@ -1527,6 +1527,7 @@
   "ENC_REMARK_codec-parameters": "Codec parameter",
   "ENC_REMARK_error-protection": "Error protection",
   "ENC_REMARK_unable-to-validate": "Unable to validate data against the server",
+  "ENCODER_SETTINGS": "Encoder settings",
   "ENCODER_PROFILE": "Encoder Profile",
   "ENCODER_PROFILES": "Encoder Profiles",
   "ENCODER_PROFILE_ALREADY_SAVED": "Encoder Profile already saved",
