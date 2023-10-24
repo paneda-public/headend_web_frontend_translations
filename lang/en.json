@@ -488,7 +488,7 @@
   "ADD_DATA_SOURCE": "Add data source",
   "DELETE_DATA_SOURCE": "Delete data source",
   "DATA_SOURCE_UPDATED": "Data source successfully updated",
-  "FAILED_TO_UPDATE_DATA_SOURCE": "Failed to update data surce",
+  "FAILED_TO_UPDATE_DATA_SOURCE": "Failed to update data source",
   "DATA_INPUTS": "Data inputs",
   "DATA_SOURCES": "Data sources",
   "UNICAST": "Unicast",
