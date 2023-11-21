@@ -319,6 +319,7 @@
   "NAMES": "Names",
   "SPI_ENSEMBLE_SUCCESSFULLY_UPDATED": "SPI ensemble successfully updated",
   "SPI_BUCKET_SI_CONTENT_SUCCESSFULLY_UPDATED": "SPI content successfully updated",
+  "SPI_SI_CONTENT_ALREADY_SAVED": "SPI content already saved",
   "SCHEDULE_ID": "Schedule ID",
   "MSC_LAYOUT_ID": "MSC layout ID",
   "ACTIVATION_TIME": "Activation time",
