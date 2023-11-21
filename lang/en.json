@@ -1004,6 +1004,7 @@
   "DLS_TARGET_SEND_INTERVAL": "Target send interval (seconds)",
   "TRANSPORT": "Transport",
   "T_REST_API": "Rest API",
+  "T_LEGACY_BINARY_SPI_API": "Legacy binary SPI API",
   "T_AUDIO_METADATA": "Audio metadata",
   "INPUT_DATA_TIMEOUT":"Input data timeout (seconds)",
   "EXPLICIT_VALUE": "Use explicit value",
