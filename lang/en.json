@@ -302,6 +302,7 @@
   "ENSEMBLE_ID_VALIDATION": "Must be 4 hex characters",
   "ENSEMBLE_ECC_VALIDATION": "Must be 2 hex characters",
   "REMOVE_CURRENT_LANGUAGE": "Remove current language",
+  "REMOVE_CURRENT_SERVICE": "Remove current service",
   "WIDTH": "Width",
   "HEIGHT": "Height",
   "HTTP_ASSETS": "HTTP assets",
