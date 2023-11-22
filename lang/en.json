@@ -320,7 +320,7 @@
   "PREFERRED": "Preferred ",
   "ALPHABET": "Alphabet",
   "PHONEME": "Phoneme",
-  "H_SPI_CONTENT_TAB_LOGO_HINT": "Note: In order distinguish services either the 32x32 or 112x32 logo will be displayed in the service tab",
+  "H_SPI_CONTENT_TAB_LOGO_HINT": "Note: In order to distinguish services either the 32x32 or 112x32 logo will be displayed in the service tab",
   "SPI_ENSEMBLE_SUCCESSFULLY_UPDATED": "SPI ensemble successfully updated",
   "SPI_BUCKET_SI_CONTENT_SUCCESSFULLY_UPDATED": "SPI content successfully updated",
   "SPI_SI_CONTENT_ALREADY_SAVED": "SPI content already saved",
