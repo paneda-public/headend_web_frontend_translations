@@ -315,6 +315,7 @@
   "H_LANGUAGE_CODE": "Specifies the language with optional country code. For more information about the available codes and format see ISO 639 (language code) and ISO 3166 (country code)",
   "SPI_ENSEMBLE": "SPI ensemble",
   "ADD_SPI_ENSEMBLE": "Add SPI ensemble",
+  "ADD_SERVICE": "Add service",
   "ADD_NAME": "Add name",
   "NAMES": "Names",
   "PREFERRED": "Preferred ",
