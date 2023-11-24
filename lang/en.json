@@ -316,7 +316,7 @@
   "INCLUDE_ADDITIONAL_MOT_PARAMETERS": "Include additional MOT parameters",
   "LANGUAGE_CODE_PATTERN": "Must follow the correct format. E.g. 'en', 'en-GB', 'sr-Latn-RS', etc.",
   "H_LANGUAGE_CODE": "Specifies the language with optional subtags, for example 'en' or 'en-GB'. For more information about the available codes and formats, see RFC 3066 (BCP 47) and ISO 639.",
-  "SPI_ENSEMBLE": "SPI ensemble",
+  "SPI_ENSEMBLES": "SPI ensembles",
   "ADD_SPI_ENSEMBLE": "Add SPI ensemble",
   "ADD_SERVICE": "Add service",
   "ADD_NAME": "Add name",
