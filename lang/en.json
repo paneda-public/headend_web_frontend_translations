@@ -1671,6 +1671,8 @@
   "WEIGHT": "Weight",
   "MOT_PARAMETERS": "MOT Parameters",
   "DATA": "Data",
+  "VIEW_AS": "View as",
+  "DECODED_TLV_TREE": "Decoded TLV tree",
   "H_SPI_SOURCE_HAS_NO_DATA": "The selected SPI source does not have any carousel data.",
   "H_SPI_SOURCE_HAS_ERROR": "The selected SPI source has an error in its carousel data.",
   "RESULTING_SPI_CAROUSEL_DATA": "Resulting SPI carousel data",
