@@ -800,6 +800,7 @@
   "DEJITTER_BUFFER_DELAY": "Dejitter buffer delay",
   "_MILLISECONDS": "milliseconds",
   "_SECONDS": "seconds",
+  "_BYTES": "bytes",
   "AUTO_REFRESH": "Auto refresh",
   "DEFAULT_MUX_BUFFER_SIZE": "Default mux buffer size (ETI frames (24ms))",
   "LABEL_TOO_LONG": "The label \"{{label}}\" requires {{bytes}} bytes to be encoded in {{encoding}}. 16 bytes are max.",
