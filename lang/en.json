@@ -1681,6 +1681,8 @@
   "H_SPI_SOURCE_HAS_NO_DATA": "The selected SPI source does not have any carousel data.",
   "H_SPI_SOURCE_HAS_ERROR": "The selected SPI source has an error in its carousel data.",
   "RESULTING_SPI_CAROUSEL_DATA": "Resulting SPI carousel data",
+  "TOTAL_CAROUSEL_SIZE": "Total carousel size",
+  "NUM_CAROUSEL_OBJECTS": "Num Carousel objects",
   "DEFAULT_LANGUAGE": "Default language",
   "DIRECTORY_OBJECT_INCLUSION_MULTIPLIER": "Directory object inclusion multiplier",
   "SPI_BUCKETS": "SPI Buckets",
