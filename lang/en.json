@@ -646,6 +646,7 @@
   "USE_SF_SWITCHING": "If possible. Do the switchover on a superframe boundary",
   "USE_SF_SWITCHING_SHORT": "Switch on superframe",
   "SWITCH_DEPTH": "Switch depth",
+  "SWITCH_INPUT_CONSTRAINT": "Exactly one switch input must use 127.0.0.1 as host",
   "MILLISECONDS": "milliseconds",
   "SWITCH_INPUT_ADDRESS": "Switch input address",
   "ADD_SWITCH_INPUT": "Add switch input",
