@@ -854,7 +854,6 @@
   "PROXY_CONNECTION_DELETED": "Proxy connection deleted",
   "TWO_FACTOR_MUST_BE_ENABLED_FOR_THIS_FEATURE": "Two factor authentication must be enabled to use this feature",
   "FORM_INVALID": "The form is invalid. Please fill out all fields according to the instructions.",
-  "FORM_INVALID_ALL_STARS": "The form is invalid. Please fill out all required fields marked with a *",
   "OPEN_CONNECTION": "Open the connection",
   "CONFIRM_PASSWORD": "Confirm password",
   "AUTHORIZED_USERS": "Authorized users",
