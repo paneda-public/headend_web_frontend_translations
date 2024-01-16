@@ -1487,6 +1487,8 @@
   "PFT_SOURCE_MANUAL": "Manual source address",
   "H_PFT_SOURCE_MANUAL": "Manually specify the source address",
   "BROADCAST_ADDR": "Broadcast address",
+  "USE_MNSC": "Use MNSC signalling",
+  "H_USE_MNSC": "Enable to use MNSC (rfu bit = 0) signalling in EDI. Leave disabled unless MNSC messages are defined.",
   "_DECIMAL": "decimal",
   "CRON_STRING": "Cron string",
   "RESULTING_CRON_STRING": "Resulting cron string",
