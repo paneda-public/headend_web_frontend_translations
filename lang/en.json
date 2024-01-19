@@ -1550,6 +1550,8 @@
   "SINGLE_APPLICATION_INPUT": "Single application input",
   "PRE_ENCODED_SUBCHANNEL_INPUT": "Pre-encoded subchannel input",
   "APPLICATION_SEND_WEIGHT": "Application send weight",
+  "USE_DG_CRC": "Use datagroup CRC",
+  "H_USE_DG_CRC": "The use of datagroup CRC is mandatory in version 2 of the DAB standard. This setting is only available to support compatibility with legacy transmissions",
   "MSC_ITEMS": "MSC Items",
   "MSC_ITEM": "MSC Item",
   "MSC_ITEM_TYPE": "MSC Item type",
