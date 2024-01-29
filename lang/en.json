@@ -945,6 +945,7 @@
   "SIGNAL_OUTPUT_STATUS": "Output status",
   "SIGNAL_INPUT_STATE": "Input state",
   "DOWNLOAD_MIB_FILE": "Download the SNMP MIB file",
+  "OPEN_MIB_FILE": "Open the SNMP MIB file",
   "SELECT_LINE_ENDINGS": "Select line endings",
   "MINIMUM_STABLE_TIME_BEFORE_TRAP_CLEAR": "The minimum time that must pass before an error trap is cleared",
   "MINIMUM_TIME_BEFORE_OK": "Minimum time before OK",
