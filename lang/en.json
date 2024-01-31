@@ -1523,6 +1523,7 @@
   "ENABLE_SWITCH": "Enable switch (this action cannot be undone)",
   "REQUIRE_CLUSTER_IN_LICENSE": "This feature reuires a license file with a minimum redundant cluster size of two.",
   "TOO_MANY_SWITCH_INPUTS": "You cannot add more switch inputs than the max cluster size in the license file.",
+  "TOO_MANY_SWITCH_INPUTS_HARDCODED": "The switch is limited to max three inputs (from a total of two peers)",
   "SUPPRESS_SEND_IF_MUTED": "When the system is muted (maintenance mode/startup), suppress EDI output.",
   "H_SUPPRESS_SEND_IF_MUTED": "During maintenance mode and system startup the data is internally marked as 'muted'. You can select to ignore this for the EDI output, or to suppress the sending of EDI data until the data becomes 'unmuted' (recommended).",
   "CLICK_HIDE_DETAILS": "Click to hide details",
