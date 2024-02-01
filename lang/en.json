@@ -469,6 +469,7 @@
   "H_ANNOUNCEMENT_CLUSTER": "The announcement cluster(s) or group(s) that can interrupt this service",
   "ANNOUNCEMENT_CLUSTER(s)": "Announcement cluster(s)",
   "ANNOUNCEMENT_CLUSTER": "Announcement cluster",
+  "CLUSTER": "Cluster",
   "H_ANNOUNCEMENT_TYPE": "The type(s) of announcements that can interrupt this service. The alarm type is always activated.",
   "ANNOUNCEMENT_TYPE(s)": "Announcement type(s)",
   "ANNOUNCEMENT_TYPE": "Announcement type",
