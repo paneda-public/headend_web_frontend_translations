@@ -476,6 +476,7 @@
   "ANNOUNCEMENT": "Announcement",
   "ANNOUNCEMENT_DEFINITION": "Announcement definition",
   "ANNOUNCEMENT_DEFINITION_SUCCESSFULLY_CREATED": "Announcement definition successfully created",
+  "ANNOUNCEMENT_DEFINITION_SUCCESSFULLY_UPDATED": "Announcement definition successfully updated",
   "ANNOUNCEMENT_STATE_SUCCESSFULLY_UPDATED": "Announcement state successfully updated",
   "ANNOUNCEMENT_DEFINITION_DELETED": "Announcement definition deleted",
   "START_ANNOUNCEMENT": "Start announcement",
