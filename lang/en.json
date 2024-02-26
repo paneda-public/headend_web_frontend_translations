@@ -1731,6 +1731,8 @@
   "SELECTED_BUCKETS": "Selected SPI Buckets",
   "AVAILABLE_BUCKETS": "Available SPI Buckets",
   "SPI_BUCKET_SI_CONTENT": "SPI Bucket content",
+  "SPI_SI_API": "SPI SI API",
+  "SPI_SI_GUI": "SPI SI GUI",
   "DELETE_CONTENT_FOR": "Delete content for",
   "BEARERS": "Bearers",
   "BEARERS_URI_VALIDATION": "Should match 'dab:<gcc>.<eid>.<sid>.<scids>'",
