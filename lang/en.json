@@ -1847,6 +1847,8 @@
   "msc_item_remark_error-protection": "Error protection",
 
   "msc_layout_remark_msc-item-not-found": "Referenced MSC item not found",
+  "msc_layout_remark_encoder-profile-not-found": "Referenced encoder profile not found",
+  "msc_layout_remark_invalid-override": "Specified override is not valid",
   "msc_layout_remark_duplicated-subchannel-id": "Duplicated subchannel ID found in layout",
   "msc_layout_remark_duplicated-service-id": "Duplicated service ID found in layout",
   "msc_layout_remark_duplicated-msc-item-reference": "Duplicated MSC item found in layout",
