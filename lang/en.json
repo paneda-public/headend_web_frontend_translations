@@ -586,6 +586,7 @@
   "AUTOMATICALLY_CLOSES": "Automatically closes",
   "ACTIVE_TUNNELS": "Active tunnels",
   "LAUNCH_AT": "Launch at",
+  "REMOTE_POOL_ID": "Pool ID",
   "LOCAL_ENCODER_POOL": "Local encoder pool",
   "ADD_ENCODER_POOL": "Add encoder pool",
   "ENCODER_POOLS": "Encoder pools",
