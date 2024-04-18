@@ -835,6 +835,7 @@
   "_AND_MORE": "and {{x}} more",
   "WHEN": "When",
   "BY": "By",
+  "_INPUTS_INHIBITED": "input(s) inhibited",
   "CLICK_TO_VIEW_CHANGES": "Click to view changes",
   "NO_CHANGES": "No changes",
   "HIDE_UNCHANGED": "Hide unchanged",
