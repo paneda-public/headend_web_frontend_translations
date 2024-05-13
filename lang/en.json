@@ -277,6 +277,7 @@
   "H_STATUS_CHANNELS_PAD_FRESHNESS": "Indicates that PAD data has been updated within the specified time period.",
   "H_STATUS_CHANNELS_PAD_DLS_OVERRIDE_FRESHNESS": "Indicates that the override data for DLS has been updated within the specified timeout period.",
   "H_STATUS_CHANNELS_PAD_SLS_OVERRIDE_FRESHNESS": "Indicates that the override data for SLS has been updated within the specified timeout period.",
+  "H_STATUS_CHANNELS_OVERRIDE_FRESHNESS": "Indicates that the override data for the application has been updated within the specified timeout period.",
   "H_STATUS_CHANNELS_PAD_DLS_ENCODER": "Indicates that the DLS encoder is producing data.",
   "H_STATUS_CHANNELS_PAD_SLS_ENCODER": "Indicates that the SLS encoder is producing data.",
   "AUDIO_SERVICES": "Audio services",
