@@ -316,7 +316,7 @@
   "HTTP_ASSETS": "HTTP assets",
   "SYSTEM": "System",
   "VIA": "Via",
-  "TOKEN": "Token",
+  "TOKEN_ID": "Token ID",
   "REMOTE_IP": "Remote IP",
   "RESOURCE": "Resource",
   "REQUEST_BODY": "Request body",
