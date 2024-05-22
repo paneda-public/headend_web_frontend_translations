@@ -320,6 +320,7 @@
   "REMOTE_IP": "Remote IP",
   "RESOURCE": "Resource",
   "REQUEST_BODY": "Request body",
+  "FULL_BODY": "Full body",
   "DISPLAY_REQUEST_LOG": "Display request log",
   "DISPLAY_AUTH_LOG": "Display auth log",
   "METHOD": "Method",
