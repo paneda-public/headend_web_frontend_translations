@@ -328,7 +328,7 @@
   "REQUEST_BODY": "Request body",
   "FULL_BODY": "Full body",
   "EXPANDED_PATH": "Expanded path",
-  "DISABLED_DETAIL_BUTTON": "Details cannot be viewed for successfull login/logouts",
+  "DISABLED_DETAIL_BUTTON": "Details are not available for successfull logins/logouts",
   "REASON": "Reason",
   "OUTCOME": "Outcome",
   "DISPLAY_REQUEST_LOG": "Display request log",
