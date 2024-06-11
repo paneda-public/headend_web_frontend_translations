@@ -323,6 +323,8 @@
   "LOGIN_LOGOUT": "Login/Logout",
   "USERNAME": "Username",
   "TOKEN_ID": "Token ID",
+  "DOWNLOAD_AUTH_LOG": "Download auth log",
+  "DOWNLOAD_REQUEST_LOG": "Download request log",
   "REMOTE_IP": "Remote IP",
   "RESOURCE": "Resource",
   "REQUEST_BODY": "Request body",
