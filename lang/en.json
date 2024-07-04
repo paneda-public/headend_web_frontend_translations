@@ -282,6 +282,7 @@
   "H_STATUS_CHANNELS_PAD_SLS_ENCODER": "Indicates that the SLS encoder is producing data.",
   "H_STATUS_CHANNELS_TRANSPORT": "Indicates that data is correctly received over the selected transport and wireformat.",
   "H_STATUS_CHANNELS_ENCAPSULATED_PROTOCOL": "Indicates that the received data has the correct protocol and that the requested data stream is found.",
+  "H_STATUS_CHANNELS_EXTRACTED_CONTENT": "Indicates that the extracted data stream contains valid content of the expected type",
   "AUDIO_SERVICES": "Audio services",
   "ALARM": "Alarm",
   "OK": "Ok",
