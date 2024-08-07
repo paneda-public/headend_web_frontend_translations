@@ -23,6 +23,7 @@
   "COPY_CONFIG": "Copy configuration",
   "COPY_FROM": "Copy from",
   "COPY_POSTFIX": "{{text}}(Copy)",
+  "COPY": "Copy",
   "TO": "To",
   "DELETE": "Delete",
   "DELETE_CONFIG": "Delete configuration",
