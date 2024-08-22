@@ -1758,7 +1758,7 @@
   "ORIGINAL_VALUE": "This control has pending (unsaved) changes. Original (saved) value is",
   "paneda-cm-list-item-mode-new": "Item is new (pending save)",
   "paneda-cm-list-item-mode-deleted": "Item is deleted (pending save)",
-  "UNDO_DELETE": "Undo delte operation",
+  "UNDO_DELETE": "Undo delete operation",
   "ENCODED_IN": "Encoded in",
   "UNDO": "Undo",
   "READ_ONLY_IN_DOCKER": "Read-only when system is deployed in docker",
