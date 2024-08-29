@@ -869,6 +869,7 @@
   "ENCODING": "Encoding",
   "DEFAULT_CHARACTER_ENCODING": "Default character encoding",
   "DLS_ENCODING": "DLS character encoding",
+  "TAG_NAME_TO_USE": "Tag name to use",
   "ADVANCED_SETTINGS": "Advanced settings",
   "ANVANCED_SETTINGS_SAVED": "Advanced settings saved",
   "FAILED_TO_SAVE_ADVANCED_SETTINGS": "Failed to save advanced settings",
