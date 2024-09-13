@@ -586,6 +586,7 @@
   "H_STATUS_HAS_EPG_DATA": "Indicates that ready to transmit EPG data exist",
   "H_STATUS_CHANNELS_SUBCHANNEL_CAPACITY": "Indicates that all received data fit into the subchannel",
   "ADD_DATA_SOURCE": "Add data source",
+  "COPY_DATA_SOURCE": "Copy data source",
   "DELETE_DATA_SOURCE": "Delete data source",
   "DATA_SOURCE_UPDATED": "Data source successfully updated",
   "FAILED_TO_UPDATE_DATA_SOURCE": "Failed to update data source",
