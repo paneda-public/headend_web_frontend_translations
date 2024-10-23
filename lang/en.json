@@ -1822,6 +1822,7 @@
   "ANNOUNCEMENT_API": "Announcement API",
   "MNSC_API": "MNSC API",
   "SPI_SI_GUI": "SPI SI GUI",
+  "EWS_API": "EWS API",
   "DELETE_CONTENT_FOR": "Delete content for",
   "BEARERS": "Bearers",
   "BEARERS_URI_VALIDATION": "Should match 'dab:<gcc>.<eid>.<sid>.<scids>'",
