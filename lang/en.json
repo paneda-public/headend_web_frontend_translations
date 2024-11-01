@@ -1868,6 +1868,8 @@
   "ESTIMATED_DRIFT_AFTER_COMP": "Estimated drift after compensation",
   "ACCUMULATED_DRIFT_AFTER_COMP": "Accumulated drift after compensation",
   "COUNTERS": "Counters",
+  "TS_DIFF_DIST": "TS diff (ms)",
+  "H_TS_DIFF_DIST": "The timestamp difference between two received packets classified into a number of buckets. Useful to understand the jitter distribution. Note: Only buckets with at least one packet in them are displayed.",
   "ACTIVE_AUDIO_INPUTS": "Active audio inputs",
   "CLEAR_STATS": "Clear statistics",
   "H_CLEAR_STATS": "Clear all counters. This will allow you to see changes from now on only. Cannot be undone.",
