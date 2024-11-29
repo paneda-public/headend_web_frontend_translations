@@ -195,6 +195,7 @@
   "LOGS": "Logs",
   "H_IMAGE_DIMENSION_HINT": "Note: The SLS images are not shown in their true size in the table view",
   "DLS_SLS_SEND_LOG": "SLS/DLS send log",
+  "PENDING_SLS_IMAGE": "Pending SLS image",
   "SENT_DGS": "Sent datagroups",
   "CONTENT": "Content",
   "TOTAL_DG_SIZE": "Total datagroup size",
