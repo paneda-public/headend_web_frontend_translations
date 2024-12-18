@@ -371,6 +371,8 @@
   "PATH_PARAMETERS": "Path parameters",
   "QUERY_PARAMETERS": "Query parameters",
   "PROVIDER": "Provider",
+  "PROVIDER_ID_NOT_FOUND": "Provider ID not found",
+  "PROVIDER_NAME_NOT_SET": "Provider name not set",
   "AUTHENTICATION": "Authentication",
   "RESPONSE": "Response",
   "EXECUTION_TIME": "Execution time",
