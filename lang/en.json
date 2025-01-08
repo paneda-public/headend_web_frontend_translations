@@ -951,6 +951,8 @@
   "SYSTEM_LOCATION": "System location",
   "SYSTEM_CONTACT": "System contact",
   "TRAP_HOST": "Trap host",
+  "TRAP_SPACING_MS": "Trap spacing",
+  "H_TRAP_SPACING_MS": "Adds this number of milliseconds between each sent trap",
   "NON_EMPTY_FIELD": "This field cannot be empty",
   "ADD_TRAP_HOST": "Add trap host",
   "HOST": "Host",
