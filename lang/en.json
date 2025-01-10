@@ -952,7 +952,7 @@
   "SYSTEM_CONTACT": "System contact",
   "TRAP_HOST": "Trap host",
   "TRAP_SPACING_MS": "Trap spacing",
-  "H_TRAP_SPACING_MS": "Adds this number of milliseconds between each sent trap. Set to 0 to disable (sending traps as fast as possible).",
+  "H_TRAP_SPACING_MS": "Adds this number of milliseconds between each sent trap. Set to 0 to disable (sending traps as fast as possible). Leave empty to use the default value.",
   "NON_EMPTY_FIELD": "This field cannot be empty",
   "ADD_TRAP_HOST": "Add trap host",
   "HOST": "Host",
