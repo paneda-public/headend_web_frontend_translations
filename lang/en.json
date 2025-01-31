@@ -1661,7 +1661,7 @@
   "INCIDENT": "Incident",
   "LOCATION": "Location",
   "STAGE": "Stage",
-  "SECOND_COUNT": "Second count",
+  "SECONDS_COUNT": "Seconds count",
   "TRIGGER_PHASE_DURATION": "Trigger phase duration",
   "EWS_INCIDENT_UPDATED": "EWS incident successfully updated",
   "EWS_INCIDENT_CREATED": "EWS incident successfully created",
