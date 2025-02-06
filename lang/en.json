@@ -1928,6 +1928,7 @@
   "ACCUMULATED_INPUT_DRIFT": "Accumulated input drift",
   "ESTIMATED_DRIFT_AFTER_COMP": "Estimated drift after compensation",
   "ACCUMULATED_DRIFT_AFTER_COMP": "Accumulated drift after compensation",
+  "AGGREGATED_STATS": "Aggregated statistics",
   "COUNTERS": "Counters",
   "TS_DIFF_DIST": "TS diff (ms)",
   "H_TS_DIFF_DIST": "The timestamp difference between two received packets classified into a number of buckets, where the lower limit is included in the bucket and the upper limit is excluded. Useful to understand the jitter distribution. Note: Only buckets with at least one packet in them are displayed.",
