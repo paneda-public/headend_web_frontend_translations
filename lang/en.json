@@ -337,6 +337,7 @@
   "BROWSE_FILE": "Browse file",
   "DRAG_AND_DROP_IMAGE_HERE_OR_PRESS_TO_SELECT": "Drag and drop image here or press to select.",
   "INCLUSION_MULTIPLIER": "Inclusion multiplier",
+  "BASIC_SI_FILE_INCLUSION_MULTIPLIER": "Basic SI file inclusion multiplier",
   "ENSEMBLE_ID_VALIDATION": "Must be 4 hex characters",
   "ENSEMBLE_REFERENCE_VALIDATION": "Must be 3 hex characters",
   "ENSEMBLE_ECC_VALIDATION": "Must be 2 hex characters",
