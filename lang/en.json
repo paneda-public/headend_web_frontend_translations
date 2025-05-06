@@ -1716,6 +1716,8 @@
   "EXTENDED_LABEL": "Extended label",
   "SHORT_LABEL": "Short label",
   "LONG_LABEL": "Long label",
+  "LONG": "Long",
+  "SHORT": "Short",
   "SHORT_LABEL_HINT_TEXT": "Toggle the letters next to the mouse icon",
   "ENHANCED_PACKET_MODE": "Enhanced packet mode",
   "REMOVE_CURRENT_DEFINITION": "Remove current definition",
