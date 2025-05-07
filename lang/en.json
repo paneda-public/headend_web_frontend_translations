@@ -687,6 +687,7 @@
   "APPKEEPER_ENDPOINT": "Appkeeper endpoint",
   "MUX_DATA_ENDPOINT": "Mux data endpoint",
   "LOGGA_BROKER_ENDPOINT": "Log data endpoint",
+  "AUDIO_PHY_TYPE": "Audio phy type",
   "AUTO_GENERATE": "Auto generate",
   "DEVICES": "Devices",
   "INFO": "Info",
