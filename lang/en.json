@@ -1930,6 +1930,8 @@
   "WAVE_PINK_NOISE": "Pink noise",
   "WAVE_WHITE_NOISE": "White noise",
   "GST_PIPELINE": "Gstreamer pipeline",
+  "AUDIO_PHY": "Physical interface",
+  "PRESELECTED_FROM_REMOTE_ENC": "Device is automatically selected from the remote encoder pool",
   "MUX_ENTITY_NAME": "Mux name",
   "MUX_ENTITY_ID": "Mux ID",
   "AUDIO_INPUT_STATS": "Audio input statistics",
