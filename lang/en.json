@@ -1930,6 +1930,8 @@
   "WAVE_PINK_NOISE": "Pink noise",
   "WAVE_WHITE_NOISE": "White noise",
   "GST_PIPELINE": "Gstreamer pipeline",
+  "AUDIO_PHY": "Physical interface",
+  "PRESELECTED_FROM_REMOTE_ENC": "Device is automatically selected from the remote encoder pool",
   "MUX_ENTITY_NAME": "Mux name",
   "MUX_ENTITY_ID": "Mux ID",
   "AUDIO_INPUT_STATS": "Audio input statistics",
@@ -2015,6 +2017,10 @@
   "PBS_IO_TRIGGER_AUDIO_SOURCE_CURRENT": "Current source",
   "PBS_IO_TRIGGER_OVERRIDE": "I/O trigger override",
   "PBS_IO_TRIGGER_SOURCE": "I/O trigger audio source",
+
+  "device_none": "None",
+  "device_paneda-6ch-dab-enc": "Paneda 6 channel DAB encoder",
+  "device_paneda-16ch-dab-enc": "Paneda 16 channel DAB encoder",
 
   "msc_item_remark_xpad-mismatch": "XPAD mismatch",
   "msc_item_remark_application-not-found": "Application not found",
