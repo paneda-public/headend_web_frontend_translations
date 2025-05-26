@@ -2024,6 +2024,8 @@
   "device_paneda-6ch-dab-enc": "Paneda 6 channel DAB encoder",
   "device_paneda-16ch-dab-enc": "Paneda 16 channel DAB encoder",
 
+  "msc_item_remark_audio-source-incompatible-transport": "Audio source incompatible transport",
+  "msc_item_remark_encoder-pool-not-found": "Encoder pool not found",
   "msc_item_remark_xpad-mismatch": "XPAD mismatch",
   "msc_item_remark_application-not-found": "Application not found",
   "msc_item_remark_application-not-supported": "Application not supported",
