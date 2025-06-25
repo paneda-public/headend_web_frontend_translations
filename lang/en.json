@@ -126,6 +126,7 @@
   "NOW": "now",
   "CONTRACT_CONFIG": "Contract configuration",
   "ENSEMBLE_CONFIG": "Ensemble configuration",
+  "ENSEMBLE_SETTINGS_MISSING": "Missing ensemble settings",
   "INPUT_SOURCES_CONFIG": "Input sources",
   "READ_ONLY": "Read only",
   "EDITABLE": "Editable",
