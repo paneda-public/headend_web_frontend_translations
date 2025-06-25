@@ -573,7 +573,7 @@
   "FAILED_TO_STOP_ANNOUNCEMENT": "Failed to stop announcement",
   "NO_ACTIVE_ANNOUNCEMENT": "No active announcement",
   "ANNOUNCEMENT_TTL_PATTERN": "Must be ≥10s or set to 0 to disable TTL handling",
-  "H_ANNOUNCEMENT_TTL": "The time to live (TTL) for the announcement in seconds.\n\nIf set to 0, the TTL handling is disabled.\nIf left blank, the system default is used.\n\nThe purpose of this is to provide a fail safe mechanism to prevent the announcement from staying active indefinitely.\n\nIt is still highly recommended to stop the announcement manually when it is no longer needed.",
+  "H_ANNOUNCEMENT_TTL": "The time to live (TTL) for the announcement in seconds.\n\nIf set to 0, the TTL handling is disabled.\nIf left blank, the system default is used.\n\nThe purpose of this is to provide a fail safe mechanism to prevent the announcement from staying active indefinitely.\n\nIt is still highly recommended to stop the announcement manually when it is no longer needed.\n\nNote: the TTL is applied after the start delay. I.e. the TTL is applied from the time that the FIG signalling actually starts. Not from when the API call is made.",
   "REDUNDANCY_CLUSTER": "Redundancy cluster",
   "USE_TIST": "Use TIST",
   "ENABLED": "Enabled",
