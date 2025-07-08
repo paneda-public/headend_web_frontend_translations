@@ -476,6 +476,7 @@
   "DLS_UPDATED": "DLS updated",
   "FAILED_TO_UPDATE_DLS": "Failed to update DLS",
   "UPLOAD_NEW_IMAGES": "Upload new image(s)",
+  "REPLACE_EXISTING_IMAGE": "Replace existing image",
   "DRAG_DROP_OR_PASTE_IMAGES_HERE": "Drag and drop or paste images here to upload",
   "DRAG_DROP_OR_PASTE_AUDIO_HERE": "Drag and drop or paste audio file here to upload",
   "DRAG_AND_DROP_IMAGES_NOT_SUPPORTED": "Drag and drop images not supported. Please use a modern browser",
