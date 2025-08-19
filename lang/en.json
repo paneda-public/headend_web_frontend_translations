@@ -1919,6 +1919,7 @@
   "SPI_SI_API": "SPI SI API",
   "TELEMETRY_API": "Telemetry API",
   "ORCHESTRATION_API": "Orchestration API",
+  "CONFIGURATION_ATTEMPT_FAILED": "Configuration attempt failed",
   "SERVICE_CONFIGURATION_API": "Service Configuration API",
   "SERVICE_FOLLOWING_API": "Service following API",
   "ANNOUNCEMENT_API": "Announcement API",
