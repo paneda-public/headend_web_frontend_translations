@@ -1780,7 +1780,7 @@
   "H_REMARK_TAB_INDEXES": "Index of the tab holding the application and/or definition that were responsible for generating the remark",
   "H_TOGGLE_HIGHLIGHT_REMARK": "Double click to toggle highlighting of items affected by this remark",
   "H_TOGGLE_TAB_REMARK": "Double click to navigate to the tab containing the item responsible for generating the remark",
-  "HAS_REMARKS": "{{remarks}} critical or notice remarks exist for this item",
+  "HAS_REMARKS": "{{critical}} critical and {{notice}} notice remarks exist for this item",
   "NO_REMARKS": "No critical or notice remarks exist for this item",
   "RESULTING_CU_SIZE": "Resulting CU size",
   "MSC_ITEM_ALREADY_SAVED": "MSC item already saved",
