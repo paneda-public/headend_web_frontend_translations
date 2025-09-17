@@ -681,6 +681,7 @@
   "AUTOMATICALLY_CLOSES": "Automatically closes",
   "ACTIVE_TUNNELS": "Active tunnels",
   "LAUNCH_AT": "Launch at",
+  "AUDIO_FILE_ENTITY": "Audio file entity",
   "AUDIO_FILE_ENTITIES": "Audio file entities",
   "ADD_AUDIO_FILE_ENTITY": "Add Audio file entity",
   "SAVE_AUDIO_FILE_ENTITY": "Save audio file entity",
