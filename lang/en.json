@@ -339,6 +339,7 @@
   "H_STATE_announcement-worker": "Indicates that the backend is monitoring active announcements for their expiration date.",
   "H_STATE_metadata-to-dls-worker": "Indicates that any webstream supplied metadata successfully could be converted to DLS format.",
   "H_STATE_dyn-fig-worker": "Indicates that the mux process is kept up to date with the configured dynamic FIGs.",
+  "H_STATE_startup-tasks": "Indicates that all startup tasks have been completed.",
   "CONFLICTING_OCCURRENCE": "Conflicting occurrence",
   "MEDIUM_NAME": "Medium name",
   "SHORT_NAME": "Short name",
