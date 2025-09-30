@@ -1620,6 +1620,7 @@
   "SHARED_XPAD_CONTENT": "Shared X-PAD content",
   "INDIVIDUAL_XPAD_CONTENT": "Individual X-PAD content",
   "NO_XPAD": "No X-PAD",
+  "CARRY_XPAD": "Carry X-PAD content",
   "SHORT_XPAD": "Short X-PAD",
   "VAR_XPAD": "Variable X-PAD",
   "PERFORMANCE": "Performance monitor",
