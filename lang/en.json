@@ -1294,6 +1294,8 @@
   "FAILED_TO_SAVE_LICENSE": "Failed to save license file",
   "LICENSE_CONFIG": "License",
   "LICENSE_LIMITS": "License limits",
+  "LICENSE_KEYS_MISMATCH": "The new license keys do not match the currently installed license",
+  "LICENSE_KEYS_MATCH": "License keys match",
   "MAX_NUM_AUDIO_SERVICES": "Max audio services",
   "MAX_NUM_DATA_SERVICES": "Max data services",
   "MAX_NUM_FHG_CODECS": "Max Fraunhofer AAC codecs",
