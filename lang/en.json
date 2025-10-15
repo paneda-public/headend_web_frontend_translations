@@ -984,6 +984,7 @@
   "SERVICE_LABEL_NEXT": "Service label in NEXT configuration",
   "SNMP_SETTINGS_SAVED": "SNMP settings saved",
   "ENABLE_SNMP_GET": "SNMP GET requests",
+  "TRAPS": "Traps",
   "H_ENABLE_SNMP_GET": "When enabled, the SNMP agent will respond to SNMP GET requests. Traps will still be sent if this option is disabled.",
   "FAILED_TO_SAVE_SNMP_SETTINGS": "Failed to save SNMP settings",
   "SNMP_SETTINGS": "SNMP settings",
