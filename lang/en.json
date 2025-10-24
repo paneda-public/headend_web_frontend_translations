@@ -271,7 +271,7 @@
   "ALLOWED_IP_WHITELIST": "Allowed IP whitelist",
   "H_ALLOWED_IP_WHITELIST_SRT": "List of allowed IP addresses and subnets in CIDR notation that are allowed to connect to the listener.\n\nIf the list is empty then no client is allowed to connect.\n\nSpecify 0.0.0.0/0 to allow all clients to connect.\n\nSpecify a single host by using /32 suffix.\n\nSpecifying a more narrow whitelist than previously configured will not result in already connected clients to be disconnected.",
   "H_RECOMMENDED_FEC_LEVEL": "The recommended error correction is <strong>Level 1</strong>",
-  "INVALID_IPV4_CIDR": "Specify one or more IPv4 addresses or subnets in CIDR notation.",
+  "INVALID_IPV4_CIDR_LIST": "Specify one or more IPv4 addresses or subnets in CIDR notation. Bad format for: ",
   "NO_FEC": "No error correction",
   "FEC_LEVEL_1": "Error correction level 1",
   "FEC_LEVEL_2": "Error correction level 2",
