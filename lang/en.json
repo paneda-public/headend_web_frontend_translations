@@ -1969,6 +1969,7 @@
   "SPI_SI_GUI": "SPI SI GUI",
   "EWS_API": "ASA/EWS API",
   "EWS_OE_API": "ASA/EWS Other ensemble API",
+  "EDI_SRT_OUTPUT_API": "EDI-SRT output API",
   "DELETE_CONTENT_FOR": "Delete content for",
   "BEARERS": "Bearers",
   "BEARERS_URI_VALIDATION": "Should match 'dab:<gcc>.<eid>.<sid>.<scids>'",
