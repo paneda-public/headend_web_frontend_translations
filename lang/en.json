@@ -1145,6 +1145,7 @@
   "BROADCAST_BACKUP_PAD": "Start broadcasting backup PAD",
   "AFTER": "After",
   "_THEN": "then",
+  "SLS_IMAGE": "Slideshow image(s)",
   "CURRENT_SLS": "Current slideshow image(s)",
   "BACKUP_SLS": "Backup slideshow image(s)",
   "SLIDESHOW": "Slideshow",
