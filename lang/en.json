@@ -1484,6 +1484,8 @@
   "desc_stream_degraded": "The input stream is degraded",
   "SWITCHBACK_HYSTERESIS": "Input Hysteresis (s)",
   "H_SWITCHBACK_HYSTERESIS": "Time in seconds that a failed input must be OK before we switch back to it",
+  "FIB_SHARING_WITH_FIG07_SPACING": "FIB sharing with FIG 0/7 spacing",
+  "H_FIB_SHARING_WITH_FIG07_SPACING": "Determines how often each individual FIG instance can be placed into the FIB that also carries FIG 0/7. -1 means never, 0 means no restriction, n means at least n FIB placements between shared occurrences.",
   "CLICK_TOGGLE_ERROR": "Click to toggle visibility of {{errorCount}} remarks",
   "NEW_ENC_REVISION": "Force new encoder next reconfiguration",
   "NEW_ENC_REVISION_SUCCESS": "New encoder successfully forced",
