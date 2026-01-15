@@ -929,6 +929,8 @@
   "DYNAMIC": "Dynamic",
   "STATIC": "Static",
   "EWS_ENABLED": "Enable ASA/EWS",
+  "EWS_IS_DISABLED": "ASA/EWS is disabled",
+  "EWS_IS_DISABLED_HELP": "Enable EWS in <a href={{href}}>ensemble settings</a> in order to start incidents.",
   "H_EWS_ENABLED_FLAG": "Controls the usage of FIG 0/15. See ETSI TS 104 089 for details",
   "AL_FLAG_SET_IN_ENSEMBLE": "Alarm support is specified on ensemble level",
   "FIG_O7_RECOMMENDED": "Note: It is recommended to use the FIG 0/7.",
