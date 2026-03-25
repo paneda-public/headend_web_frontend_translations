@@ -981,7 +981,7 @@
   "H_INDIVIDUAL_REBUFFER_LEVEL_MAX": "The maximum input buffer level for this specific input. Specified in ETI frames (24ms per frame). If the buffer level exceeds this level, it will trigger a rebuffering event.",
   "USE_INDIVIDUAL_BUFFER_LEVELS": "Use individual buffer levels",
   "H_USE_INDIVIDUAL_BUFFER_LEVELS": "Override the pool default buffer levels for this specific input.",
-  "USE_POOL_DEFAULT_VALUE": "Leave blank to use pool default value",
+
   "ETI_FRAME_TIME_UNIT": "ETI frames (24ms per frame)",
   "LABEL_TOO_LONG": "The label \"{{label}}\" requires {{bytes}} bytes to be encoded in {{encoding}}. 16 bytes are max.",
   "ENCODING": "Encoding",
