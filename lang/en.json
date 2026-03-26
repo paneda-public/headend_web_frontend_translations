@@ -976,9 +976,9 @@
   "INDIVIDUAL_BUFFER_LEVEL": "Input buffer level (ETI frames (24ms))",
   "REBUFFER_LEVEL_MIN": "Minimum buffer level (ETI frames (24ms))",
   "REBUFFER_LEVEL_MAX": "Maximum buffer level (ETI frames (24ms))",
-  "H_INDIVIDUAL_BUFFER_LEVEL": "The target input buffer level for this specific input. Specified in ETI frames (24ms per frame).",
-  "H_INDIVIDUAL_REBUFFER_LEVEL_MIN": "The minimum input buffer level for this specific input. Specified in ETI frames (24ms per frame). If the buffer level drops below this level, it will trigger a rebuffering event.",
-  "H_INDIVIDUAL_REBUFFER_LEVEL_MAX": "The maximum input buffer level for this specific input. Specified in ETI frames (24ms per frame). If the buffer level exceeds this level, it will trigger a rebuffering event.",
+  "H_MUX_BUFFER_LEVEL_TOOLTIP": "The target buffer level. Specified in ETI frames (24ms per frame).",
+  "H_REBUFFER_LEVEL_MIN_TOOLTIP": "The minimum buffer level. Specified in ETI frames (24ms per frame). Maximum value is the target buffer level - 10. If the buffer level goes below this level, it will trigger a rebuffering event.",
+  "H_REBUFFER_LEVEL_MAX_TOOLTIP": "The maximum buffer level. Specified in ETI frames (24ms per frame). Minimum value is the target buffer level + 10. If the buffer level exceeds this level, it will trigger a rebuffering event.",
   "USE_INDIVIDUAL_BUFFER_LEVELS": "Use individual buffer levels",
   "H_USE_INDIVIDUAL_BUFFER_LEVELS": "Override the pool default buffer levels for this specific input.",
 
