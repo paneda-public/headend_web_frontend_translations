@@ -2140,6 +2140,7 @@
 
   "device_none": "None",
   "device_paneda-6ch-dab-enc": "Paneda 6 channel DAB encoder",
+  "device_paneda-8ch-dab-enc": "Paneda 8 channel DAB encoder",
   "device_paneda-16ch-dab-enc": "Paneda 16 channel DAB encoder",
 
   "msc_item_remark_audio-source-incompatible-transport": "Audio source incompatible transport",
