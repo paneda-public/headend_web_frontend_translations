@@ -250,7 +250,7 @@
   "FAILED_UPDATE_IP": "Failed to update IP settings",
   "INTERFACE": "Interface",
   "INTERFACE_ALIASES": "Interface aliases",
-  "H_INTERFACE_ALIASES": "Define aliases for the network interfaces used by this remote encoder pool. Later, select these aliases when setting bind interfaces in input sources to reduce the need of changing alot of inputs when the remote pool network configuration changes.",
+  "H_INTERFACE_ALIASES": "Define aliases for the network interfaces used by this remote encoder pool. Use these aliases when selecting bind interfaces for input sources to minimize the need for updating multiple inputs if the remote pool network configuration changes.",
   "STATIC_IP_ADDRESS": "Static ip address",
   "NETMASK": "Netmask",
   "REQUIRED_FIELD": "Required field",
