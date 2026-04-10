@@ -237,6 +237,7 @@
   "VALUE": "Value",
   "UNIT": "Unit",
   "NTP_SETTINGS": "NTP settings",
+  "NTP": "NTP",
   "IP_SETTINGS": "IP settings",
   "NETWORK_CONFIGURATION": "Network configuration",
   "NTP_SERVER": "NTP server",
