@@ -250,6 +250,7 @@
   "SUCCESS_UPDATE_IP": "Successfully updated IP settings",
   "FAILED_UPDATE_IP": "Failed to update IP settings",
   "INTERFACE": "Interface",
+  "INTERFACE_ALIAS": "Interface alias",
   "INTERFACE_ALIASES": "Interface aliases",
   "H_INTERFACE_ALIASES": "Define aliases for the network interfaces used by this remote encoder pool. Use these aliases when selecting bind interfaces for input sources to minimize the need for updating multiple inputs if the remote pool network configuration changes.",
   "STATIC_IP_ADDRESS": "Static ip address",
