@@ -732,6 +732,7 @@
   "REMOTE_ENCODER_POOLS": "Remote encoder pools",
   "VERSION": "Version",
   "LEGACY": "Legacy",
+  "DEPRECATED": "Deprecated",
   "LEGACY_REMOTE_ENCODER_POOL_V1": "Legacy remote encoder pool (V1)",
   "REMOTE_ENCODER_POOL_ALREADY_SAVED": "Remote encoder pool already saved",
   "REMOTE_ENCODER_POOL_ORCHESTRATION_HINT": "This ID is used when orchestrating remote encoder pool containers",
