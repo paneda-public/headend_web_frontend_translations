@@ -740,6 +740,7 @@
   "REMOTE_ENCODER_POOL_ORCHESTRATION_HINT": "This ID is used when orchestrating remote encoder pool containers",
   "COPY_ENCODER_POOL_ID": "Copy encoder pool ID",
   "LOCAL_ENCODER_POOL": "Local encoder pool",
+  "REMOTE_ENCODER_POOL": "Remote encoder pool",
   "ADD_ENCODER_POOL": "Add encoder pool",
   "ENCODER_POOLS": "Encoder pools",
   "ENCODER_POOL_UPDATED": "Encoder pool updated",
