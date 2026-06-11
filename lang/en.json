@@ -323,6 +323,7 @@
   "H_STATUS_CHANNELS_PREFERRED_SUBCH_INPUT_SELECTED": "Indicates that the multiplexer is using the preferred input for the subchannel",
   "H_STATUS_CHANNELS_REDUNDANCY_SELECTOR": "Indicates that the subchannel can use all redundant inputs without restrictions",
   "H_STATUS_CHANNELS_ENCODER_LAUNCER": "Indicates that the encoder launcher in the encoder pool is working.",
+  "H_STATUS_CHANNELS_APPS_MEMORY": "Indicates that the application memory allocation for this input is OK.",
   "H_STATUS_CHANNELS_PAD": "Indicates that PAD data is produced for the service.",
   "H_STATUS_CHANNELS_PAD_FRESHNESS": "Indicates that PAD data has been updated within the specified time period.",
   "H_STATUS_CHANNELS_PAD_DLS_OVERRIDE_FRESHNESS": "Indicates that the override data for DLS has been updated within the specified timeout period.",
