@@ -1503,6 +1503,8 @@
   "SET_ERR_IF_PATCHED": "Set outgoing ERR field to level 1 if one or more subchannels are patched",
   "SET_ERR_IF_NON_PREFERRED": "Set outgoing ERR field to level 1 if the output is not based on the preferred one",
   "QI_DESC": "Description",
+  "name_emergency_break_in": "Emergency break-in",
+  "desc_emergency_break_in": "Emergency break-in audio is inserted into the subchannel.",
   "name_muted": "Output is muted",
   "desc_muted": "The subchannel is muted. For example during startup or maintenance",
   "name_no_data": "No data",
