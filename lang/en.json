@@ -2028,6 +2028,7 @@
   "CONFIGURATION": "Configuration",
   "DELETE_CONFIGURATION": "Delete configuration",
   "TRIGGERED_AT": "Triggered at",
+  "ALLOW_ACTION": "Allow actions",
   "EMERGENCY_BREAK_IN_TRIGGER": "Trigger control",
   "EMERGENCY_BREAK_IN_API": "Emergency break-in API",
   "EMERGENCY_BREAK_IN": "Emergency Break-In",
