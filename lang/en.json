@@ -2029,6 +2029,7 @@
   "DELETE_CONFIGURATION": "Delete configuration",
   "TRIGGERED_AT": "Triggered at",
   "ALLOW_ACTION": "Allow actions",
+  "EMERGENCY_BREAK_IN_ACTIVE": "Emergency Break-In is active. Subchannels content is being replaced by the configured emergency break-in content.",
   "EMERGENCY_BREAK_IN_TRIGGER": "Trigger control",
   "EMERGENCY_BREAK_IN_API": "Emergency break-in API",
   "EMERGENCY_BREAK_IN": "Emergency Break-In",
