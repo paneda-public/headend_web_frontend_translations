@@ -1362,6 +1362,7 @@
   "MAX_NUM_CT_MP2_CODECS": "Max Dolby (CT) MP2 codecs",
   "MAX_NUM_REDUNDANT_SOURCES": "Max number of redundant sources",
   "MAX_NUM_CLUSTER_MEMBERS": "Max number of cluster members",
+  "MAX_EMERGENCY_VARIANTS": "Max emergency encoder variants",
   "EDI_RECORDINGS": "ETI recordings",
   "TOO_MANY_AUDIO_SERVICES": "Too many audio services in the contract. Found {{found}}. Allowed in license is: {{max}}",
   "TOO_MANY_DATA_SERVICES": "Too many data services in the contract. Found {{found}}. Allowed in license is: {{max}}",
