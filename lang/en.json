@@ -220,6 +220,7 @@
   "WAITING_FOR_BUFFER_LEVEL_DATA": "Waiting for buffer level readings from the mux...",
   "BUFFER_LEVEL_STREAM_ERROR": "Lost the connection to the buffer level stream. Reconnecting...",
   "NEXT_CONFIGURATION": "next",
+  "SUBCHANNELS": "Subchannels",
   "LAST_15_MINUTES_IN_MINUTES": "Last 15 minutes per minute",
   "LAST_DAY_IN_QUARTERS": "Last day per 15 minutes",
   "LAST_14_DAYS_IN_HOURS": "Last 14 days per hour",
