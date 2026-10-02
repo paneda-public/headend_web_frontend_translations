@@ -375,7 +375,6 @@
   "NO_DATA_SERVICES_FOUND_IN_CONFIGURATION": "V konfiguraci nebyly nalezeny žádné datové služby",
   "H_STATUS_CHANNELS_DATA_INPUT": "Označuje, že na vstupním zdroji jsou přijata nesprávná data.",
   "H_STATUS_CHANNELS_DATA_GROUP_ENCODER": "Označuje, že kodér datové skupiny vytváří datové skupiny.",
-  "H_STATUS_CHANNELS_PMD_SUBCHANNEL_ENCODER": "Označuje, že kodér pro paketový režim vytváří data pro subkanál",
   "ADD_DATA_SOURCE": "Přidat zdroj dat",
   "DELETE_DATA_SOURCE": "Smazat zdroj dat",
   "DATA_SOURCE_UPDATED": "Zdroj dat byl úspěšně aktualizován",

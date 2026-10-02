@@ -376,7 +376,6 @@
   "NO_DATA_SERVICES_FOUND_IN_CONFIGURATION": "Нет данных услуг найдено в конфигурации",
   "H_STATUS_CHANNELS_DATA_INPUT": "Указывает, что необработанные данные, полученные у источника входного сигнала.",
   "H_STATUS_CHANNELS_DATA_GROUP_ENCODER": "Указывает, что группа данных кодер производит группы данных.",
-  "H_STATUS_CHANNELS_PMD_SUBCHANNEL_ENCODER": "Указывает, что кодер пакетный режим получения данных для подканала",
   "ADD_DATA_SOURCE": "Добавить источник данных",
   "DELETE_DATA_SOURCE": "Удалить источник данных",
   "DATA_SOURCE_UPDATED": "Источник данных успешно обновлена",

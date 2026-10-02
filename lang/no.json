@@ -430,7 +430,6 @@
   "NO_DATA_SERVICES_FOUND_IN_CONFIGURATION": "Ingen datatjenester funnet i konfigurasjonen",
   "H_STATUS_CHANNELS_DATA_INPUT": "Indikerer at rå data er mottatt ved inngangskilden.",
   "H_STATUS_CHANNELS_DATA_GROUP_ENCODER": "Indikerer at datakonsollgiveren produserer datagrupper.",
-  "H_STATUS_CHANNELS_PMD_SUBCHANNEL_ENCODER": "Indikerer at pakkemodusgiveren produserer data for underkanalen",
   "H_STATUS_HAS_EPG_DATA": "Angir at det er klart til å overføre EPG-data",
   "H_STATUS_CHANNELS_SUBCHANNEL_CAPACITY": "Indikerer at alle mottatte data passer inn i underkanalen",
   "ADD_DATA_SOURCE": "Legg til datakilde",

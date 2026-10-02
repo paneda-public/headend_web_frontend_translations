@@ -374,7 +374,6 @@
   "NO_DATA_SERVICES_FOUND_IN_CONFIGURATION": "在配置中找不到数据服务",
   "H_STATUS_CHANNELS_DATA_INPUT": "表示的原始数据设置在输入源接收。",
   "H_STATUS_CHANNELS_DATA_GROUP_ENCODER": "指示数据组编码器产生的数据组。",
-  "H_STATUS_CHANNELS_PMD_SUBCHANNEL_ENCODER": "表示分组式编码器的子信道生产数据",
   "ADD_DATA_SOURCE": "添加数据源",
   "DELETE_DATA_SOURCE": "删除数据源",
   "DATA_SOURCE_UPDATED": "数据源更新成功",

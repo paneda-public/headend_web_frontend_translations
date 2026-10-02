@@ -1002,7 +1002,6 @@
   "H_REBUFFER_LEVEL_MAX_TOOLTIP": "The maximum buffer level. Specified in ETI frames (24ms per frame). Minimum value is the target buffer level + 10. If the buffer level exceeds this level, it will trigger a rebuffering event.",
   "USE_INDIVIDUAL_BUFFER_LEVELS": "Use individual buffer levels",
   "H_USE_INDIVIDUAL_BUFFER_LEVELS": "Override the pool default buffer levels for this specific input.",
-
   "ETI_FRAME_TIME_UNIT": "ETI frames (24ms per frame)",
   "LABEL_TOO_LONG": "The label \"{{label}}\" requires {{bytes}} bytes to be encoded in {{encoding}}. 16 bytes are max.",
   "ENCODING": "Encoding",
@@ -2214,12 +2213,10 @@
   "PBS_IO_TRIGGER_AUDIO_SOURCE_CURRENT": "Current source",
   "PBS_IO_TRIGGER_OVERRIDE": "I/O trigger override",
   "PBS_IO_TRIGGER_SOURCE": "I/O trigger audio source",
-
   "device_none": "None",
   "device_paneda-6ch-dab-enc": "Paneda 6 channel DAB encoder",
   "device_paneda-8ch-dab-enc": "Paneda 8 channel DAB encoder",
   "device_paneda-16ch-dab-enc": "Paneda 16 channel DAB encoder",
-
   "msc_item_remark_audio-source-incompatible-transport": "Audio source incompatible transport",
   "msc_item_remark_encoder-pool-not-found": "Encoder pool not found",
   "msc_item_remark_xpad-mismatch": "XPAD mismatch",
@@ -2244,7 +2241,6 @@
   "msc_item_remark_not-implemented": "Not implemented in this release",
   "msc_item_remark_unable-to-validate": "Unable to validate data against the server",
   "msc_item_remark_error-protection": "Error protection",
-
   "msc_layout_remark_msc-item-not-found": "Referenced MSC item not found",
   "msc_layout_remark_encoder-profile-not-found": "Referenced encoder profile not found",
   "msc_layout_remark_invalid-override": "Specified override is not valid",

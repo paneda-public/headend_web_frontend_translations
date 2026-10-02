@@ -418,7 +418,6 @@
   "NO_DATA_SERVICES_FOUND_IN_CONFIGURATION": "Inga datatjänster finns i konfigurationen",
   "H_STATUS_CHANNELS_DATA_INPUT": "Indikerar att rådata är mottagen vid ingångskällan.",
   "H_STATUS_CHANNELS_DATA_GROUP_ENCODER": "Indikerar att datagruppkodaren producerar datagrupper.",
-  "H_STATUS_CHANNELS_PMD_SUBCHANNEL_ENCODER": "Indikerar att paketlägesomkodaren producerar data för subkanalen",
   "H_STATUS_HAS_EPG_DATA": "Indikerar att redo för sändning EPG data finns.",
   "H_STATUS_CHANNELS_SUBCHANNEL_CAPACITY": "Indikerar att all mottagen data får plats i subkanalen",
   "ADD_DATA_SOURCE": "Lägg till datakälla",

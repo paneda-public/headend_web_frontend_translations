@@ -430,7 +430,6 @@
   "NO_DATA_SERVICES_FOUND_IN_CONFIGURATION": "Configurazione dei servizi",
   "H_STATUS_CHANNELS_DATA_INPUT": "Indica che i dati grezzi vengono ricevuti alla fonte di input.",
   "H_STATUS_CHANNELS_DATA_GROUP_ENCODER": "Indica che l'encoder del gruppo di dati produce gruppi di dati.",
-  "H_STATUS_CHANNELS_PMD_SUBCHANNEL_ENCODER": "Indica che l'encoder del modo pacchetto sta producendo dati per il subchannel",
   "H_STATUS_HAS_EPG_DATA": "Indicates that ready to transmit EPG data exist",
   "H_STATUS_CHANNELS_SUBCHANNEL_CAPACITY": "Indica che tutti i dati ricevuti si inseriscono nel sottocanale",
   "ADD_DATA_SOURCE": "Aggiungi origine dati",

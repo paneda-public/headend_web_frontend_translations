@@ -430,7 +430,6 @@
   "NO_DATA_SERVICES_FOUND_IN_CONFIGURATION": "Aucun service de données trouvé dans la configuration",
   "H_STATUS_CHANNELS_DATA_INPUT": "Indique que les données brutes sont reçues à la source d'entrée.",
   "H_STATUS_CHANNELS_DATA_GROUP_ENCODER": "Indique que l'encodeur de groupe de données produit des groupes de données.",
-  "H_STATUS_CHANNELS_PMD_SUBCHANNEL_ENCODER": "Indique que le codeur en mode paquet produit des données pour le sous-canal",
   "H_STATUS_HAS_EPG_DATA": "Indique qu'il existe des données EPG prêtes à transmettre.",
   "H_STATUS_CHANNELS_SUBCHANNEL_CAPACITY": "Indique que toutes les données reçues entrent dans le sous-canal",
   "ADD_DATA_SOURCE": "Ajouter une source de données",

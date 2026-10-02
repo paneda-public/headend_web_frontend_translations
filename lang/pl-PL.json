@@ -408,7 +408,6 @@
   "NO_DATA_SERVICES_FOUND_IN_CONFIGURATION": "Nie znaleziono usług danych w konfiguracji",
   "H_STATUS_CHANNELS_DATA_INPUT": "Wskazuje, że surowe dane są odbierane w źródle wejściowym.",
   "H_STATUS_CHANNELS_DATA_GROUP_ENCODER": "Wskazuje, że koder grupy danych tworzy grupy danych.",
-  "H_STATUS_CHANNELS_PMD_SUBCHANNEL_ENCODER": "Wskazuje, że koder trybu pakietowego tworzy dane dla podkanału",
   "H_STATUS_HAS_EPG_DATA": "Wskazuje, że istnieją gotowe do przesłania dane EPG",
   "H_STATUS_CHANNELS_SUBCHANNEL_CAPACITY": "Wskazuje, że wszystkie odebrane dane pasują do podkanału",
   "ADD_DATA_SOURCE": "Dodaj źródło danych",
