@@ -420,7 +420,6 @@
   "NO_DATA_SERVICES_FOUND_IN_CONFIGURATION": "Không tìm thấy dịch vụ dữ liệu trong cấu hình",
   "H_STATUS_CHANNELS_DATA_INPUT": "Cho biết dữ liệu thô được nhận tại nguồn đầu vào.",
   "H_STATUS_CHANNELS_DATA_GROUP_ENCODER": "Chỉ ra rằng bộ mã hóa nhóm dữ liệu đang tạo ra các nhóm dữ liệu.",
-  "H_STATUS_CHANNELS_PMD_SUBCHANNEL_ENCODER": "Cho biết bộ mã hóa chế độ gói đang tạo dữ liệu cho kênh con",
   "H_STATUS_HAS_EPG_DATA": "Cho biết đã sẵn sàng để truyền dữ liệu EPG tồn tại",
   "H_STATUS_CHANNELS_SUBCHANNEL_CAPACITY": "Cho biết rằng tất cả dữ liệu nhận được phù hợp với kênh con",
   "ADD_DATA_SOURCE": "Thêm nguồn dữ liệu",
